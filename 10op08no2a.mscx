@@ -12282,7 +12282,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="155">
+      <Measure number="155" len="3/8">
         <Harmony>
           <name>I]\\</name>
           </Harmony>
@@ -12322,9 +12322,6 @@
             <tpc>13</tpc>
             </Note>
           </Chord>
-        <Rest>
-          <durationType>eighth</durationType>
-          </Rest>
         <BarLine>
           <subtype>end</subtype>
           <span>1</span>
@@ -19685,7 +19682,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="155">
+      <Measure number="155" len="3/8">
         <Chord>
           <durationType>16th</durationType>
           <StemDirection>up</StemDirection>
@@ -19726,9 +19723,6 @@
             <tpc>13</tpc>
             </Note>
           </Chord>
-        <Rest>
-          <durationType>eighth</durationType>
-          </Rest>
         <BarLine>
           <subtype>end</subtype>
           <span>1</span>
