@@ -186,6 +186,7 @@
           </Tempo>
         <Harmony>
           <name>.C.I</name>
+          <pos x="-0.0988064" y="-5.59284"/>
           </Harmony>
         <Slur id="2">
           <track>0</track>
