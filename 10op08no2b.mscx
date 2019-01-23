@@ -2122,6 +2122,9 @@
           </Chord>
         </Measure>
       <Measure number="28">
+        <Harmony>
+          <name>IV6</name>
+          </Harmony>
         <Chord>
           <dots>1</dots>
           <durationType>eighth</durationType>
@@ -2473,7 +2476,7 @@
         </Measure>
       <Measure number="32">
         <Harmony>
-          <name>viio6/V-vi</name>
+          <name>IV6-vi</name>
           </Harmony>
         <Rest>
           <durationType>32nd</durationType>
