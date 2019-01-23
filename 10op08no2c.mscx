@@ -11417,7 +11417,8 @@
           <name>I</name>
           </Harmony>
         <Chord>
-          <durationType>quarter</durationType>
+          <dots>1</dots>
+          <durationType>eighth</durationType>
           <StemDirection>down</StemDirection>
           <Note>
             <pitch>69</pitch>
@@ -11430,9 +11431,20 @@
           </Chord>
         <tick>97440</tick>
         <Harmony>
-          <name>V(+6)]</name>
+          <name>V7]</name>
           </Harmony>
-        <tick>97680</tick>
+        <tick>97560</tick>
+        <Chord>
+          <durationType>16th</durationType>
+          <Note>
+            <pitch>70</pitch>
+            <tpc>12</tpc>
+            </Note>
+          <Note>
+            <pitch>82</pitch>
+            <tpc>12</tpc>
+            </Note>
+          </Chord>
         <Harmony>
           <name>I6</name>
           </Harmony>
@@ -13435,16 +13447,77 @@
           <name>V7</name>
           </Harmony>
         <Rest>
-          <durationType>quarter</durationType>
+          <durationType>32nd</durationType>
           </Rest>
+        <Chord>
+          <durationType>32nd</durationType>
+          <StemDirection>down</StemDirection>
+          <Note>
+            <pitch>70</pitch>
+            <tpc>12</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>32nd</durationType>
+          <StemDirection>down</StemDirection>
+          <Note>
+            <pitch>79</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>32nd</durationType>
+          <StemDirection>down</StemDirection>
+          <Note>
+            <pitch>77</pitch>
+            <tpc>13</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>32nd</durationType>
+          <StemDirection>down</StemDirection>
+          <Note>
+            <pitch>76</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>32nd</durationType>
+          <StemDirection>down</StemDirection>
+          <Note>
+            <pitch>74</pitch>
+            <tpc>16</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>32nd</durationType>
+          <StemDirection>down</StemDirection>
+          <Note>
+            <pitch>72</pitch>
+            <tpc>14</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>32nd</durationType>
+          <StemDirection>down</StemDirection>
+          <Note>
+            <pitch>70</pitch>
+            <tpc>12</tpc>
+            </Note>
+          </Chord>
         </Measure>
       <Measure number="123">
         <Harmony>
           <name>I</name>
           </Harmony>
-        <Rest>
+        <Chord>
           <durationType>eighth</durationType>
-          </Rest>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
         <Harmony>
           <name>vi</name>
           </Harmony>
@@ -23288,23 +23361,86 @@
             <tpc>14</tpc>
             </Note>
           </Chord>
-        <Rest>
+        <Chord>
           <durationType>32nd</durationType>
-          </Rest>
-        <Rest>
-          <durationType>16th</durationType>
-          </Rest>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>48</pitch>
+            <tpc>14</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>32nd</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>50</pitch>
+            <tpc>16</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>32nd</durationType>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>52</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>32nd</durationType>
+          <StemDirection>down</StemDirection>
+          <Note>
+            <pitch>53</pitch>
+            <tpc>13</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>32nd</durationType>
+          <StemDirection>down</StemDirection>
+          <Note>
+            <pitch>55</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>32nd</durationType>
+          <StemDirection>down</StemDirection>
+          <Note>
+            <pitch>57</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>32nd</durationType>
+          <StemDirection>down</StemDirection>
+          <Note>
+            <Accidental>
+              <subtype>natural</subtype>
+              </Accidental>
+            <pitch>59</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <StemDirection>down</StemDirection>
+          <Note>
+            <pitch>60</pitch>
+            <tpc>14</tpc>
+            </Note>
+          </Chord>
         <Rest>
           <durationType>eighth</durationType>
-          </Rest>
-        <Rest>
-          <durationType>quarter</durationType>
           </Rest>
         </Measure>
       <Measure number="123">
-        <Rest>
+        <Chord>
           <durationType>eighth</durationType>
-          </Rest>
+          <StemDirection>up</StemDirection>
+          <Note>
+            <pitch>41</pitch>
+            <tpc>13</tpc>
+            </Note>
+          </Chord>
         <Chord>
           <durationType>eighth</durationType>
           <StemDirection>up</StemDirection>
