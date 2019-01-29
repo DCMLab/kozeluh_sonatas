@@ -223,10 +223,7 @@
           <text><font size="10.2202"></font><font face="Times New Roman"></font>Kozeluch</text>
           </Text>
         <Text>
-          <style>Title</style>
-          <text><font size="9.3565"></font><font face="Times New Roman"></font>Copyright © 2005 Daniel Bernhardsson</text>
-          </Text>
-        <Text>
+          <pos x="0.144028" y="0.403748"/>
           <style>Subtitle</style>
           <xoffset>0</xoffset>
           <yoffset>2.76316</yoffset>
@@ -253,6 +250,7 @@
           </Tempo>
         <Harmony>
           <name>.C.I[I</name>
+          <pos x="0" y="-4.43208"/>
           </Harmony>
         <Rest>
           <durationType>16th</durationType>
