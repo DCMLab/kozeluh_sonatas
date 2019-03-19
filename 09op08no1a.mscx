@@ -5206,7 +5206,7 @@
             </Note>
           </Chord>
         <Harmony>
-          <name>I</name>
+          <name>I64</name>
           </Harmony>
         <Chord>
           <durationType>eighth</durationType>
@@ -5358,7 +5358,7 @@
             </Note>
           </Chord>
         <Harmony>
-          <name>I]</name>
+          <name>I6]</name>
           </Harmony>
         <Chord>
           <durationType>eighth</durationType>
@@ -5800,6 +5800,10 @@
           </Harmony>
         <Slur id="8">
           <track>0</track>
+          <SlurSegment no="0">
+            <o2 x="-0.493914" y="-1.48174"/>
+            <o3 x="-0.493914" y="-1.48174"/>
+            </SlurSegment>
           </Slur>
         <Chord>
           <durationType>eighth</durationType>
