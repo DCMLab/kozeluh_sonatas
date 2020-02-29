@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="2.06">
   <programVersion>2.3.2</programVersion>
-  <programRevision>4592407</programRevision>
+  <programRevision>3543170</programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
@@ -3567,7 +3567,7 @@
           </Harmony>
         <tick>38640</tick>
         <Harmony>
-          <name>.Ger6</name>
+          <name>.Ger6]</name>
           </Harmony>
         <Chord>
           <durationType>eighth</durationType>
