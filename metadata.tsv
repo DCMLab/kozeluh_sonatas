@@ -1,7 +1,7 @@
 path	filename	extension	md5	label_count	KeySig	TimeSig	composer	copyright	musescore	workTitle	composed_start	composed_end	annotator
 ./09op08no1a.mscx	09op08no1a	.mscx	45c40f83637acef9a8b4ec862a4ec1ed	272		6/8	Kozeluch	Copyright © 2005 Daniel Bernhardsson	2.3.2	Sonata in C, Op 8 No 1	1780	1806	Adrian Nagel
 ./09op08no1b.mscx	09op08no1b	.mscx	e123d5387472f93487320f1dfeaa41d7	149		2/4	Kozeluch	Copyright © 2005 Daniel Bernhardsson	2.3.2	Sonata in C, Op 8 No 1	1780	1806	Adrian Nagel
-./10op08no2a.mscx	10op08no2a	.mscx	e0a7a43b3876271d2493aae0eb9e0334	350	-1	2/4	Kozeluch	Copyright © 2005 Daniel Bernhardsson	2.3.2	Sonata in F, Op 8 No 3	1780	1806	Adrian Nagel
+./10op08no2a.mscx	10op08no2a	.mscx	154e8ae770df7e3de66030a8dcfbe478	350	-1	2/4	Kozeluch	Copyright © 2005 Daniel Bernhardsson	2.3.2	Sonata in F, Op 8 No 3	1780	1806	Adrian Nagel
 ./10op08no2b.mscx	10op08no2b	.mscx	7e3f4f9f9a1343120857d675328fb711	171		2/4	Kozeluch	Copyright © 2005 Daniel Bernhardsson	2.3.2	Sonata in F, Op 8 No 3	1780	1806	Adrian Nagel
 ./10op08no2c.mscx	10op08no2c	.mscx	f670444245cfe95840945ff88b8b9c68	495	-1	2/4	Kozeluch	Copyright © 2005 Daniel Bernhardsson	2.3.2	Sonata in F, Op 8 No 3	1780	1806	Adrian Nagel
 ./11op10no1a.mscx	11op10no1a	.mscx	a9ceb322b946d2f24ddd603414b9babf	493	-3	4/4	"Leopold Kozeluch
@@ -9,9 +9,9 @@ path	filename	extension	md5	label_count	KeySig	TimeSig	composer	copyright	musesc
 ./14op13no2a.mscx	14op13no2a	.mscx	185f2647e852f4fa366e5593c542144b	213	1	2/4	Kozeluch	Copyright © 2005 Daniel Bernhardsson	2.3.2	Sonata in G, Op 8 No 2	1780	1806	Adrian Nagel
 ./14op13no2b.mscx	14op13no2b	.mscx	68f197dc4c4b3f8da5c7d33594eef38f	153	2	6/8	Kozeluch	Copyright © 2005 Daniel Bernhardsson	2.3.2	Sonata in G, Op 8 No 2	1780	1806	Adrian Nagel
 ./14op13no2c.mscx	14op13no2c	.mscx	5ce098777f3c15058911deb6a0591463	193	1	2/4	Kozeluch	Copyright © 2005 Daniel Bernhardsson	2.3.2	Sonata in G, Op 8 No 2	1780	1806	Adrian Nagel
-./15op13no3a.mscx	15op13no3a	.mscx	56624cbede40239cbaef6386372ed75e	373	1	4/4	"Leopold Kozeluch
+./15op13no3a.mscx	15op13no3a	.mscx	592ffc0bc13123b171b10495a7da2959	373	1	4/4	"Leopold Kozeluch
 (1747-1818)    "	© 2005 Daniel Bernhardsson	2.3.2	Sonata 3 Op 13	1780	1806	Adrian Nagel
-./15op13no3b.mscx	15op13no3b	.mscx	57cf478e7de251fd4d821eb65b4ae127	235	4	3/4	"Leopold Kozeluch
+./15op13no3b.mscx	15op13no3b	.mscx	9fd5e3c0061458f375dcbc7d0e9727a1	235	4	3/4	"Leopold Kozeluch
 (1747-1818)    "	© 2005 Daniel Bernhardsson	2.3.2	Sonata 3 Op 13	1780	1806	Adrian Nagel
 ./15op13no3c.mscx	15op13no3c	.mscx	4c4ae4386ad861a93201d444ee992332	360	1	6/8	"Leopold Kozeluch
 (1747-1818)    "	© 2005 Daniel Bernhardsson	2.3.2	Sonata 3 Op 13	1780	1806	Adrian Nagel
@@ -27,7 +27,7 @@ path	filename	extension	md5	label_count	KeySig	TimeSig	composer	copyright	musesc
 (1747-1818)    "	© 2005 Daniel Bernhardsson	2.3.2	Piano Sonata Op. 18 No. 2	1780	1806	Adrian Nagel
 ./19op17no1a.mscx	19op17no1a	.mscx	20a23138b182d15f9a24f396907d9cc0	124	-4	3/4	"Leopold Kozeluch
 (1747-1818)    "	© 2005 Daniel Bernhardsson	2.3.2	Sonata 1 Op 17	1780	1806	Adrian Nagel
-./19op17no1b.mscx	19op17no1b	.mscx	638079b943c9ac4b43fdd1ba4aaae31e	516	-4	4/4	"Leopold Kozeluch
+./19op17no1b.mscx	19op17no1b	.mscx	b16f937e37aacf3f5d6b5dc4c1a7f664	516	-4	4/4	"Leopold Kozeluch
 (1747-1818)    "	© 2005 Daniel Bernhardsson	2.3.2	Sonata 1 Op 17	1780	1806	Adrian Nagel
 ./19op17no1c.mscx	19op17no1c	.mscx	7ae17e0275e3e07d1ddb2295abe5e7f0	345	-4, -1, -4, -1, -4	2/4	"Leopold Kozeluch
 (1747-1818)    "	© 2005 Daniel Bernhardsson	2.3.2	Sonata 1 Op 17	1780	1806	Adrian Nagel
@@ -39,7 +39,7 @@ path	filename	extension	md5	label_count	KeySig	TimeSig	composer	copyright	musesc
 (1747-1818)    "	© 2005 Daniel Bernhardsson	2.3.2	Sonata 2 Op 17	1780	1806	Adrian Nagel
 ./21op17no3a.mscx	21op17no3a	.mscx	b69ab7a03a287febec305af0dd888af8	543	-3	4/4	"Leopold Kozeluch
 (1747-1818)    "	© 2005 Daniel Bernhardsson	2.3.2	Sonata 3 Op 17	1780	1806	Adrian Nagel
-./21op17no3b.mscx	21op17no3b	.mscx	2cb02261c2078a77179f712b14ec7171	589	-3	2/4	"Leopold Kozeluch
+./21op17no3b.mscx	21op17no3b	.mscx	67dd3a3606efe3ab0208c3d392ceae18	589	-3	2/4	"Leopold Kozeluch
 (1747-1818)    "	© 2005 Daniel Bernhardsson	2.3.2	Sonata 3 Op 17	1780	1806	Adrian Nagel
 ./22op20no1a.mscx	22op20no1a	.mscx	86dabeb70eb360c8bff3213f219dde30	292	-1	3/4	"Leopold Kozeluch
 (1747-1818)    "	Copyright © 2009 - Daniel Bernhardsson	2.3.2	Piano Sonata Op. 21 No. 1	1780	1806	Adrian Nagel
@@ -51,25 +51,25 @@ path	filename	extension	md5	label_count	KeySig	TimeSig	composer	copyright	musesc
 (1747-1818)    "	Copyright © 2005 Daniel Bernhardsson	2.3.2	Sonata II Op XXI	1780	1806	Adrian Nagel
 ./23op20no2b.mscx	23op20no2b	.mscx	b55e60422b78d40f15597e09eb384629	150	-1	3/4	"Leopold Kozeluch
 (1747-1818)    "	Copyright © 2005 Daniel Bernhardsson	2.3.2	Sonata II Op XXI	1780	1806	Adrian Nagel
-./23op20no2c.mscx	23op20no2c	.mscx	7793f830ba3426c25035c88248199de4	331	-3, 0	2/4	"Leopold Kozeluch
+./23op20no2c.mscx	23op20no2c	.mscx	fdafc6ed3d435844f10bd7155d703572	331	-3, 0	2/4	"Leopold Kozeluch
 (1747-1818)    "	Copyright © 2005 Daniel Bernhardsson	2.3.2	Sonata II Op XXI	1780	1806	Adrian Nagel
 ./24op20no3a.mscx	24op20no3a	.mscx	dc224e5945a83fc2306eba90a8f36601	361	-1	4/4	"Leopold Kozeluch
 (1747-1818)    "	Copyright © 2007 Daniel Bernhardsson	2.3.2	Sonata III Op XXI	1780	1806	Adrian Nagel
 ./24op20no3b.mscx	24op20no3b	.mscx	2be37f8042d2ddf1d30189a5c7b383ed	124	2	2/4	"Leopold Kozeluch
 (1747-1818)    "	Copyright © 2007 Daniel Bernhardsson	2.3.2	Sonata III Op XXI	1780	1806	Adrian Nagel
-./24op20no3c.mscx	24op20no3c	.mscx	e75878e4bd8849d1b646ec62d8562cac	453	-1, 2, -1	6/8	"Leopold Kozeluch
+./24op20no3c.mscx	24op20no3c	.mscx	5f7330b6872ed39d19946803a17521f4	453	-1, 2, -1	6/8	"Leopold Kozeluch
 (1747-1818)    "	Copyright © 2007 Daniel Bernhardsson	2.3.2	Sonata III Op XXI	1780	1806	Adrian Nagel
-./25op26no1a.mscx	25op26no1a	.mscx	0ce67a15976f52ff3baac1131e0b4ed4	515	2	6/8	"Leopold Kozeluch
+./25op26no1a.mscx	25op26no1a	.mscx	34f79247c76e96cc5a6227fb00198e4a	514	2	6/8	"Leopold Kozeluch
 (1747-1818)    "	© 2005 Daniel Bernhardsson	2.3.2	Sonata 1 Op 33	1780	1806	Adrian Nagel
 ./25op26no1b.mscx	25op26no1b	.mscx	372d49d6d7df4f48657c3df9c34ff011	153	3	2/2	"Leopold Kozeluch
 (1747-1818)    "	© 2005 Daniel Bernhardsson	2.3.2	Sonata 1 Op 33	1780	1806	Adrian Nagel
-./25op26no1c.mscx	25op26no1c	.mscx	c172465618e14fc8c37912c8657ada1b	240	2, -1	2/4	"Leopold Kozeluch
+./25op26no1c.mscx	25op26no1c	.mscx	ac35ddbbcb9b88d8c0c8ee744db22afd	240	2, -1	2/4	"Leopold Kozeluch
 (1747-1818)    "	© 2005 Daniel Bernhardsson	2.3.2	Sonata 1 Op 33	1780	1806	Adrian Nagel
 ./26op26no2a.mscx	26op26no2a	.mscx	c3b3a87b680aa1eb8526305cad07c61e	473		3/4	"Leopold Kozeluch
 (1747-1818)    "	© 2006 Daniel Bernhardsson	2.3.2	Sonata 2 Op 33	1780	1806	Adrian Nagel
 ./26op26no2b.mscx	26op26no2b	.mscx	a6902b7aa1363e8f01ca7d9d0ae348ae	482	3, 0, 3, 0	2/2	"Leopold Kozeluch
 (1747-1818)    "	© 2006 Daniel Bernhardsson	2.3.2	Sonata 2 Op 33	1780	1806	Adrian Nagel
-./27op26no3a.mscx	27op26no3a	.mscx	0d1caf689fd1a95242ce4d1207c2f54f	556	-3	4/4	"Leopold Kozeluch
+./27op26no3a.mscx	27op26no3a	.mscx	377e470a2e3f5c24616d0a10e88a2e69	555	-3	4/4	"Leopold Kozeluch
 (1747-1818)    "	© 2006 Daniel Bernhardsson	2.3.2	Sonata op 33 no 3	1780	1806	Adrian Nagel
 ./27op26no3b.mscx	27op26no3b	.mscx	3ee22efd4f7a9991c2b2d53b12035fec	169	-3	6/8	"Leopold Kozeluch
 (1747-1818)    "	© 2006 Daniel Bernhardsson	2.3.2	Sonata op 33 no 3	1780	1806	Adrian Nagel
@@ -77,13 +77,101 @@ path	filename	extension	md5	label_count	KeySig	TimeSig	composer	copyright	musesc
 (1747-1818)    "	© 2006 Daniel Bernhardsson	2.3.2	Sonata op 33 no 3	1780	1806	Adrian Nagel
 ./28op30no1a.mscx	28op30no1a	.mscx	2c25f97aff898d3e212aca38f81bb64c	344	-2	4/4	"Leopold Kozeluch
 (1747-1818)    "	© 2005 Daniel Bernhardsson	2.3.2	Sonata 1 Op 30	1780	1806	Adrian Nagel
-./28op30no1b.mscx	28op30no1b	.mscx	1fd81f6dd2edf1ad4a125591738ee8d0	185	-3	3/4	"Leopold Kozeluch
+./28op30no1b.mscx	28op30no1b	.mscx	bb2197b59079c52f3b9e59817cc8faee	185	-3	3/4	"Leopold Kozeluch
 (1747-1818)    "	© 2005 Daniel Bernhardsson	2.3.2	Sonata 1 Op 30	1780	1806	Adrian Nagel
 ./28op30no1c.mscx	28op30no1c	.mscx	15918d5b07c5003aca952f0b16811d78	457	-2	2/4	"Leopold Kozeluch
 (1747-1818)    "	© 2005 Daniel Bernhardsson	2.3.2	Sonata 1 Op 30	1780	1806	Adrian Nagel
-./29op30no2a.mscx	29op30no2a	.mscx	17c15f42db87b8e7ca8b30db90b362cc	405	1	4/4	"Leopold Kozeluch
+./29op30no2a.mscx	29op30no2a	.mscx	22caa98c400d771ed0cb47286123fe97	405	1	4/4	"Leopold Kozeluch
 (1747-1818)    "	© 2005 Daniel Bernhardsson	2.3.2	Sonata 2 Op 30	1780	1806	Adrian Nagel
 ./29op30no2b.mscx	29op30no2b	.mscx	2021ddc82d4556b720a7faefa18cda7b	159	2	3/4	"Leopold Kozeluch
 (1747-1818)    "	© 2005 Daniel Bernhardsson	2.3.2	Sonata 2 Op 30	1780	1806	Adrian Nagel
 ./29op30no2c.mscx	29op30no2c	.mscx	0338227765eea7d0f600a7f4a2a55357	474	1, -2, 1	2/4	"Leopold Kozeluch
 (1747-1818)    "	© 2005 Daniel Bernhardsson	2.3.2	Sonata 2 Op 30	1780	1806	Adrian Nagel
+unannotated/09op08no1a.mscx	09op08no1a	.mscx	abcb758f3503989fba5f6200940da4f1	0		6/8	Kozeluch	Copyright © 2005 Daniel Bernhardsson	2.3.2	Sonata in C, Op 8 No 1			
+unannotated/09op08no1b.mscx	09op08no1b	.mscx	13007ab4d024a99276369faf27c4b662	0		2/4	Kozeluch	Copyright © 2005 Daniel Bernhardsson	2.3.2	Sonata in C, Op 8 No 1			
+unannotated/10op08no2a.mscx	10op08no2a	.mscx	ab74c22cf769808db6bf1a7e75e929b3	0	-1	2/4	Kozeluch	Copyright © 2005 Daniel Bernhardsson	2.3.2	Sonata in F, Op 8 No 3			
+unannotated/10op08no2b.mscx	10op08no2b	.mscx	cb316ecd7304a3b726feb7310239a91c	0		2/4	Kozeluch	Copyright © 2005 Daniel Bernhardsson	2.3.2	Sonata in F, Op 8 No 3			
+unannotated/10op08no2c.mscx	10op08no2c	.mscx	d5e9d232f04a62cfff465cd088634aab	0	-1	2/4	Kozeluch	Copyright © 2005 Daniel Bernhardsson	2.3.2	Sonata in F, Op 8 No 3			
+unannotated/11op10no1a.mscx	11op10no1a	.mscx	089b246c6403bd3f3c0a5049ad23e7e8	0	-3	4/4	"Leopold Kozeluch
+(1747-1818)    "	© 2005 Daniel Bernhardsson	2.3.2	Sonata 1 Op 5			
+unannotated/14op13no2a.mscx	14op13no2a	.mscx	5a4c832f4ad457bafb90ca154c4be1c5	0	1	2/4	Kozeluch	Copyright © 2005 Daniel Bernhardsson	2.3.2	Sonata in G, Op 8 No 2			
+unannotated/14op13no2b.mscx	14op13no2b	.mscx	a6ec8ec840dc0db753d38c85abbd7c25	0	2	6/8	Kozeluch	Copyright © 2005 Daniel Bernhardsson	2.3.2	Sonata in G, Op 8 No 2			
+unannotated/14op13no2c.mscx	14op13no2c	.mscx	6219be1b5f983969356a853ae071fcbd	0	1	2/4	Kozeluch	Copyright © 2005 Daniel Bernhardsson	2.3.2	Sonata in G, Op 8 No 2			
+unannotated/15op13no3a.mscx	15op13no3a	.mscx	8714b0e8cb6db8d11352ea302f32df67	0	1	4/4	"Leopold Kozeluch
+(1747-1818)    "	© 2005 Daniel Bernhardsson	2.3.2	Sonata 3 Op 13			
+unannotated/15op13no3b.mscx	15op13no3b	.mscx	36f456b0b09813234eff46cc68fbf5aa	0	4	3/4	"Leopold Kozeluch
+(1747-1818)    "	© 2005 Daniel Bernhardsson	2.3.2	Sonata 3 Op 13			
+unannotated/15op13no3c.mscx	15op13no3c	.mscx	06b4fd9bc8886118d4f7cb9af241a520	0	1	6/8	"Leopold Kozeluch
+(1747-1818)    "	© 2005 Daniel Bernhardsson	2.3.2	Sonata 3 Op 13			
+unannotated/16op15no1a.mscx	16op15no1a	.mscx	f4ca9bf7a98a94846f60affafa0b173b	0	-2	3/4, 3/4	"Leopold Kozeluch
+(1747-1818)    "	© 2009 - Daniel Bernhardsson	2.3.2	Piano Sonata Op. 18 No. 1			
+unannotated/16op15no1b.mscx	16op15no1b	.mscx	fcf7208b20b271a21d5602552c42994d	0	1, -2, 1	2/4	"Leopold Kozeluch
+(1747-1818)    "	© 2009 - Daniel Bernhardsson	2.3.2	Piano Sonata Op. 18 No. 1			
+unannotated/17op15no2a.mscx	17op15no2a	.mscx	9f40787ebf4082e5a939ca8aa3ea364f	0		4/4	"Leopold Kozeluch
+(1747-1818)    "	© 2005 Daniel Bernhardsson	2.3.2	Piano Sonata Op. 18 No. 2			
+unannotated/17op15no2b.mscx	17op15no2b	.mscx	d987d3344efc6cbff438c1b0d04573b8	0	-1	3/4	"Leopold Kozeluch
+(1747-1818)    "	© 2005 Daniel Bernhardsson	2.3.2	Piano Sonata Op. 18 No. 2			
+unannotated/17op15no2c.mscx	17op15no2c	.mscx	4fc3ce52dc9d4297b834914c015a7883	0		4/4	"Leopold Kozeluch
+(1747-1818)    "	© 2005 Daniel Bernhardsson	2.3.2	Piano Sonata Op. 18 No. 2			
+unannotated/19op17no1a.mscx	19op17no1a	.mscx	488f2fef6ef8b8000d507b1b15610701	0	-4	3/4	"Leopold Kozeluch
+(1747-1818)    "	© 2005 Daniel Bernhardsson	2.3.2	Sonata 1 Op 17			
+unannotated/19op17no1b.mscx	19op17no1b	.mscx	340862cbef6070e5f859584c2497d046	0		4/4	"Leopold Kozeluch
+(1747-1818)    "	© 2005 Daniel Bernhardsson	2.3.2	Sonata 1 Op 17			
+unannotated/19op17no1c.mscx	19op17no1c	.mscx	23b5cadad5a3678e3cce873861b1a21b	0	-1, -4, -1, -4	2/4	"Leopold Kozeluch
+(1747-1818)    "	© 2005 Daniel Bernhardsson	2.3.2	Sonata 1 Op 17			
+unannotated/20op17no2a.mscx	20op17no2a	.mscx	5f0c670c1410cc811ebb2c36f0b28e7c	0	3	6/8	"Leopold Kozeluch
+(1747-1818)    "	© 2005 Daniel Bernhardsson	2.3.2	Sonata 2 Op 17			
+unannotated/20op17no2b.mscx	20op17no2b	.mscx	0f4d64d45d84dc5f8b549d17463d423e	0	4, 1, 4	2/4	"Leopold Kozeluch
+(1747-1818)    "	© 2005 Daniel Bernhardsson	2.3.2	Sonata 2 Op 17			
+unannotated/20op17no2c.mscx	20op17no2c	.mscx	30a8741ee3e57f183ecec5cc2345acf9	0	3, 0, 3	2/4	"Leopold Kozeluch
+(1747-1818)    "	© 2005 Daniel Bernhardsson	2.3.2	Sonata 2 Op 17			
+unannotated/21op17no3a.mscx	21op17no3a	.mscx	725f9a261b0547b15a7df4cb0eb0ccb1	0	-3	4/4	"Leopold Kozeluch
+(1747-1818)    "	© 2005 Daniel Bernhardsson	2.3.2	Sonata 3 Op 17			
+unannotated/21op17no3b.mscx	21op17no3b	.mscx	e059396cb47216d111a29e14797a1113	0		2/4	"Leopold Kozeluch
+(1747-1818)    "	© 2005 Daniel Bernhardsson	2.3.2	Sonata 3 Op 17			
+unannotated/22op20no1a.mscx	22op20no1a	.mscx	ce4ce8db7ea6ccf27364736b5342be72	0	-1	3/4	"Leopold Kozeluch
+(1747-1818)    "	Copyright © 2009 - Daniel Bernhardsson	2.3.2	Piano Sonata Op. 21 No. 1			
+unannotated/22op20no1b.mscx	22op20no1b	.mscx	ce19e5a2e4fb725d817ed7e10ebca881	0	-2	2/4	"Leopold Kozeluch
+(1747-1818)    "	Copyright © 2009 - Daniel Bernhardsson	2.3.2	Piano Sonata Op. 21 No. 1			
+unannotated/22op20no1c.mscx	22op20no1c	.mscx	331c9d217c1a3fe804b3888c4bedfac5	0	-1	6/8	"Leopold Kozeluch
+(1747-1818)    "	Copyright © 2009 - Daniel Bernhardsson	2.3.2	Piano Sonata Op. 21 No. 1			
+unannotated/23op20no2a.mscx	23op20no2a	.mscx	47d5f27dfeb70827934bd415f375081b	0		4/4	"Leopold Kozeluch
+(1747-1818)    "	Copyright © 2005 Daniel Bernhardsson	2.3.2	Sonata II Op XXI			
+unannotated/23op20no2b.mscx	23op20no2b	.mscx	4ba75847562be96f132624eaeff075c8	0	-1	3/4	"Leopold Kozeluch
+(1747-1818)    "	Copyright © 2005 Daniel Bernhardsson	2.3.2	Sonata II Op XXI			
+unannotated/23op20no2c.mscx	23op20no2c	.mscx	7f5b3f36210ddd43077f957bdd36042b	0	-3, 0	2/4	"Leopold Kozeluch
+(1747-1818)    "	Copyright © 2005 Daniel Bernhardsson	2.3.2	Sonata II Op XXI			
+unannotated/24op20no3a.mscx	24op20no3a	.mscx	dc224e5945a83fc2306eba90a8f36601	361	-1	4/4	"Leopold Kozeluch
+(1747-1818)    "	Copyright © 2007 Daniel Bernhardsson	2.3.2	Sonata III Op XXI			
+unannotated/24op20no3b.mscx	24op20no3b	.mscx	2be37f8042d2ddf1d30189a5c7b383ed	124	2	2/4	"Leopold Kozeluch
+(1747-1818)    "	Copyright © 2007 Daniel Bernhardsson	2.3.2	Sonata III Op XXI			
+unannotated/24op20no3c.mscx	24op20no3c	.mscx	e75878e4bd8849d1b646ec62d8562cac	453	-1, 2, -1	6/8	"Leopold Kozeluch
+(1747-1818)    "	Copyright © 2007 Daniel Bernhardsson	2.3.2	Sonata III Op XXI			
+unannotated/25op26no1a.mscx	25op26no1a	.mscx	0ce67a15976f52ff3baac1131e0b4ed4	515	2	6/8	"Leopold Kozeluch
+(1747-1818)    "	© 2005 Daniel Bernhardsson	2.3.2	Sonata 1 Op 33			
+unannotated/25op26no1b.mscx	25op26no1b	.mscx	372d49d6d7df4f48657c3df9c34ff011	153	3	2/2	"Leopold Kozeluch
+(1747-1818)    "	© 2005 Daniel Bernhardsson	2.3.2	Sonata 1 Op 33			
+unannotated/25op26no1c.mscx	25op26no1c	.mscx	c172465618e14fc8c37912c8657ada1b	240	2, -1	2/4	"Leopold Kozeluch
+(1747-1818)    "	© 2005 Daniel Bernhardsson	2.3.2	Sonata 1 Op 33			
+unannotated/26op26no2a.mscx	26op26no2a	.mscx	c3b3a87b680aa1eb8526305cad07c61e	473		3/4	"Leopold Kozeluch
+(1747-1818)    "	© 2006 Daniel Bernhardsson	2.3.2	Sonata 2 Op 33			
+unannotated/26op26no2b.mscx	26op26no2b	.mscx	a6902b7aa1363e8f01ca7d9d0ae348ae	482	3, 0, 3, 0	2/2	"Leopold Kozeluch
+(1747-1818)    "	© 2006 Daniel Bernhardsson	2.3.2	Sonata 2 Op 33			
+unannotated/27op26no3a.mscx	27op26no3a	.mscx	0d1caf689fd1a95242ce4d1207c2f54f	556	-3	4/4	"Leopold Kozeluch
+(1747-1818)    "	© 2006 Daniel Bernhardsson	2.3.2	Sonata op 33 no 3			
+unannotated/27op26no3b.mscx	27op26no3b	.mscx	3ee22efd4f7a9991c2b2d53b12035fec	169	-3	6/8	"Leopold Kozeluch
+(1747-1818)    "	© 2006 Daniel Bernhardsson	2.3.2	Sonata op 33 no 3			
+unannotated/27op26no3c.mscx	27op26no3c	.mscx	35b4fa549915496e4d38189c21931b80	246	-3	2/4	"Leopold Kozeluch
+(1747-1818)    "	© 2006 Daniel Bernhardsson	2.3.2	Sonata op 33 no 3			
+unannotated/28op30no1a.mscx	28op30no1a	.mscx	2c25f97aff898d3e212aca38f81bb64c	344	-2	4/4	"Leopold Kozeluch
+(1747-1818)    "	© 2005 Daniel Bernhardsson	2.3.2	Sonata 1 Op 30			
+unannotated/28op30no1b.mscx	28op30no1b	.mscx	1fd81f6dd2edf1ad4a125591738ee8d0	185	-3	3/4	"Leopold Kozeluch
+(1747-1818)    "	© 2005 Daniel Bernhardsson	2.3.2	Sonata 1 Op 30			
+unannotated/28op30no1c.mscx	28op30no1c	.mscx	15918d5b07c5003aca952f0b16811d78	457	-2	2/4	"Leopold Kozeluch
+(1747-1818)    "	© 2005 Daniel Bernhardsson	2.3.2	Sonata 1 Op 30			
+unannotated/29op30no2a.mscx	29op30no2a	.mscx	17c15f42db87b8e7ca8b30db90b362cc	405	1	4/4	"Leopold Kozeluch
+(1747-1818)    "	© 2005 Daniel Bernhardsson	2.3.2	Sonata 2 Op 30			
+unannotated/29op30no2b.mscx	29op30no2b	.mscx	2021ddc82d4556b720a7faefa18cda7b	159	2	3/4	"Leopold Kozeluch
+(1747-1818)    "	© 2005 Daniel Bernhardsson	2.3.2	Sonata 2 Op 30			
+unannotated/29op30no2c.mscx	29op30no2c	.mscx	0338227765eea7d0f600a7f4a2a55357	474	1, -2, 1	2/4	"Leopold Kozeluch
+(1747-1818)    "	© 2005 Daniel Bernhardsson	2.3.2	Sonata 2 Op 30			
