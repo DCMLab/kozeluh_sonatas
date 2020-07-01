@@ -1,0 +1,5 @@
+Attempting to parse 27op26no3c.mscx
+Done parsing 27op26no3c.mscx
+
+Failed to expand labels due to syntactic errors:
+'float' object is not iterable

@@ -1,0 +1,6 @@
+Attempting to parse 19op17no1a.mscx
+MC 24 contains an empty <Harmony> tag. It is stored as 'empty_harmony'.
+Done parsing 19op17no1a.mscx
+
+Failed to expand labels due to syntactic errors:
+'float' object is not iterable

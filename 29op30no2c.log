@@ -1,0 +1,45 @@
+Attempting to parse 29op30no2c.mscx
+Done parsing 29op30no2c.mscx
+
+Failed to expand labels due to syntactic errors:
+18 organ points started, 19 ended! Beginnings:
+0        I
+19       I
+42       V
+90       I
+123      V
+170      V
+178    bVI
+188      V
+205      I
+224      I
+248      i
+267      V
+282      V
+360      i
+379      I
+398      I
+421      V
+469      I
+Name: pedal, dtype: object
+Endings:
+8      ]
+27     ]
+53     ]
+95     ]
+160    ]
+177    ]
+181    ]
+192    ]
+213    ]
+232    ]
+251    ]
+281    ]
+302    ]
+359    ]
+363    ]
+387    ]
+406    ]
+432    ]
+473    ]
+Name: pedalend, dtype: object
