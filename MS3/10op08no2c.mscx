@@ -16527,9 +16527,6 @@
           <Rest>
             <durationType>16th</durationType>
             </Rest>
-          <Harmony>
-            <name></name>
-            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <StemDirection>down</StemDirection>
@@ -16736,9 +16733,6 @@
           <Rest>
             <durationType>16th</durationType>
             </Rest>
-          <Harmony>
-            <name></name>
-            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <StemDirection>up</StemDirection>
