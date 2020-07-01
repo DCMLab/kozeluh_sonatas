@@ -1,3 +1,10 @@
 Attempting to parse 22op20no1a.mscx
 Done parsing 22op20no1a.mscx
 
+The following chords could not be parsed:
+     mc  mn onset      label
+103  58  58   1/2       .Fr6
+122  69  69     0  .bVII.I[I
+136  79  79     0  .bIII.V43
+Failed to expand labels due to syntactic errors:
+repl_spec() missing 1 required positional argument: 'special'

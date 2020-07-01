@@ -4,3 +4,10 @@ MC 129 is longer 13/16 than its nominal duration 1/2.
 MC 173 is longer 43/16 than its nominal duration 1/2.
 Done parsing 16op15no1b.mscx
 
+The following chords could not be parsed:
+      mc   mn onset      label
+238   88   88     0  .bIII.I[I
+325  114  114   1/4      .Ger6
+352  125  125   1/8       .It6
+Failed to expand labels due to syntactic errors:
+repl_spec() missing 1 required positional argument: 'special'

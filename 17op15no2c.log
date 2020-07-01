@@ -3,3 +3,20 @@ First measure of staff 1 has a startRepeat tag. Information overwritten by 'firs
 MC 160 (1/2) and MC 70 (1) don't add up to 1.
 Done parsing 17op15no2c.mscx
 
+The following chords could not be parsed:
+      mc   mn onset        label
+100   46   46   3/4        .It6]
+102   47   47   1/4         .It6
+104   47   47   3/4         .It6
+156   73   73     0      .bVI.V7
+160   75   75   1/2  .bIII.viio6
+162   77   77     0     .bVII.ii
+195   91   91     0    .bVII.I[I
+234  100  100   3/4        .It6]
+242  102  102   3/4         .It6
+250  104  104   3/4         .It6
+327  135  135   3/4        .It6]
+329  136  136   1/4         .It6
+331  136  136   3/4         .It6
+Failed to expand labels due to syntactic errors:
+repl_spec() missing 1 required positional argument: 'special'

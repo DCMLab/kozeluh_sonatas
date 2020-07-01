@@ -1,29 +1,12 @@
 Attempting to parse 27op26no3b.mscx
 Done parsing 27op26no3b.mscx
 
+The following chords could not be parsed:
+     mc  mn onset  label
+ix                      
+29   11  11   1/8  .bII6
+123  40  40   1/8  .bII6
+141  45  45   5/8   .bII
+155  49  49   5/8  .bII6
 Failed to expand labels due to syntactic errors:
-11 organ points started, 8 ended! Beginnings:
-ix
-0      i
-9      V
-20     i
-32     i
-49     V
-82     V
-94     i
-103    V
-114    i
-126    i
-161    i
-Name: pedal, dtype: object
-Endings:
-ix
-3      ]
-19     ]
-23     ]
-58     ]
-97     ]
-113    ]
-117    ]
-168    ]
-Name: pedalend, dtype: object
+repl_spec() missing 1 required positional argument: 'special'

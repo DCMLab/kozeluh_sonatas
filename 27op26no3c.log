@@ -1,5 +1,10 @@
 Attempting to parse 27op26no3c.mscx
 Done parsing 27op26no3c.mscx
 
+The following chords could not be parsed:
+      mc   mn onset  label
+166  123  121   1/4   .It6
+170  125  123   1/4   .It6
+189  151  149   3/8  @none
 Failed to expand labels due to syntactic errors:
-'float' object is not iterable
+repl_spec() missing 1 required positional argument: 'special'

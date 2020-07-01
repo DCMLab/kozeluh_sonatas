@@ -1,3 +1,11 @@
 Attempting to parse 28op30no1b.mscx
 Done parsing 28op30no1b.mscx
 
+The following chords could not be parsed:
+     mc  mn onset     label
+ix                         
+64   18  18   3/8   .bVII.V
+87   24  24   3/8  .bIII.I6
+103  27  27   5/8    .Ger6]
+Failed to expand labels due to syntactic errors:
+repl_spec() missing 1 required positional argument: 'special'

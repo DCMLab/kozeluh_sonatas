@@ -1,83 +1,17 @@
 Attempting to parse 20op17no2c.mscx
-MC 42 contains an empty <Harmony> tag. It is stored as 'empty_harmony'.
 MC 169 is longer 13/8 than its nominal duration 1/2.
 Done parsing 20op17no2c.mscx
 
+More than two alternatives are not taken into account:       0         1       2
+88  iio  viio/III  #viio6
+The following chords could not be parsed:
+      mc   mn onset     label
+96    45   45   1/8   .bVII.I
+118   50   50   3/8  .bIII.IV
+138   55   55   3/8      .It6
+241  120  120     0  .bVI.I[I
+248  123  123   1/4  .bIII.V7
+373  164  164   1/4      .It6
+377  166  166   1/4      .It6
 Failed to expand labels due to syntactic errors:
-40 organ points started, 33 ended! Beginnings:
-0       I
-13      I
-36      I
-44     vi
-50      V
-83      i
-92      i
-100     V
-108     I
-116     i
-124     I
-128     I
-132     i
-140     V
-150     I
-200     I
-213     I
-235     i
-242     I
-262     I
-270     V
-278     I
-286     V
-294     I
-298    IV
-302     V
-306     V
-310     I
-318     V
-326     I
-334     V
-348     V
-356     I
-365     i
-384     I
-397     I
-427     I
-441     V
-455     I
-463     I
-Name: pedal, dtype: object
-Endings:
-4      ]
-17     ]
-40     ]
-48     ]
-81     ]
-86     ]
-94     ]
-102    ]
-110    ]
-118    ]
-126    ]
-130    ]
-148    ]
-204    ]
-217    ]
-237    ]
-244    ]
-277    ]
-293    ]
-296    ]
-299    ]
-317    ]
-325    ]
-333    ]
-341    ]
-360    ]
-368    ]
-388    ]
-401    ]
-430    ]
-446    ]
-457    ]
-465    ]
-Name: pedalend, dtype: object
+repl_spec() missing 1 required positional argument: 'special'

@@ -1,3 +1,9 @@
 Attempting to parse 17op15no2a.mscx
 Done parsing 17op15no2a.mscx
 
+The following chords could not be parsed:
+      mc   mn onset      label
+216   84   84     0  .bIII.IV6
+488  188  188   1/2      .Ger6
+Failed to expand labels due to syntactic errors:
+repl_spec() missing 1 required positional argument: 'special'
