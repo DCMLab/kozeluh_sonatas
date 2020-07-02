@@ -1,6 +1,4 @@
-Attempting to parse 14op13no2b.mscx
-First measure of staff 1 has a startRepeat tag. Information overwritten by 'firstMeasure'
-Done parsing 14op13no2b.mscx
+INFO     14op13no2b.ms3 -- Attempting to parse 14op13no2b.mscx
+WARNING  14op13no2b.ms3 -- First measure of staff 1 has a startRepeat tag. Information overwritten by 'firstMeasure'
+INFO     14op13no2b.ms3 -- Done parsing 14op13no2b.mscx
 
-Failed to expand labels due to syntactic errors:
-repl_spec() missing 1 required positional argument: 'special'

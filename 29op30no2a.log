@@ -1,9 +1,4 @@
-Attempting to parse 29op30no2a.mscx
-Done parsing 29op30no2a.mscx
+INFO     29op30no2a.ms3 -- Attempting to parse 29op30no2a.mscx
+INFO     29op30no2a.ms3 -- Done parsing 29op30no2a.mscx
 
-The following chords could not be parsed:
-     mc  mn onset        label
-158  79  79     0  .bVII.V(64)
-164  81  81     0   .bIII.V[V7
-Failed to expand labels due to syntactic errors:
-repl_spec() missing 1 required positional argument: 'special'
+WARNING  29op30no2a.expand_labels -- #viio in major context is most probably an annotation error.

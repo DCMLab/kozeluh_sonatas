@@ -1,12 +1,52 @@
-Attempting to parse 29op30no2c.mscx
-Done parsing 29op30no2c.mscx
+INFO     29op30no2c.ms3 -- Attempting to parse 29op30no2c.mscx
+INFO     29op30no2c.ms3 -- Done parsing 29op30no2c.mscx
 
-The following chords could not be parsed:
-      mc   mn onset     label
-178   78   77     0  .bVI[bVI
-181   79   78   3/8    .Ger6]
-282  130  128   1/4  .bVI.V[I
-319  145  143   1/4  .bvii.V6
-325  147  145   1/4  .biii.V6
-Failed to expand labels due to syntactic errors:
-repl_spec() missing 1 required positional argument: 'special'
+ERROR    29op30no2c -- Could not expand labels due to errors:
+Traceback (most recent call last):
+  File "parallel_parse.py", line 79, in parse
+    expanded = expand_labels(chord_list, column='label', regex=REGEX, chord_tones=True, groupby=None, logger_name=S.fname).df
+  File "/home/hentsche/corpora/scripts/expand_labels.py", line 452, in __init__
+    df = self.propagate_pedal(df, cols=cols)
+  File "/home/hentsche/corpora/scripts/expand_labels.py", line 776, in propagate_pedal
+    assert n_b == n_e, f"{n_b} organ points started, {n_e} ended! Beginnings:\n{beginnings}\nEndings:\n{endings}"
+AssertionError: 18 organ points started, 19 ended! Beginnings:
+0        I
+19       I
+42       V
+90       I
+123      V
+170      V
+178    bVI
+188      V
+205      I
+224      I
+248      i
+267      V
+282      V
+360      i
+379      I
+398      I
+421      V
+469      I
+Name: pedal, dtype: object
+Endings:
+8      ]
+27     ]
+53     ]
+95     ]
+160    ]
+177    ]
+181    ]
+192    ]
+213    ]
+232    ]
+251    ]
+281    ]
+302    ]
+359    ]
+363    ]
+387    ]
+406    ]
+432    ]
+473    ]
+Name: pedalend, dtype: object

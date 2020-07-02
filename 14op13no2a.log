@@ -1,5 +1,3 @@
-Attempting to parse 14op13no2a.mscx
-Done parsing 14op13no2a.mscx
+INFO     14op13no2a.ms3 -- Attempting to parse 14op13no2a.mscx
+INFO     14op13no2a.ms3 -- Done parsing 14op13no2a.mscx
 
-Failed to expand labels due to syntactic errors:
-repl_spec() missing 1 required positional argument: 'special'

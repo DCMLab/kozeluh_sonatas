@@ -1,12 +1,5 @@
-Attempting to parse 15op13no3c.mscx
-First measure of staff 1 has a startRepeat tag. Information overwritten by 'firstMeasure'
-Done parsing 15op13no3c.mscx
+INFO     15op13no3c.ms3 -- Attempting to parse 15op13no3c.mscx
+WARNING  15op13no3c.ms3 -- First measure of staff 1 has a startRepeat tag. Information overwritten by 'firstMeasure'
+WARNING  15op13no3c.ms3 -- Repeat missing in the last measure.
+INFO     15op13no3c.ms3 -- Done parsing 15op13no3c.mscx
 
-The following chords could not be parsed:
-      mc   mn onset       label
-87    33   33     0       .Ger6
-221   85   85   3/8  .bII.V(64)
-275  108  108     0       .Ger6
-295  114  114   5/8        .It6
-Failed to expand labels due to syntactic errors:
-repl_spec() missing 1 required positional argument: 'special'

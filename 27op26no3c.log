@@ -1,10 +1,4 @@
-Attempting to parse 27op26no3c.mscx
-Done parsing 27op26no3c.mscx
+INFO     27op26no3c.ms3 -- Attempting to parse 27op26no3c.mscx
+INFO     27op26no3c.ms3 -- Done parsing 27op26no3c.mscx
 
-The following chords could not be parsed:
-      mc   mn onset  label
-166  123  121   1/4   .It6
-170  125  123   1/4   .It6
-189  151  149   3/8  @none
-Failed to expand labels due to syntactic errors:
-repl_spec() missing 1 required positional argument: 'special'
+WARNING  27op26no3c.expand_labels -- #viio7 in major context is most probably an annotation error.

@@ -1,14 +1,6 @@
-Attempting to parse 24op20no3a.mscx
-Done parsing 24op20no3a.mscx
+INFO     24op20no3a.ms3 -- Attempting to parse 24op20no3a.mscx
+INFO     24op20no3a.ms3 -- Done parsing 24op20no3a.mscx
 
-More than two alternatives are not taken into account:      0       1          2
+WARNING  24op20no3a.expand_labels -- More than two alternatives are not taken into account:      0       1          2
 86   v  iio/iv  #viio6/iv
 297  v  iio/iv  #viio6/iv
-The following chords could not be parsed:
-      mc   mn onset  label
-20    11   11     0  .bII6
-213   91   91     0  .bII6
-256  110  110   3/4  .Ger6
-317  132  132   3/4   .It6
-Failed to expand labels due to syntactic errors:
-repl_spec() missing 1 required positional argument: 'special'

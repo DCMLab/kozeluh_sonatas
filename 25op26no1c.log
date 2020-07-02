@@ -1,11 +1,3 @@
-Attempting to parse 25op26no1c.mscx
-Done parsing 25op26no1c.mscx
+INFO     25op26no1c.ms3 -- Attempting to parse 25op26no1c.mscx
+INFO     25op26no1c.ms3 -- Done parsing 25op26no1c.mscx
 
-The following chords could not be parsed:
-      mc   mn onset      label
-78    56   55     0  .bIII.I[I
-153  118  117     0    .bIII.I
-186  144  143     0      .Ger6
-217  161  160     0  .bIII.ii7
-Failed to expand labels due to syntactic errors:
-repl_spec() missing 1 required positional argument: 'special'

@@ -1,19 +1,4 @@
-Attempting to parse 11op10no1a.mscx
-Done parsing 11op10no1a.mscx
+INFO     11op10no1a.ms3 -- Attempting to parse 11op10no1a.mscx
+WARNING  11op10no1a.ms3 -- Repeat missing in the last measure.
+INFO     11op10no1a.ms3 -- Done parsing 11op10no1a.mscx
 
-The following chords could not be parsed:
-      mc   mn onset  label
-88    35   35     0   .Fr6
-89    35   35   7/8  .Ger6
-91    37   37     0   .It6
-92    37   37   3/4   .Fr6
-93    37   37   7/8  .Ger6
-261   95   95   3/8   .It6
-282   99   99   3/8  .bII6
-395  140  140     0   .Fr6
-396  140  140   7/8  .Ger6
-398  142  142     0   .It6
-399  142  142   3/4   .Fr6
-400  142  142   7/8  .Ger6
-Failed to expand labels due to syntactic errors:
-repl_spec() missing 1 required positional argument: 'special'

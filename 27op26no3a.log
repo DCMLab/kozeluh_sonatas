@@ -1,11 +1,7 @@
-Attempting to parse 27op26no3a.mscx
-Done parsing 27op26no3a.mscx
+INFO     27op26no3a.ms3 -- Attempting to parse 27op26no3a.mscx
+INFO     27op26no3a.ms3 -- Done parsing 27op26no3a.mscx
 
-The following chords could not be parsed:
-      mc   mn onset    label
-211   67   67   1/4     .bVI
-287  102  102     0  .bVII.I
-474  170  170   7/8   viio%7
-532  189  189   1/4     .bVI
-Failed to expand labels due to syntactic errors:
-repl_spec() missing 1 required positional argument: 'special'
+WARNING  27op26no3a.expand_labels -- The following chords could not be parsed:
+      mc   mn onset   label
+474  170  170   7/8  viio%7
+WARNING  27op26no3a.expand_labels -- #viio43 in major context is most probably an annotation error.

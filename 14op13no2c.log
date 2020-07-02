@@ -1,6 +1,13 @@
-Attempting to parse 14op13no2c.mscx
-First measure of staff 1 has a startRepeat tag. Information overwritten by 'firstMeasure'
-Done parsing 14op13no2c.mscx
+INFO     14op13no2c.ms3 -- Attempting to parse 14op13no2c.mscx
+WARNING  14op13no2c.ms3 -- First measure of staff 1 has a startRepeat tag. Information overwritten by 'firstMeasure'
+WARNING  14op13no2c.ms3 -- Event 18 in MC 50 has has duration 1/2 and starts on 1/2, surpassing the measure length of 1/2
+WARNING  14op13no2c.ms3 -- Event 25 in MC 51 has has duration 1/2 and starts on 1/2, surpassing the measure length of 1/2
+WARNING  14op13no2c.ms3 -- Event 31 in MC 52 has has duration 1/2 and starts on 1/2, surpassing the measure length of 1/2
+WARNING  14op13no2c.ms3 -- Event 38 in MC 53 has has duration 1/2 and starts on 1/2, surpassing the measure length of 1/2
+WARNING  14op13no2c.ms3 -- Event 44 in MC 54 has has duration 1/2 and starts on 1/2, surpassing the measure length of 1/2
+WARNING  14op13no2c.ms3 -- Event 54 in MC 55 has has duration 1/2 and starts on 1/2, surpassing the measure length of 1/2
+WARNING  14op13no2c.ms3 -- Event 19 in MC 89 has has duration 1/2 and starts on 1/2, surpassing the measure length of 1/2
+WARNING  14op13no2c.ms3 -- Event 27 in MC 90 has has duration 1/2 and starts on 1/2, surpassing the measure length of 1/2
+WARNING  14op13no2c.ms3 -- Event 35 in MC 91 has has duration 1/2 and starts on 1/2, surpassing the measure length of 1/2
+INFO     14op13no2c.ms3 -- Done parsing 14op13no2c.mscx
 
-Failed to expand labels due to syntactic errors:
-repl_spec() missing 1 required positional argument: 'special'

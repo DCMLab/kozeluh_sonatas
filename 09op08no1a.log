@@ -1,12 +1,3 @@
-Attempting to parse 09op08no1a.mscx
-Done parsing 09op08no1a.mscx
+INFO     09op08no1a.ms3 -- Attempting to parse 09op08no1a.mscx
+INFO     09op08no1a.ms3 -- Done parsing 09op08no1a.mscx
 
-The following chords could not be parsed:
-      mc   mn onset  label
-77    41   41   1/4   .bII
-78    41   41   1/2  .bII6
-134   69   69     0  .Ger6
-227  117  117   1/4   .bII
-228  117  117   1/2  .bII6
-Failed to expand labels due to syntactic errors:
-repl_spec() missing 1 required positional argument: 'special'
