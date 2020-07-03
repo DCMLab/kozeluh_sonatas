@@ -1,4 +1,4 @@
 INFO     27op26no3c.ms3 -- Attempting to parse 27op26no3c.mscx
 INFO     27op26no3c.ms3 -- Done parsing 27op26no3c.mscx
 
-WARNING  27op26no3c.expand_labels -- #viio7 in major context is most probably an annotation error.
+WARNING  27op26no3c.expand_labels -- MC 142: #viio7 in major context is most probably an annotation error.

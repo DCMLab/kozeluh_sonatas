@@ -3,4 +3,4 @@ INFO     25op26no1b.ms3 -- MC 49 is longer 7/4 than its nominal duration 1.
 INFO     25op26no1b.ms3 -- MC 50 is longer 11/4 than its nominal duration 1.
 INFO     25op26no1b.ms3 -- Done parsing 25op26no1b.mscx
 
-WARNING  25op26no1b.expand_labels -- #viio in major context is most probably an annotation error.
+WARNING  25op26no1b.expand_labels -- MC 34: #viio in major context is most probably an annotation error.

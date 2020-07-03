@@ -1,4 +1,4 @@
 INFO     29op30no2a.ms3 -- Attempting to parse 29op30no2a.mscx
 INFO     29op30no2a.ms3 -- Done parsing 29op30no2a.mscx
 
-WARNING  29op30no2a.expand_labels -- #viio in major context is most probably an annotation error.
+WARNING  29op30no2a.expand_labels -- MC 104: #viio in major context is most probably an annotation error.

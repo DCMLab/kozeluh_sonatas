@@ -3,4 +3,4 @@ WARNING  16op15no1a.ms3 -- MC 35 (3/8) and MC 36 (3/4) don't add up to 3/4.
 WARNING  16op15no1a.ms3 -- MC 35 is completing MC 96 but has not been excluded from bar count!
 INFO     16op15no1a.ms3 -- Done parsing 16op15no1a.mscx
 
-WARNING  16op15no1a.expand_labels -- #viio64 in major context is most probably an annotation error.
+WARNING  16op15no1a.expand_labels -- MC 156: #viio64 in major context is most probably an annotation error.

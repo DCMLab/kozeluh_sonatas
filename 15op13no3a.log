@@ -1,4 +1,4 @@
 INFO     15op13no3a.ms3 -- Attempting to parse 15op13no3a.mscx
 INFO     15op13no3a.ms3 -- Done parsing 15op13no3a.mscx
 
-WARNING  15op13no3a.expand_labels -- #viio7 in major context is most probably an annotation error.
+WARNING  15op13no3a.expand_labels -- MC 36: #viio7 in major context is most probably an annotation error.
