@@ -1,5 +1,5 @@
 INFO     29op30no2b.ms3 -- Attempting to parse 29op30no2b.mscx
 INFO     29op30no2b.ms3 -- Done parsing 29op30no2b.mscx
 
-WARNING  29op30no2b.expand_labels -- MC 22: #vii%7 in major context is most probably an annotation error.
 WARNING  29op30no2b.expand_labels -- MC 22: #viio7 in major context is most probably an annotation error.
+WARNING  29op30no2b.expand_labels -- MC 22: #vii%7 in major context is most probably an annotation error.
