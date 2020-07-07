@@ -135,4 +135,4 @@ mc	mn	keysig	timesig	act_dur	offset	voices	repeats	volta	barline	numbering_offse
 134	134	1	4/4	1	0	2						135
 135	135	1	4/4	1	0	2						136
 136	136	1	4/4	1	0	2						137
-137	137	1	4/4	1	0	2	endRepeat					51
+137	137	1	4/4	1	0	2	endRepeat					51, -1
