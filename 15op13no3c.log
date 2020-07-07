@@ -1,5 +1,3 @@
 INFO     15op13no3c.ms3 -- Attempting to parse 15op13no3c.mscx
-WARNING  15op13no3c.ms3 -- First measure of staff 1 has a startRepeat tag. Information overwritten by 'firstMeasure'
-WARNING  15op13no3c.ms3 -- Repeat missing in the last measure.
 INFO     15op13no3c.ms3 -- Done parsing 15op13no3c.mscx
 

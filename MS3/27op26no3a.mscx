@@ -11054,7 +11054,7 @@
               </Note>
             </Chord>
           <Harmony>
-            <name>#viio43/V</name>
+            <name>viio43/V</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -11180,7 +11180,7 @@
               </Note>
             </Chord>
           <Harmony>
-            <name>#viio43/V</name>
+            <name>viio43/V</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -19024,8 +19024,8 @@
               </Note>
             </Chord>
           <Harmony>
-            <name>viio%7</name>
-            <offset x="0" y="-8"/>
+            <name>vii%7</name>
+            <offset x="0" y="-2.9"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -22547,6 +22547,7 @@
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>2</bracketType>
@@ -22611,6 +22612,7 @@
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>2</bracketType>
@@ -36078,6 +36080,7 @@
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>2</bracketType>
@@ -36123,6 +36126,7 @@
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>2</bracketType>

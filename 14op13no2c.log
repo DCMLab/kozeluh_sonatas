@@ -1,5 +1,4 @@
 INFO     14op13no2c.ms3 -- Attempting to parse 14op13no2c.mscx
-WARNING  14op13no2c.ms3 -- First measure of staff 1 has a startRepeat tag. Information overwritten by 'firstMeasure'
 WARNING  14op13no2c.ms3 -- Event 18 in MC 50 has has duration 1/2 and starts on 1/2, surpassing the measure length of 1/2
 WARNING  14op13no2c.ms3 -- Event 25 in MC 51 has has duration 1/2 and starts on 1/2, surpassing the measure length of 1/2
 WARNING  14op13no2c.ms3 -- Event 31 in MC 52 has has duration 1/2 and starts on 1/2, surpassing the measure length of 1/2

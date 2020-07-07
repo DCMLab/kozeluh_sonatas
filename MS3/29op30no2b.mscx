@@ -2519,7 +2519,7 @@
             <fractions>-1/8</fractions>
             </location>
           <Harmony>
-            <name>#vii%7/V</name>
+            <name>vii%7/V</name>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
@@ -2570,8 +2570,8 @@
               </Note>
             </Chord>
           <Harmony>
-            <name>#viio7/V</name>
-            <offset x="0" y="-8"/>
+            <name>viio7/V</name>
+            <offset x="0" y="-3"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>

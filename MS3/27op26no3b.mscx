@@ -1131,6 +1131,7 @@
             <actualNotes>3</actualNotes>
             <baseNote>32nd</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>2</bracketType>
@@ -1239,6 +1240,7 @@
             <actualNotes>3</actualNotes>
             <baseNote>32nd</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>2</bracketType>
@@ -1727,7 +1729,7 @@
             <velocity>96</velocity>
             </Dynamic>
           <Harmony>
-            <name>i</name>
+            <name>i]</name>
             </Harmony>
           <Chord>
             <durationType>32nd</durationType>
@@ -4218,7 +4220,7 @@
               </Note>
             </Chord>
           <Harmony>
-            <name>V7</name>
+            <name>V7]</name>
             <offset x="0" y="-7"/>
             </Harmony>
           <Chord>
@@ -5361,6 +5363,7 @@
             <actualNotes>3</actualNotes>
             <baseNote>32nd</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>2</bracketType>
@@ -5509,6 +5512,7 @@
             <actualNotes>3</actualNotes>
             <baseNote>32nd</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>2</bracketType>
@@ -5890,7 +5894,7 @@
       <Measure>
         <voice>
           <Harmony>
-            <name>i\\</name>
+            <name>i]\\</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>

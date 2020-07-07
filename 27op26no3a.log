@@ -1,8 +1,2 @@
 INFO     27op26no3a.ms3 -- Attempting to parse 27op26no3a.mscx
 INFO     27op26no3a.ms3 -- Done parsing 27op26no3a.mscx
-
-WARNING  27op26no3a.expand_labels -- The following chords could not be parsed:
-      mc   mn onset   label
-474  170  170   7/8  viio%7
-WARNING  27op26no3a.expand_labels -- MC 98: #viio43 in major context is most probably an annotation error.
-WARNING  27op26no3a.expand_labels -- MC 97: #viio43 in major context is most probably an annotation error.

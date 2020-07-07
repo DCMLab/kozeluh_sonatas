@@ -3,8 +3,3 @@ INFO     16op15no1b.ms3 -- MC 57 is longer 11/16 than its nominal duration 1/2.
 INFO     16op15no1b.ms3 -- MC 129 is longer 13/16 than its nominal duration 1/2.
 INFO     16op15no1b.ms3 -- MC 173 is longer 43/16 than its nominal duration 1/2.
 INFO     16op15no1b.ms3 -- Done parsing 16op15no1b.mscx
-
-WARNING  16op15no1b.expand_labels -- MC 72: #viio in major context is most probably an annotation error.
-WARNING  16op15no1b.expand_labels -- MC 144: #viio in major context is most probably an annotation error.
-WARNING  16op15no1b.expand_labels -- MC 15: #viio in major context is most probably an annotation error.
-WARNING  16op15no1b.expand_labels -- MC 180: #viio in major context is most probably an annotation error.

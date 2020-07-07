@@ -1652,6 +1652,7 @@
             <actualNotes>3</actualNotes>
             <baseNote>32nd</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>2</bracketType>
@@ -1748,7 +1749,7 @@
       <Measure>
         <voice>
           <Harmony>
-            <name>#viio6</name>
+            <name>viio6</name>
             </Harmony>
           <Chord>
             <dots>1</dots>

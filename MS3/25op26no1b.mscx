@@ -204,6 +204,7 @@
             <actualNotes>3</actualNotes>
             <baseNote>32nd</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>2</bracketType>
@@ -1181,6 +1182,7 @@
             <actualNotes>3</actualNotes>
             <baseNote>32nd</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>2</bracketType>
@@ -2162,6 +2164,7 @@
             <actualNotes>3</actualNotes>
             <baseNote>32nd</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>2</bracketType>
@@ -4196,8 +4199,8 @@
               </Note>
             </Chord>
           <Harmony>
-            <name>#viio/V</name>
-            <offset x="-2" y="-5"/>
+            <name>viio/V</name>
+            <offset x="-2" y="-3"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>

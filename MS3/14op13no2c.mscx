@@ -157,7 +157,6 @@
       </Part>
     <Staff id="1">
       <Measure>
-        <startRepeat/>
         <voice>
           <KeySig>
             <visible>0</visible>
@@ -168,9 +167,6 @@
             <sigN>2</sigN>
             <sigD>4</sigD>
             </TimeSig>
-          <BarLine>
-            <subtype>start-repeat</subtype>
-            </BarLine>
           <StaffText>
             <offset x="-18.1607" y="-12.7574"/>
             <text><font size="12.0915"></font><font face="Times New Roman"></font><b>Rondo</b></text>
@@ -5781,9 +5777,6 @@
             <sigN>2</sigN>
             <sigD>4</sigD>
             </TimeSig>
-          <BarLine>
-            <subtype>start-repeat</subtype>
-            </BarLine>
           <Chord>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>

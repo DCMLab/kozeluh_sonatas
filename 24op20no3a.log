@@ -1,6 +1,2 @@
 INFO     24op20no3a.ms3 -- Attempting to parse 24op20no3a.mscx
 INFO     24op20no3a.ms3 -- Done parsing 24op20no3a.mscx
-
-WARNING  24op20no3a.expand_labels -- More than two alternatives are not taken into account:      0       1          2
-86   v  iio/iv  #viio6/iv
-297  v  iio/iv  #viio6/iv

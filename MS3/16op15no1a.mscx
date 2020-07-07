@@ -525,6 +525,7 @@
             <actualNotes>9</actualNotes>
             <baseNote>64th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>9</text>
               </Number>
             <bracketType>2</bracketType>
@@ -1126,6 +1127,7 @@
             <actualNotes>3</actualNotes>
             <baseNote>32nd</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>2</bracketType>
@@ -2161,6 +2163,7 @@
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>2</bracketType>
@@ -2228,6 +2231,7 @@
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>2</bracketType>
@@ -2294,6 +2298,7 @@
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>2</bracketType>
@@ -3326,6 +3331,7 @@
             <actualNotes>3</actualNotes>
             <baseNote>32nd</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>2</bracketType>
@@ -4237,6 +4243,7 @@
         </Measure>
       <Measure len="3/8">
         <startRepeat/>
+        <irregular>1</irregular>
         <voice>
           <TimeSig>
             <sigN>3</sigN>
@@ -15261,7 +15268,7 @@
             </Chord>
           <Harmony>
             <name>iio6-#viio64</name>
-            <offset x="0" y="-8"/>
+            <offset x="0" y="-3"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -21334,6 +21341,7 @@
             <actualNotes>3</actualNotes>
             <baseNote>32nd</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>2</bracketType>
@@ -21726,6 +21734,7 @@
             <actualNotes>3</actualNotes>
             <baseNote>32nd</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>2</bracketType>

@@ -1,5 +1,2 @@
 INFO     28op30no1a.ms3 -- Attempting to parse 28op30no1a.mscx
 INFO     28op30no1a.ms3 -- Done parsing 28op30no1a.mscx
-
-WARNING  28op30no1a.expand_labels -- MC 9: #viio6 in major context is most probably an annotation error.
-WARNING  28op30no1a.expand_labels -- MC 112: #viio6 in major context is most probably an annotation error.

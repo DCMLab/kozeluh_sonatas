@@ -158,7 +158,6 @@
       </Part>
     <Staff id="1">
       <Measure>
-        <startRepeat/>
         <voice>
           <KeySig>
             <accidental>1</accidental>
@@ -168,9 +167,6 @@
             <sigN>6</sigN>
             <sigD>8</sigD>
             </TimeSig>
-          <BarLine>
-            <subtype>start-repeat</subtype>
-            </BarLine>
           <StaffText>
             <offset x="-16.8381" y="-10.1172"/>
             <text><font size="11.5335"></font><font face="Times New Roman"></font><b>Presto</b></text>
@@ -12702,6 +12698,7 @@
           </voice>
         </Measure>
       <Measure>
+        <endRepeat>2</endRepeat>
         <voice>
           <Harmony>
             <name>i]\\</name>
@@ -12745,9 +12742,6 @@
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
-          <BarLine>
-            <subtype>end</subtype>
-            </BarLine>
           </voice>
         </Measure>
       </Staff>
@@ -12762,9 +12756,6 @@
             <sigN>6</sigN>
             <sigD>8</sigD>
             </TimeSig>
-          <BarLine>
-            <subtype>start-repeat</subtype>
-            </BarLine>
           <Chord>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
@@ -21034,9 +21025,6 @@
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
-          <BarLine>
-            <subtype>end</subtype>
-            </BarLine>
           </voice>
         </Measure>
       </Staff>

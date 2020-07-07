@@ -1,5 +1,3 @@
 INFO     17op15no2c.ms3 -- Attempting to parse 17op15no2c.mscx
-WARNING  17op15no2c.ms3 -- First measure of staff 1 has a startRepeat tag. Information overwritten by 'firstMeasure'
-WARNING  17op15no2c.ms3 -- MC 160 (1/2) and MC 70 (1) don't add up to 1.
 INFO     17op15no2c.ms3 -- Done parsing 17op15no2c.mscx
 

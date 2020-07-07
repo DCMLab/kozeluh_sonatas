@@ -1,5 +1,2 @@
 INFO     19op17no1b.ms3 -- Attempting to parse 19op17no1b.mscx
-WARNING  19op17no1b.ms3 -- First measure of staff 1 has a startRepeat tag. Information overwritten by 'firstMeasure'
 INFO     19op17no1b.ms3 -- Done parsing 19op17no1b.mscx
-
-WARNING  19op17no1b.expand_labels -- MC 21: #viio65 in major context is most probably an annotation error.
