@@ -29,8 +29,8 @@ mc	mn	onset	label	alt_label	globalkey	localkey	pedal	chord	numeral	special	form	
 20	20	0	i		f	i	V	i	i							m	1	1	0, -3, 1		0	0
 20	20	3/8	V7		f	i	V	V7	V			7				Mm7	1	1	1, 5, 2, -1		1	1
 21	21	0	i]		f	i	V	i	i							m	1	1	0, -3, 1		0	0
-21	21	3/4	#viio65/V		f	i		#viio65/V	#vii		o	65		V		o7	1	1	10, 7, 4, 13		13	10
-22	22	0	V[#viio65		f	i	V	#viio65	#vii		o	65				o7	1	1	2, -1, -4, 5		5	2
+21	21	3/4	viio65/V		f	i		viio65/V	vii		o	65		V		o7	1	1	3, 0, -3, 6		6	3
+22	22	0	V[viio65/V		f	i	V	viio65/V	vii		o	65		V		o7	1	1	3, 0, -3, 6		6	3
 22	22	1/2	V]\\		f	i	V	V	V						\\	M	1	1	1, 5, 2		1	1
 23	23	0	i		f	i		i	i							m	1	1	0, -3, 1		0	0
 25	25	0	i6		f	i		i6	i			6				m	1	1	-3, 1, 0		0	-3

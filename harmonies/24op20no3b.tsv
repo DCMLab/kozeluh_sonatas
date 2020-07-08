@@ -46,7 +46,7 @@ mc	mn	onset	label	alt_label	globalkey	localkey	pedal	chord	numeral	form	figbass	
 19	19	1/4	ii6		D	V		ii6	ii		6				m	0	0	-1, 3, 2		2	-1
 20	20	0	V(64)		D	V		V(64)	V			64			M	0	0	1, 0, 4		1	1
 20	20	1/4	V		D	V		V	V						M	0	0	1, 5, 2		1	1
-21	21	0	#viio6		D	V		#viio6	#vii	o	6				o	0	0	9, 6, 12		12	9
+21	21	0	viio6		D	V		viio6	vii	o	6				o	0	0	2, -1, 5		5	2
 21	21	1/4	V2		D	V		V2	V		2				Mm7	0	0	-1, 1, 5, 2		1	-1
 22	22	0	I6		D	V		I6	I		6				M	0	0	4, 1, 0		0	4
 22	22	1/4	vi		D	V		vi	vi						m	0	0	3, 0, 4		3	3

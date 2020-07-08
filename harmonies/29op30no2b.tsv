@@ -88,10 +88,10 @@ mc	mn	onset	label	globalkey	localkey	pedal	chord	numeral	special	form	figbass	ch
 21	20	1/2	V7	D	i	V	V7	V			7				Mm7	0	1	1, 5, 2, -1		1	1
 21	20	5/8	vii%7/V	D	i	V	vii%7/V	vii		%	7		V		%7	0	1	6, 5, 12, 4		6	6
 22	21	0	I	D	i	V	I	I							M	0	1	0, 4, 1		0	0
-22	21	1/8	#vii%7/V	D	i	V	#vii%7/V	#vii		%	7		V		%7	0	1	13, 12, 19, 11		13	13
+22	21	1/8	vii%7/V	D	i	V	vii%7/V	vii		%	7		V		%7	0	1	6, 5, 12, 4		6	6
 22	21	1/4	V	D	i	V	V	V							M	0	1	1, 5, 2		1	1
 22	21	1/2	V7	D	i	V	V7	V			7				Mm7	0	1	1, 5, 2, -1		1	1
-22	21	5/8	#viio7/V	D	i	V	#viio7/V	#vii		o	7		V		o7	0	1	13, 10, 7, 4		13	13
+22	21	5/8	viio7/V	D	i	V	viio7/V	vii		o	7		V		o7	0	1	6, 3, 0, -3		6	6
 23	22	0	i	D	i	V	i	i							m	0	1	0, -3, 1		0	0
 23	22	1/4	V7]\\	D	i	V	V7	V			7			\\	Mm7	0	1	1, 5, 2, -1		1	1
 25	24	3/8	I.V	D	I		V	V							M	0	0	1, 5, 2		1	1

@@ -114,7 +114,7 @@ mc	mn	onset	label	alt_label	globalkey	localkey	pedal	chord	numeral	special	form	
 36	35	1/4	iio6		f	i	V	iio6	ii		o	6				o	1	1	-1, -4, 2		2	-1
 36	35	3/8	i6		f	i	V	i6	i			6				m	1	1	-3, 1, 0		0	-3
 36	35	1/2	V		f	i	V	V	V							M	1	1	1, 5, 2		1	1
-36	35	5/8	#viio43/V		f	i	V	#viio43/V	#vii		o	43		V		o7	1	1	7, 4, 13, 10		13	7
+36	35	5/8	viio43/V		f	i	V	viio43/V	vii		o	43		V		o7	1	1	0, -3, 6, 3		6	0
 37	36	0	V		f	i	V	V	V							M	1	1	1, 5, 2		1	1
 37	36	1/8	I		f	i	V	I	I							M	1	1	0, 4, 1		0	0
 37	36	1/4	V		f	i	V	V	V							M	1	1	1, 5, 2		1	1
