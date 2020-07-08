@@ -1,4 +1,4 @@
-|no |op |op_no|             title             |                     movements                     |root|mode |   year   |scores|
+|no |op |op_no|             title             |                     movements                     |root|mode |   year   |pdf|
 |--:|--:|----:|-------------------------------|---------------------------------------------------|----|-----|----------|------|
 |  1|  1|    1|(1) Sonata 1, F major (1780)   |I. Allegro molto                                   |F   |major|      1780|False |
 |  1|  1|    1|(1) Sonata 1, F major (1780)   |II. Cantabile                                      |F   |major|      1780|False |
