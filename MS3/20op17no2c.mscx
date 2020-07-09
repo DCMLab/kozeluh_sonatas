@@ -4338,7 +4338,7 @@
               </Note>
             </Chord>
           <Harmony>
-            <name>ii%7-#viio6(2)]</name>
+            <name>ii%7]-#viio6(2)]</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -5431,7 +5431,7 @@
       <Measure>
         <voice>
           <Harmony>
-            <name>I</name>
+            <name>I]</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -9403,7 +9403,7 @@
               </Note>
             </Chord>
           <Harmony>
-            <name>ii-viio6]</name>
+            <name>ii]-viio6]</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -9739,7 +9739,7 @@
               </Note>
             </Chord>
           <Harmony>
-            <name>ii-viio6]</name>
+            <name>ii]-viio6]</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -10246,7 +10246,7 @@
               </Note>
             </Chord>
           <Harmony>
-            <name>V(#7#5)-#viio/iii]</name>
+            <name>V(#7#5)]-#viio/iii]</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -10336,7 +10336,7 @@
               </Note>
             </Chord>
           <Harmony>
-            <name>V(6#4)-#viio/ii]</name>
+            <name>V(6#4)]-#viio/ii]</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -11421,7 +11421,7 @@
               </Note>
             </Chord>
           <Harmony>
-            <name>iii-I6]</name>
+            <name>iii]-I6]</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
