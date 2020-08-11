@@ -4,3 +4,35 @@ INFO     16op15no1b.ms3 -- MC 129 is longer 13/16 than its nominal duration 1/2.
 INFO     16op15no1b.ms3 -- MC 173 is longer 43/16 than its nominal duration 1/2.
 INFO     16op15no1b.ms3 -- Done parsing 16op15no1b.mscx
 
+WARNING  16op15no1b.expand_labels -- The following chords could not be parsed:
+      mc   mn onset      label
+238   88   88     0  .bIII.I[I
+325  114  114   1/4      .Ger6
+352  125  125   1/8       .It6
+ERROR    16op15no1b -- Could not expand labels due to errors:
+Traceback (most recent call last):
+  File "scripts/parallel_parse.py", line 93, in parse
+    expanded = expand_labels(chord_list, column='label', regex=regex, chord_tones=True, groupby=None, logger_name=S.fname).df
+  File "/home/hentsche/corpora/scripts/expand_labels.py", line 421, in __init__
+    df = self.propagate_pedal(df, cols=cols)
+  File "/home/hentsche/corpora/scripts/expand_labels.py", line 747, in propagate_pedal
+    assert n_b == n_e, f"{n_b} organ points started, {n_e} ended:\n{make_comparison()}"
+AssertionError: 16 organ points started, 17 ended:
+      mc pedal   mc pedalend
+0      1     I    6        ]
+1      9     I   14        ]
+2     26     V   31        ]
+3     45     I   46        ]
+4     47     I   48        ]
+5     58     I   63        ]
+6     66     I   71        ]
+7     80     i   85        ]
+8     92     V   91        ]
+9     96     I   95        ]
+10   105     I   99        ]
+11   107     I  106        ]
+12   130     I  108        ]
+13   138     I  135        ]
+14   152     V  143        ]
+15   174     I  155        ]
+16  <NA>   NaN  179        ]

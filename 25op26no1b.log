@@ -3,3 +3,7 @@ INFO     25op26no1b.ms3 -- MC 49 is longer 7/4 than its nominal duration 1.
 INFO     25op26no1b.ms3 -- MC 50 is longer 11/4 than its nominal duration 1.
 INFO     25op26no1b.ms3 -- Done parsing 25op26no1b.mscx
 
+WARNING  25op26no1b.expand_labels -- The following chords could not be parsed:
+     mc  mn onset       label
+128  39  39     0  .bIII.IVM7
+149  49  49     0        .It6

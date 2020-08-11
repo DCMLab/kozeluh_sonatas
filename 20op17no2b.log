@@ -2,3 +2,8 @@ INFO     20op17no2b.ms3 -- Attempting to parse 20op17no2b.mscx
 INFO     20op17no2b.ms3 -- MC 42 is longer 19/16 than its nominal duration 1/2.
 INFO     20op17no2b.ms3 -- Done parsing 20op17no2b.mscx
 
+WARNING  20op17no2b.expand_labels -- The following chords could not be parsed:
+     mc  mn onset         label
+164  56  56  3/16     .bIII.vi6
+174  58  58  5/16       .biii.V
+187  64  64   1/4  .bIII.viio/V
