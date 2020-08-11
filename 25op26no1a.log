@@ -2,9 +2,3 @@ INFO     25op26no1a.ms3 -- Attempting to parse 25op26no1a.mscx
 WARNING  25op26no1a.ms3 -- The endRepeat in MC 218 (3/4) is not adapted to the irregular measure length in MC 89 (1/8)
 INFO     25op26no1a.ms3 -- Done parsing 25op26no1a.mscx
 
-WARNING  25op26no1a.expand_labels -- The following chords could not be parsed:
-      mc   mn onset       label
-188   73   72   3/8       .bVI6
-235   98   96   5/8  .bVII.viio
-303  131  129   3/8        .It6
-488  201  199   3/8       .bVI6

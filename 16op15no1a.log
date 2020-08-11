@@ -2,15 +2,3 @@ INFO     16op15no1a.ms3 -- Attempting to parse 16op15no1a.mscx
 WARNING  16op15no1a.ms3 -- MC 35 (3/8) and MC 36 (3/4) don't add up to 3/4.
 INFO     16op15no1a.ms3 -- Done parsing 16op15no1a.mscx
 
-WARNING  16op15no1a.expand_labels -- The following chords could not be parsed:
-      mc   mn onset  label
-39    11   11   5/8   .Fr6
-49    13   13   5/8   .Fr6
-72    23   23   5/8   .Fr6
-82    25   25   5/8   .Fr6
-467  173  171   5/8   .It6
-511  197  195     0  .bII6
-568  224  221     0  .Ger6
-569  225  222   3/8   .It6
-590  232  229   5/8   .Fr6
-600  234  231   5/8   .Fr6

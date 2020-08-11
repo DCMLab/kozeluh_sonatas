@@ -3,17 +3,3 @@ WARNING  26op26no2b.ms3 -- First measure of staff 1 has a startRepeat tag. Infor
 INFO     26op26no2b.ms3 -- MC 168 is longer 9/4 than its nominal duration 1.
 INFO     26op26no2b.ms3 -- Done parsing 26op26no2b.mscx
 
-WARNING  26op26no2b.expand_labels -- The following chords could not be parsed:
-      mc   mn onset  label
-24    13   11     0   .bII
-69    31   27     0   .bII
-116   49   43     0   .bII
-200   85   75     0  .bII6
-214   89   79   1/2  .bII6
-237   98   87     0  .bII6
-250  103   91     0  .bII6
-335  139  123     0  .bII6
-389  157  139     0  .bII6
-418  166  147     0  .bII6
-427  172  153     0  .bII6
-441  177  158     0  .bII6
