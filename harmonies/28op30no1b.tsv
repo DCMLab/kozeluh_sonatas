@@ -102,7 +102,7 @@ mc	mn	mc_onset	mn_onset	timesig	staff	voice	label	globalkey	localkey	pedal	chord
 27	27	1/4	1/4	3/4	1	1	VI[iv6(2)	Eb	i	VI	iv6(2)		iv		6	2			m	0	1	-4, 0, 1		-1	-4
 27	27	3/8	3/8	3/4	1	1	V6/iv	Eb	i	VI	V6/iv		V		6		iv		M	0	1	4, 1, 0		0	4
 27	27	1/2	1/2	3/4	1	1	iv6	Eb	i	VI	iv6		iv		6				m	0	1	-4, 0, -1		-1	-4
-27	27	5/8	5/8	3/4	1	1	.Ger6]	Eb	i	VI	Ger6	Ger	vii	o	65	b3	V		M	0	1	-4, 0, -3, 6		6	-4
+27	27	5/8	5/8	3/4	1	1	.Ger6]	Eb	i	VI	Ger6	Ger	vii	o	65	b3	V		Ger	0	1	-4, 0, -3, 6		6	-4
 28	28	0	0	3/4	1	1	V[V(64)	Eb	i	V	V(64)		V			64			M	0	1	1, 0, -3		1	1
 28	28	1/4	1/4	3/4	1	1	V	Eb	i	V	V		V						M	0	1	1, 5, 2		1	1
 28	28	3/8	3/8	3/4	1	1	i	Eb	i	V	i		i						m	0	1	0, -3, 1		0	0

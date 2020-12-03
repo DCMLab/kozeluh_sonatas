@@ -86,7 +86,7 @@ mc	mn	mc_onset	mn_onset	timesig	staff	voice	label	alt_label	globalkey	localkey	p
 31	31	0	0	6/8	1	1	viio6/IV		e	III		viio6/IV		vii	o	6		IV		o	1	0	1, -2, 4		4	1
 32	32	0	0	6/8	1	1	IV\\		e	III		IV		IV					\\	M	1	0	-1, 3, 0		-1	-1
 32	32	1/2	1/2	6/8	1	1	IV6		e	III		IV6		IV		6				M	1	0	3, 0, -1		-1	3
-33	33	0	0	6/8	1	1	.Ger6		e	III		Ger6	Ger	vii	o	65	b3	V		M	1	0	-4, 0, -3, 6		6	-4
+33	33	0	0	6/8	1	1	.Ger6		e	III		Ger6	Ger	vii	o	65	b3	V		Ger	1	0	-4, 0, -3, 6		6	-4
 34	34	0	0	6/8	1	1	V		e	III		V		V						M	1	0	1, 5, 2		1	1
 34	34	5/8	5/8	6/8	1	1	viio		e	III		viio		vii	o					o	1	0	5, 2, -1		5	5
 35	35	0	0	6/8	1	1	I		e	III		I		I						M	1	0	0, 4, 1		0	0
@@ -269,12 +269,12 @@ mc	mn	mc_onset	mn_onset	timesig	staff	voice	label	alt_label	globalkey	localkey	p
 102	102	0	0	6/8	1	1	V65		e	i		V65		V		65				Mm7	1	1	5, 2, -1, 1		1	5
 103	103	0	0	6/8	1	1	i\\		e	i		i		i					\\	m	1	1	0, -3, 1		0	0
 103	103	1/2	1/2	6/8	1	1	i		e	i		i		i						m	1	1	0, -3, 1		0	0
-103	103	5/8	5/8	6/8	1	1	iio	#viio6	e	i		iio		ii	o					o	1	1	2, -1, -4		2	2
+103	103	5/8	5/8	6/8	1	1	iio-#viio6		e	i											1	1				
 104	104	0	0	6/8	1	1	i6		e	i		i6		i		6				m	1	1	-3, 1, 0		0	-3
 105	105	0	0	6/8	1	1	iio6		e	i		iio6		ii	o	6				o	1	1	-1, -4, 2		2	-1
 106	106	0	0	6/8	1	1	#viio6/iv		e	i		#viio6/iv		#vii	o	6		iv		o	1	1	1, -2, 4		4	1
 107	107	0	0	6/8	1	1	iv6		e	i		iv6		iv		6				m	1	1	-4, 0, -1		-1	-4
-108	108	0	0	6/8	1	1	.Ger6		e	i		Ger6	Ger	vii	o	65	b3	V		M	1	1	-4, 0, -3, 6		6	-4
+108	108	0	0	6/8	1	1	.Ger6		e	i		Ger6	Ger	vii	o	65	b3	V		Ger	1	1	-4, 0, -3, 6		6	-4
 109	109	0	0	6/8	1	1	V		e	i		V		V						M	1	1	1, 5, 2		1	1
 109	109	5/8	5/8	6/8	1	1	#viio		e	i		#viio		#vii	o					o	1	1	5, 2, -1		5	5
 110	110	0	0	6/8	1	1	i		e	i		i		i						m	1	1	0, -3, 1		0	0
@@ -294,7 +294,7 @@ mc	mn	mc_onset	mn_onset	timesig	staff	voice	label	alt_label	globalkey	localkey	p
 114	114	0	0	6/8	1	1	ii6		e	i		ii6		ii		6				m	1	1	-1, 3, 2		2	-1
 114	114	1/4	1/4	6/8	1	1	V7		e	i		V7		V		7				Mm7	1	1	1, 5, 2, -1		1	1
 114	114	3/8	3/8	6/8	1	1	VI		e	i		VI		VI						M	1	1	-4, 0, -3		-4	-4
-114	114	5/8	5/8	6/8	1	1	.It6		e	i		It6	It	vii	o	6	b3	V		M	1	1	-4, 0, 6		6	-4
+114	114	5/8	5/8	6/8	1	1	.It6		e	i		It6	It	vii	o	6	b3	V		It	1	1	-4, 0, 6		6	-4
 115	115	0	0	6/8	1	1	V\\		e	i		V		V					\\	M	1	1	1, 5, 2		1	1
 115	115	1/2	1/2	6/8	1	1	V6		e	i		V6		V		6				M	1	1	5, 2, 1		1	5
 115	115	5/8	5/8	6/8	1	1	V43		e	i		V43		V		43				Mm7	1	1	2, -1, 1, 5		1	2

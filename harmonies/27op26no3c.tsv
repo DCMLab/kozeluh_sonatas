@@ -165,11 +165,11 @@ mc	mn	mc_onset	mn_onset	timesig	staff	voice	label	alt_label	globalkey	localkey	p
 122	120	0	0	2/4	1	1	i		Eb	vi		i		i						m	0	1	0, -3, 1		0	0
 122	120	1/4	1/4	2/4	1	1	i6		Eb	vi		i6		i		6				m	0	1	-3, 1, 0		0	-3
 123	121	0	0	2/4	1	1	i		Eb	vi		i		i						m	0	1	0, -3, 1		0	0
-123	121	1/4	1/4	2/4	1	1	.It6		Eb	vi		It6	It	vii	o	6	b3	V		M	0	1	-4, 0, 6		6	-4
+123	121	1/4	1/4	2/4	1	1	.It6		Eb	vi		It6	It	vii	o	6	b3	V		It	0	1	-4, 0, 6		6	-4
 124	122	0	0	2/4	1	1	V		Eb	vi		V		V						M	0	1	1, 5, 2		1	1
 124	122	1/4	1/4	2/4	1	1	i6		Eb	vi		i6		i		6				m	0	1	-3, 1, 0		0	-3
 125	123	0	0	2/4	1	1	i		Eb	vi		i		i						m	0	1	0, -3, 1		0	0
-125	123	1/4	1/4	2/4	1	1	.It6		Eb	vi		It6	It	vii	o	6	b3	V		M	0	1	-4, 0, 6		6	-4
+125	123	1/4	1/4	2/4	1	1	.It6		Eb	vi		It6	It	vii	o	6	b3	V		It	0	1	-4, 0, 6		6	-4
 126	124	0	0	2/4	1	1	V		Eb	vi		V		V						M	0	1	1, 5, 2		1	1
 128	126	0	0	2/4	1	1	v		Eb	vi		v		v						m	0	1	1, -2, 2		1	1
 130	128	0	0	2/4	1	1	III		Eb	vi		III		III						M	0	1	-3, 1, -2		-3	-3
