@@ -1,0 +1,151 @@
+Warnings encountered during the last execution of ms3 review (v1.2.4)
+=====================================================================
+
+INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 35) ms3.Parse.kozeluh_sonatas.16op15no1a -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 763) make_offset_col():
+	The incomplete MC 35 (timesig 3/4, act_dur 3/8) is completed by 1 incorrect duration (expected: 3/8):
+	{36: Fraction(3, 4)}
+PLAY_UNTIL_IS_MISSING_LABEL_WARNING (21, 82) ms3.Parse.kozeluh_sonatas.20op17no2b -- /usr/local/lib/python3.10/site-packages/ms3/bs4_measures.py (line 327) jump2marker():
+	After jumping from MC 82 to start, the music is supposed to play until label fine but there is no corresponding marker in the score. Ignoring.
+WARNING  ms3.Parse.kozeluh_sonatas.20op17no2b -- /usr/local/lib/python3.10/site-packages/ms3/utils.py (line 3412) unfold_measures_table():
+	Error in the repeat structure: Did not reach the stopping value -1 in measures.next:
+	mc
+	1        (2,)
+	2        (3,)
+	3        (4,)
+	4        (5,)
+	5        (6,)
+	        ...  
+	96      (97,)
+	97      (98,)
+	98      (99,)
+	99     (100,)
+	100     (-1,)
+	Name: next, Length: 100, dtype: object
+WARNING  ms3.Parse.kozeluh_sonatas.20op17no2b -- /usr/local/lib/python3.10/site-packages/ms3/utils.py (line 3412) unfold_measures_table():
+	Error in the repeat structure: Did not reach the stopping value -1 in measures.next:
+	mc
+	1        (2,)
+	2        (3,)
+	3        (4,)
+	4        (5,)
+	5        (6,)
+	        ...  
+	96      (97,)
+	97      (98,)
+	98      (99,)
+	99     (100,)
+	100     (-1,)
+	Name: next, Length: 100, dtype: object
+WARNING  ms3.Parse.kozeluh_sonatas.20op17no2b -- /usr/local/lib/python3.10/site-packages/ms3/bs4_parser.py (line 634) unfold_facet_df():
+	Unfolding 'expanded DCML labels' unsuccessful. Check warnings concerning repeat structure and fix.
+Chord labels where the ratio of colored notes vs. all notes in a segment lies above 0.6:
+                                      mc   mn mc_onset      label        chord_tones added_tones  n_colored  n_untouched  count_ratio
+kozeluh_sonatas MS3/11op10no1a.mscx   99   99      1/8     viio65  (-5, -8, -11, -2)          ()        4.0          0.0     1.000000
+                MS3/11op10no1a.mscx  120  120     5/16       ii.i        (-1, -4, 0)          ()        8.0          3.0     0.727273
+                MS3/14op13no2c.mscx   91   91        0     viio64          (0, 6, 3)          ()        5.0          3.0     0.625000
+                MS3/15op13no3a.mscx   37   37        0      i(94)          (1, 0, 2)        (3,)        5.0          1.0     0.833333
+                MS3/15op13no3b.mscx    6    5      5/8     V65/IV       (8, 5, 2, 4)          ()        5.0          3.0     0.625000
+                MS3/16op15no1a.mscx    7    7     3/16       III6        (2, -1, -2)          ()        2.0          1.0     0.666667
+                MS3/16op15no1a.mscx    7    7     5/16       iio6         (0, -3, 3)          ()        2.0          1.0     0.666667
+                MS3/16op15no1a.mscx    7    7     7/16         i6         (-2, 2, 1)          ()        2.0          1.0     0.666667
+                MS3/16op15no1a.mscx   31   31     3/16       III6        (2, -1, -2)          ()        2.0          1.0     0.666667
+                MS3/16op15no1a.mscx   32   32     3/16       VI6]        (1, -2, -3)          ()        2.0          1.0     0.666667
+                MS3/16op15no1a.mscx  181  179      5/8  viio6(+2)       (-4, -7, -1)        (1,)        4.0          0.0     1.000000
+                MS3/16op15no1a.mscx  240  237     3/16       III6        (2, -1, -2)          ()        2.0          1.0     0.666667
+                MS3/16op15no1b.mscx   31   31     1/24         V]          (3, 7, 4)          ()       17.0          6.0     0.739130
+                MS3/17op15no2a.mscx  176  176        0        I[I          (1, 5, 2)          ()       16.0          6.0     0.727273
+                MS3/17op15no2a.mscx  177  177        0          I          (1, 5, 2)          ()       16.0          6.0     0.727273
+                MS3/17op15no2a.mscx  178  178        0          I          (1, 5, 2)          ()       24.0          6.0     0.800000
+                MS3/17op15no2a.mscx  179  179        0         I]          (1, 5, 2)          ()        8.0          2.0     0.800000
+                MS3/17op15no2a.mscx  179  179      1/4         I6          (5, 2, 1)          ()       16.0          4.0     0.800000
+                MS3/17op15no2a.mscx  179  179      3/4     V+6/IV          (5, 9, 1)          ()       10.0          0.0     1.000000
+                MS3/17op15no2a.mscx  180  180        0         IV          (0, 4, 1)          ()       26.0         12.0     0.684211
+                MS3/17op15no2a.mscx  181  181        0      V(64)          (2, 1, 5)          ()       15.0          7.0     0.681818
+                MS3/17op15no2a.mscx  182  182        0        I[I          (1, 5, 2)          ()       16.0          6.0     0.727273
+                MS3/17op15no2a.mscx  183  183        0          I          (1, 5, 2)          ()       16.0          6.0     0.727273
+                MS3/17op15no2a.mscx  184  184        0          I          (1, 5, 2)          ()       24.0          6.0     0.800000
+                MS3/17op15no2a.mscx  185  185        0         I]          (1, 5, 2)          ()        8.0          2.0     0.800000
+                MS3/17op15no2a.mscx  185  185      1/4         I6          (5, 2, 1)          ()       16.0          4.0     0.800000
+                MS3/17op15no2a.mscx  185  185      3/4     V+6/IV          (5, 9, 1)          ()       10.0          0.0     1.000000
+                MS3/17op15no2a.mscx  186  186      1/2    viio7/V      (7, 4, 1, -2)          ()       20.0          0.0     1.000000
+                MS3/17op15no2a.mscx  187  187        0      V(64)          (2, 1, 5)          ()       16.0          4.0     0.800000
+                MS3/17op15no2a.mscx  187  187      1/2      V2/IV      (-1, 1, 5, 2)          ()       20.0          0.0     1.000000
+                MS3/17op15no2a.mscx  188  188      1/2       Ger6     (-3, 1, -2, 7)          ()       20.0          4.0     0.833333
+                MS3/17op15no2a.mscx  189  189        0      V(64)          (2, 1, 5)          ()       24.0         14.0     0.631579
+                MS3/17op15no2a.mscx  191  191      1/2          V          (2, 6, 3)          ()        8.0          0.0     1.000000
+                MS3/17op15no2a.mscx  192  192        0        I\\          (1, 5, 2)          ()        5.0          0.0     1.000000
+                MS3/17op15no2a.mscx  192  192      3/8        I[I          (1, 5, 2)          ()        2.0          1.0     0.666667
+                MS3/17op15no2a.mscx  192  192      1/2         vi          (4, 1, 5)          ()        6.0          0.0     1.000000
+                MS3/17op15no2a.mscx  192  192      3/4          V          (2, 6, 3)          ()        6.0          0.0     1.000000
+                MS3/17op15no2a.mscx  193  193      1/2         IV          (0, 4, 1)          ()        6.0          2.0     0.750000
+                MS3/17op15no2a.mscx  193  193      3/4      viio6          (3, 0, 6)          ()        6.0          2.0     0.750000
+                MS3/17op15no2a.mscx  194  194        0          I          (1, 5, 2)          ()        4.0          0.0     1.000000
+                MS3/17op15no2a.mscx  194  194      1/8        ii6          (0, 4, 3)          ()        3.0          1.0     0.750000
+                MS3/17op15no2a.mscx  194  194      1/4          I          (1, 5, 2)          ()        5.0          2.0     0.714286
+                MS3/17op15no2a.mscx  194  194      1/2         vi          (4, 1, 5)          ()        6.0          0.0     1.000000
+                MS3/17op15no2a.mscx  194  194      3/4          V          (2, 6, 3)          ()        6.0          0.0     1.000000
+                MS3/17op15no2a.mscx  195  195      1/2         IV          (0, 4, 1)          ()        6.0          2.0     0.750000
+                MS3/17op15no2a.mscx  195  195      3/4      viio6          (3, 0, 6)          ()        6.0          2.0     0.750000
+                MS3/17op15no2a.mscx  196  196        0       I]\\          (1, 5, 2)          ()        5.0          3.0     0.625000
+                MS3/17op15no2a.mscx  196  196      3/8         I6          (5, 2, 1)          ()        3.0          1.0     0.750000
+                MS3/17op15no2a.mscx  196  196      1/2          V          (2, 6, 3)          ()       12.0          0.0     1.000000
+                MS3/17op15no2a.mscx  196  196      7/8         V6          (6, 3, 2)          ()        4.0          0.0     1.000000
+                MS3/17op15no2a.mscx  197  197        0          I          (1, 5, 2)          ()        5.0          3.0     0.625000
+                MS3/17op15no2a.mscx  197  197      3/8         I6          (5, 2, 1)          ()        3.0          1.0     0.750000
+                MS3/17op15no2a.mscx  197  197      1/2          V          (2, 6, 3)          ()       12.0          0.0     1.000000
+                MS3/17op15no2a.mscx  197  197      7/8         V6          (6, 3, 2)          ()        4.0          0.0     1.000000
+                MS3/17op15no2a.mscx  198  198      3/8         I6          (5, 2, 1)          ()        3.0          1.0     0.750000
+                MS3/17op15no2a.mscx  198  198      1/2          V          (2, 6, 3)          ()        9.0          3.0     0.750000
+                MS3/17op15no2a.mscx  198  198      7/8         V7       (2, 6, 3, 0)          ()        3.0          1.0     0.750000
+                MS3/17op15no2a.mscx  199  199      3/8         I6          (5, 2, 1)          ()        3.0          1.0     0.750000
+                MS3/17op15no2a.mscx  199  199      1/2          V          (2, 6, 3)          ()        9.0          3.0     0.750000
+                MS3/17op15no2a.mscx  199  199      7/8        V7]       (2, 6, 3, 0)          ()        3.0          1.0     0.750000
+                MS3/17op15no2a.mscx  200  200        0        I\\          (1, 5, 2)          ()       15.0          5.0     0.750000
+                MS3/17op15no2c.mscx   95   95        0         ii          (4, 1, 5)          ()        6.0          0.0     1.000000
+                MS3/19op17no1b.mscx  168  168      3/4       viio       (-3, -6, -9)          ()        5.0          0.0     1.000000
+                MS3/21op17no3a.mscx   95   95      7/8  viio6(+2)       (-4, -7, -1)        (1,)        4.0          0.0     1.000000
+                MS3/21op17no3a.mscx   99   99      7/8  viio6(+2)       (-4, -7, -1)        (1,)        4.0          0.0     1.000000
+                MS3/21op17no3b.mscx  142  141        0          i         (1, -2, 2)          ()        6.0          2.0     0.750000
+                MS3/22op20no1a.mscx    8    8      1/8          I         (-1, 3, 0)          ()        7.0          3.0     0.700000
+                MS3/22op20no1b.mscx    8    8     1/32          I        (-2, 2, -1)          ()        5.0          3.0     0.625000
+                MS3/22op20no1b.mscx   39   39     1/32          I        (-2, 2, -1)          ()        5.0          3.0     0.625000
+                MS3/23op20no2c.mscx   16   16     5/16         V2      (-1, 1, 5, 2)          ()        2.0          1.0     0.666667
+                MS3/23op20no2c.mscx   31   31     3/16  #viio6/ii          (5, 2, 8)          ()        2.0          1.0     0.666667
+                MS3/23op20no2c.mscx  126  126     5/16          V          (1, 5, 2)          ()        2.0          1.0     0.666667
+                MS3/24op20no3a.mscx   25   25      3/4     vii%65      (1, -2, 2, 4)          ()        4.0          1.0     0.800000
+                MS3/24op20no3a.mscx   27   27      3/4     vii%65      (1, -2, 2, 4)          ()        4.0          1.0     0.800000
+                MS3/24op20no3a.mscx   30   30      1/2      V(64)        (0, -1, -4)          ()        2.0          1.0     0.666667
+                MS3/24op20no3a.mscx   31   31      1/2      V(64)        (0, -1, -4)          ()        2.0          1.0     0.666667
+                MS3/24op20no3a.mscx   32   32      1/2      V(64)        (0, -1, -4)          ()        2.0          1.0     0.666667
+                MS3/24op20no3a.mscx   66   66      1/2      V(64)         (0, -1, 3)          ()        2.0          1.0     0.666667
+                MS3/24op20no3a.mscx   67   67      1/2      V(64)         (0, -1, 3)          ()        2.0          1.0     0.666667
+                MS3/24op20no3a.mscx   72   72      1/2      V(64)         (2, 1, -2)          ()        2.0          1.0     0.666667
+                MS3/24op20no3a.mscx   73   73      1/2      V(64)         (2, 1, -2)          ()        2.0          1.0     0.666667
+                MS3/24op20no3a.mscx  115  115      1/2      V(64)         (3, 2, -1)          ()        2.0          1.0     0.666667
+                MS3/24op20no3a.mscx  116  116      1/2      V(64)         (3, 2, -1)          ()        2.0          1.0     0.666667
+                MS3/24op20no3a.mscx  118  118      1/2      V(64)        (-1, -2, 2)          ()        2.0          1.0     0.666667
+                MS3/24op20no3b.mscx   12   12      1/8         IV          (1, 5, 2)          ()        2.0          1.0     0.666667
+                MS3/24op20no3b.mscx   26   26      1/8         IV          (2, 6, 3)          ()        2.0          1.0     0.666667
+                MS3/24op20no3b.mscx   33   33      3/8     vii%65       (4, 1, 5, 7)          ()        3.0          1.0     0.750000
+                MS3/24op20no3b.mscx   46   46      1/8         IV          (1, 5, 2)          ()        2.0          1.0     0.666667
+                MS3/24op20no3c.mscx   86   85        0  viio6(94)          (6, 1, 7)        (2,)        3.0          1.0     0.750000
+                MS3/24op20no3c.mscx   94   93        0  viio6(94)          (6, 1, 7)        (2,)        3.0          1.0     0.750000
+                MS3/24op20no3c.mscx  109  108        0  viio6(94)          (6, 1, 7)        (2,)        3.0          1.0     0.750000
+                MS3/24op20no3c.mscx  117  116        0  viio6(94)          (6, 1, 7)        (2,)        3.0          1.0     0.750000
+                MS3/25op26no1a.mscx   20   19      3/8      viio7      (7, 4, 1, -2)          ()        5.0          2.0     0.714286
+                MS3/25op26no1a.mscx   21   20      3/8      viio7      (7, 4, 1, -2)          ()        5.0          2.0     0.714286
+                MS3/25op26no1b.mscx   24   24      7/8        V65       (9, 6, 3, 5)          ()        2.0          1.0     0.666667
+                MS3/25op26no1c.mscx    7    6        0        IV6          (5, 2, 1)          ()       10.0          1.0     0.909091
+                MS3/25op26no1c.mscx   36   35      3/8          V          (4, 8, 5)          ()        2.0          0.0     1.000000
+                MS3/25op26no1c.mscx   98   97        0        IV6          (5, 2, 1)          ()       10.0          1.0     0.909091
+                MS3/26op26no2b.mscx  104   92      1/4         V6          (8, 5, 4)          ()        4.0          2.0     0.666667
+                MS3/27op26no3b.mscx    2    2        0       iio6        (-1, -4, 2)          ()        5.0          3.0     0.625000
+                MS3/27op26no3b.mscx    8    8        0       iio6        (-1, -4, 2)          ()        5.0          3.0     0.625000
+                MS3/27op26no3b.mscx   31   31        0       iio6        (-1, -4, 2)          ()        5.0          3.0     0.625000
+                MS3/27op26no3b.mscx   49   49      3/8          i         (0, -3, 1)          ()       12.0          0.0     1.000000
+                MS3/28op30no1a.mscx    7    6        0         V6         (3, 0, -1)          ()       12.0          2.0     0.857143
+                MS3/28op30no1c.mscx  116  115      3/8  viio64/ii       (-9, -3, -6)          ()        3.0          0.0     1.000000
+                MS3/29op30no2a.mscx   31   31      3/4       viio          (7, 4, 1)          ()        4.0          2.0     0.666667
+                MS3/29op30no2a.mscx   49   49        0       viio          (7, 4, 1)          ()        6.0          2.0     0.750000
+                MS3/29op30no2a.mscx  184  184      3/4         V+         (2, 6, 10)          ()        6.0          0.0     1.000000
+                MS3/29op30no2a.mscx  187  187        0         V+         (2, 6, 10)          ()        3.0          0.0     1.000000

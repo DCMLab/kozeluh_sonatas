@@ -1,0 +1,279 @@
+{
+  "@context": [
+    "http://www.w3.org/ns/csvw#",
+    {
+      "@language": "en "
+    }
+  ],
+  "dc:title": "Note tables for kozeluh_sonatas",
+  "dialect": {
+    "delimiter": "\t"
+  },
+  "dc:description": "One feature matrix per score, containing one row per note head. Not every row represents an onset because note heads may be tied together (see column 'tied'). For more information, please refer to the docs at https://johentsch.github.io/ms3/columns",
+  "dc:created": "2023-02-28T15:53:35",
+  "dc:creator": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "SoftwareApplication",
+      "@id": "https://github.com/johentsch/ms3",
+      "name": "ms3",
+      "description": "A parser for MuseScore 3 files.",
+      "author": {
+        "name": "Johannes Hentschel",
+        "@id": "https://orcid.org/0000-0002-1986-9545"
+      },
+      "softwareVersion": "1.2.4"
+    }
+  ],
+  "tables": [
+    {
+      "url": "09op08no1a.tsv"
+    },
+    {
+      "url": "09op08no1b.tsv"
+    },
+    {
+      "url": "10op08no2a.tsv"
+    },
+    {
+      "url": "10op08no2b.tsv"
+    },
+    {
+      "url": "10op08no2c.tsv"
+    },
+    {
+      "url": "11op10no1a.tsv"
+    },
+    {
+      "url": "14op13no2a.tsv"
+    },
+    {
+      "url": "14op13no2b.tsv"
+    },
+    {
+      "url": "14op13no2c.tsv"
+    },
+    {
+      "url": "15op13no3a.tsv"
+    },
+    {
+      "url": "15op13no3b.tsv"
+    },
+    {
+      "url": "15op13no3c.tsv"
+    },
+    {
+      "url": "16op15no1a.tsv"
+    },
+    {
+      "url": "16op15no1b.tsv"
+    },
+    {
+      "url": "17op15no2a.tsv"
+    },
+    {
+      "url": "17op15no2b.tsv"
+    },
+    {
+      "url": "17op15no2c.tsv"
+    },
+    {
+      "url": "19op17no1a.tsv"
+    },
+    {
+      "url": "19op17no1b.tsv"
+    },
+    {
+      "url": "19op17no1c.tsv"
+    },
+    {
+      "url": "20op17no2a.tsv"
+    },
+    {
+      "url": "20op17no2b.tsv"
+    },
+    {
+      "url": "20op17no2c.tsv"
+    },
+    {
+      "url": "21op17no3a.tsv"
+    },
+    {
+      "url": "21op17no3b.tsv"
+    },
+    {
+      "url": "22op20no1a.tsv"
+    },
+    {
+      "url": "22op20no1b.tsv"
+    },
+    {
+      "url": "22op20no1c.tsv"
+    },
+    {
+      "url": "23op20no2a.tsv"
+    },
+    {
+      "url": "23op20no2b.tsv"
+    },
+    {
+      "url": "23op20no2c.tsv"
+    },
+    {
+      "url": "24op20no3a.tsv"
+    },
+    {
+      "url": "24op20no3b.tsv"
+    },
+    {
+      "url": "24op20no3c.tsv"
+    },
+    {
+      "url": "25op26no1a.tsv"
+    },
+    {
+      "url": "25op26no1b.tsv"
+    },
+    {
+      "url": "25op26no1c.tsv"
+    },
+    {
+      "url": "26op26no2a.tsv"
+    },
+    {
+      "url": "26op26no2b.tsv"
+    },
+    {
+      "url": "27op26no3a.tsv"
+    },
+    {
+      "url": "27op26no3b.tsv"
+    },
+    {
+      "url": "27op26no3c.tsv"
+    },
+    {
+      "url": "28op30no1a.tsv"
+    },
+    {
+      "url": "28op30no1b.tsv"
+    },
+    {
+      "url": "28op30no1c.tsv"
+    },
+    {
+      "url": "29op30no2a.tsv"
+    },
+    {
+      "url": "29op30no2b.tsv"
+    },
+    {
+      "url": "29op30no2c.tsv"
+    }
+  ],
+  "tableSchema": {
+    "columns": [
+      {
+        "titles": "mc",
+        "datatype": "integer",
+        "dc:description": "Measure count."
+      },
+      {
+        "titles": "mn",
+        "datatype": "string",
+        "dc:description": "Measure number."
+      },
+      {
+        "titles": "quarterbeats",
+        "datatype": {
+          "base": "string",
+          "format": "-?\\d+(?:\\/\\d+)?"
+        }
+      },
+      {
+        "titles": "duration_qb",
+        "datatype": "float"
+      },
+      {
+        "titles": "mc_onset",
+        "datatype": {
+          "base": "string",
+          "format": "-?\\d+(?:\\/\\d+)?"
+        },
+        "dc:description": "An event's distance (fraction of a whole note) from the beginning of the MC."
+      },
+      {
+        "titles": "mn_onset",
+        "datatype": {
+          "base": "string",
+          "format": "-?\\d+(?:\\/\\d+)?"
+        },
+        "dc:description": "An event's distance (fraction of a whole note) from the beginning of the MN."
+      },
+      {
+        "titles": "timesig",
+        "datatype": "string"
+      },
+      {
+        "titles": "staff",
+        "datatype": "integer"
+      },
+      {
+        "titles": "voice",
+        "datatype": "integer"
+      },
+      {
+        "titles": "duration",
+        "datatype": {
+          "base": "string",
+          "format": "-?\\d+(?:\\/\\d+)?"
+        }
+      },
+      {
+        "titles": "gracenote",
+        "datatype": "string"
+      },
+      {
+        "titles": "tremolo"
+      },
+      {
+        "titles": "nominal_duration",
+        "datatype": {
+          "base": "string",
+          "format": "-?\\d+(?:\\/\\d+)?"
+        }
+      },
+      {
+        "titles": "scalar",
+        "datatype": {
+          "base": "string",
+          "format": "-?\\d+(?:\\/\\d+)?"
+        }
+      },
+      {
+        "titles": "tied",
+        "datatype": "integer"
+      },
+      {
+        "titles": "tpc",
+        "datatype": "integer"
+      },
+      {
+        "titles": "midi",
+        "datatype": "integer"
+      },
+      {
+        "titles": "name",
+        "datatype": "string"
+      },
+      {
+        "titles": "octave",
+        "datatype": "integer"
+      },
+      {
+        "titles": "chord_id",
+        "datatype": "integer"
+      }
+    ]
+  }
+}
