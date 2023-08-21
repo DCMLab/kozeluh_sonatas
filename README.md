@@ -144,7 +144,7 @@
 | 50|NaN|  NaN|Sonata 50, E minor (after 1810)|III. Rondo - Presto                                |E   |minor|after 1810|True  |
 
 
-# Overview
+## Overview
 |file_name |measures|labels|standard| annotators |
 |----------|-------:|-----:|--------|------------|
 |09op08no1a|     135|   272|2.1.0   |Adrian Nagel|
@@ -197,4 +197,4 @@
 |29op30no2c|     206|   474|2.1.0   |Adrian Nagel|
 
 
-*Overview table updated using [ms3](https://johentsch.github.io/ms3/) 1.2.4.*
+*Overview table automatically updated using [ms3](https://johentsch.github.io/ms3/).*
