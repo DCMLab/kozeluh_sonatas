@@ -197,4 +197,4 @@
 |29op30no2c|     206|   474|2.1.0   |Adrian Nagel|
 
 
-*Overview table automatically updated using [ms3](https://johentsch.github.io/ms3/).*
+*Overview table automatically updated using [ms3](https://ms3.readthedocs.io/).*

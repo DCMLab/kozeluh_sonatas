@@ -131,18 +131,21 @@
     ],
     "facet": "measures",
     "identifier": "x6OuDsojf-RpsA",
-    "filepath": "measures/x6OuDsojf-RpsA.schema.yaml"
+    "filepath": "measures/x6OuDsojf-RpsA.schema.yaml",
+    "used_in": "20op17no2b"
   },
   "creator": {
     "@context": "https://schema.org/",
     "@type": "SoftwareApplication",
-    "@id": "https://github.com/johentsch/ms3",
+    "@id": "https://pypi.org/project/ms3/",
     "name": "ms3",
     "description": "A parser for MuseScore 3 files and data factory for annotated music corpora.",
     "author": {
       "name": "Johannes Hentschel",
       "@id": "https://orcid.org/0000-0002-1986-9545"
     },
-    "softwareVersion": "2.1.0"
-  }
+    "softwareVersion": "2.4.0"
+  },
+  "git_revision": "be97a2de65f200aeb3656224167e61c3d50fa031",
+  "git_tag": "v2.0"
 }

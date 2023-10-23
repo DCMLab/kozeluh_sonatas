@@ -1,0 +1,52 @@
+Warnings encountered during the last execution of ms3 review
+============================================================
+
+PLAY_UNTIL_IS_MISSING_LABEL_WARNING (21, 82) ms3.Parse.kozeluh_sonatas.20op17no2b
+	After jumping from MC 82 to start, the music is supposed to play until label fine but there is no corresponding marker in the score. Ignoring.
+WARNING  ms3.Parse.kozeluh_sonatas.20op17no2b
+	Error in the repeat structure: Did not reach the stopping value -1 in measures.next:
+	mc
+	1        (2,)
+	2        (3,)
+	3        (4,)
+	4        (5,)
+	5        (6,)
+	        ...  
+	96      (97,)
+	97      (98,)
+	98      (99,)
+	99     (100,)
+	100     (-1,)
+	Name: next, Length: 100, dtype: object
+WARNING  ms3.Parse.kozeluh_sonatas.20op17no2b
+	Error in the repeat structure: Did not reach the stopping value -1 in measures.next:
+	mc
+	1        (2,)
+	2        (3,)
+	3        (4,)
+	4        (5,)
+	5        (6,)
+	        ...  
+	96      (97,)
+	97      (98,)
+	98      (99,)
+	99     (100,)
+	100     (-1,)
+	Name: next, Length: 100, dtype: object
+WARNING  ms3.Parse.kozeluh_sonatas.20op17no2b
+	Unfolding 'expanded DCML labels' unsuccessful. Check warnings concerning repeat structure and fix.
+WARNING  ms3.Parse.kozeluh_sonatas.20op17no2b
+	Error in the repeat structure: Did not reach the stopping value -1 in measures.next:
+	mc
+	1        (2,)
+	2        (3,)
+	3        (4,)
+	4        (5,)
+	5        (6,)
+	        ...  
+	96      (97,)
+	97      (98,)
+	98      (99,)
+	99     (100,)
+	100     (-1,)
+	Name: next, Length: 100, dtype: object

@@ -1,0 +1,387 @@
+Warnings encountered during the last execution of ms3 review
+============================================================
+
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 176, '0', 'I[I') ms3.Parse.kozeluh_sonatas.17op15no2a
+	The label 'I[I' in m. 176, onset 0 (MC 176, onset 0) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of C.V, it expresses the scale degrees
+	('1', '3', '5') [('G', 'B', 'D')].
+	The corresponding score segment has 6 within-label and 16 out-of-label note onsets,
+	a ratio of 0.7272727272727273 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 177, '0', 'I') ms3.Parse.kozeluh_sonatas.17op15no2a
+	The label 'I' in m. 177, onset 0 (MC 177, onset 0) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of C.V, it expresses the scale degrees
+	('1', '3', '5') [('G', 'B', 'D')].
+	The corresponding score segment has 6 within-label and 16 out-of-label note onsets,
+	a ratio of 0.7272727272727273 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 178, '0', 'I') ms3.Parse.kozeluh_sonatas.17op15no2a
+	The label 'I' in m. 178, onset 0 (MC 178, onset 0) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of C.V, it expresses the scale degrees
+	('1', '3', '5') [('G', 'B', 'D')].
+	The corresponding score segment has 6 within-label and 24 out-of-label note onsets,
+	a ratio of 0.8 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 179, '0', 'I]') ms3.Parse.kozeluh_sonatas.17op15no2a
+	The label 'I]' in m. 179, onset 0 (MC 179, onset 0) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of C.V, it expresses the scale degrees
+	('1', '3', '5') [('G', 'B', 'D')].
+	The corresponding score segment has 2 within-label and 8 out-of-label note onsets,
+	a ratio of 0.8 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 179, '1/4', 'I6') ms3.Parse.kozeluh_sonatas.17op15no2a
+	The label 'I6' in m. 179, onset 1/4 (MC 179, onset 1/4) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of C.V, it expresses the scale degrees
+	('3', '5', '1') [('B', 'D', 'G')].
+	The corresponding score segment has 4 within-label and 16 out-of-label note onsets,
+	a ratio of 0.8 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 179, '3/4', 'V+6/IV') ms3.Parse.kozeluh_sonatas.17op15no2a
+	The label 'V+6/IV' in m. 179, onset 3/4 (MC 179, onset 3/4) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of C.V, it expresses the scale degrees
+	('3', '#5', '1') [('B', 'D#', 'G')].
+	The corresponding score segment has 0 within-label and 10 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 180, '0', 'IV') ms3.Parse.kozeluh_sonatas.17op15no2a
+	The label 'IV' in m. 180, onset 0 (MC 180, onset 0) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of C.V, it expresses the scale degrees
+	('4', '6', '1') [('C', 'E', 'G')].
+	The corresponding score segment has 12 within-label and 26 out-of-label note onsets,
+	a ratio of 0.6842105263157895 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 181, '0', 'V(64)') ms3.Parse.kozeluh_sonatas.17op15no2a
+	The label 'V(64)' in m. 181, onset 0 (MC 181, onset 0) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of C.V, it expresses the scale degrees
+	('5', '1', '3') [('D', 'G', 'B')].
+	The corresponding score segment has 7 within-label and 15 out-of-label note onsets,
+	a ratio of 0.6818181818181818 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 182, '0', 'I[I') ms3.Parse.kozeluh_sonatas.17op15no2a
+	The label 'I[I' in m. 182, onset 0 (MC 182, onset 0) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of C.V, it expresses the scale degrees
+	('1', '3', '5') [('G', 'B', 'D')].
+	The corresponding score segment has 6 within-label and 16 out-of-label note onsets,
+	a ratio of 0.7272727272727273 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 183, '0', 'I') ms3.Parse.kozeluh_sonatas.17op15no2a
+	The label 'I' in m. 183, onset 0 (MC 183, onset 0) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of C.V, it expresses the scale degrees
+	('1', '3', '5') [('G', 'B', 'D')].
+	The corresponding score segment has 6 within-label and 16 out-of-label note onsets,
+	a ratio of 0.7272727272727273 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 184, '0', 'I') ms3.Parse.kozeluh_sonatas.17op15no2a
+	The label 'I' in m. 184, onset 0 (MC 184, onset 0) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of C.V, it expresses the scale degrees
+	('1', '3', '5') [('G', 'B', 'D')].
+	The corresponding score segment has 6 within-label and 24 out-of-label note onsets,
+	a ratio of 0.8 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 185, '0', 'I]') ms3.Parse.kozeluh_sonatas.17op15no2a
+	The label 'I]' in m. 185, onset 0 (MC 185, onset 0) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of C.V, it expresses the scale degrees
+	('1', '3', '5') [('G', 'B', 'D')].
+	The corresponding score segment has 2 within-label and 8 out-of-label note onsets,
+	a ratio of 0.8 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 185, '1/4', 'I6') ms3.Parse.kozeluh_sonatas.17op15no2a
+	The label 'I6' in m. 185, onset 1/4 (MC 185, onset 1/4) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of C.V, it expresses the scale degrees
+	('3', '5', '1') [('B', 'D', 'G')].
+	The corresponding score segment has 4 within-label and 16 out-of-label note onsets,
+	a ratio of 0.8 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 185, '3/4', 'V+6/IV') ms3.Parse.kozeluh_sonatas.17op15no2a
+	The label 'V+6/IV' in m. 185, onset 3/4 (MC 185, onset 3/4) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of C.V, it expresses the scale degrees
+	('3', '#5', '1') [('B', 'D#', 'G')].
+	The corresponding score segment has 0 within-label and 10 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 186, '1/2', 'viio7/V') ms3.Parse.kozeluh_sonatas.17op15no2a
+	The label 'viio7/V' in m. 186, onset 1/2 (MC 186, onset 1/2) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of C.V, it expresses the scale degrees
+	('#4', '6', '1', 'b3') [('C#', 'E', 'G', 'Bb')].
+	The corresponding score segment has 0 within-label and 20 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 187, '0', 'V(64)') ms3.Parse.kozeluh_sonatas.17op15no2a
+	The label 'V(64)' in m. 187, onset 0 (MC 187, onset 0) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of C.V, it expresses the scale degrees
+	('5', '1', '3') [('D', 'G', 'B')].
+	The corresponding score segment has 4 within-label and 16 out-of-label note onsets,
+	a ratio of 0.8 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 187, '1/2', 'V2/IV') ms3.Parse.kozeluh_sonatas.17op15no2a
+	The label 'V2/IV' in m. 187, onset 1/2 (MC 187, onset 1/2) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of C.V, it expresses the scale degrees
+	('b7', '1', '3', '5') [('F', 'G', 'B', 'D')].
+	The corresponding score segment has 0 within-label and 20 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 188, '1/2', 'Ger6') ms3.Parse.kozeluh_sonatas.17op15no2a
+	The label 'Ger6' in m. 188, onset 1/2 (MC 188, onset 1/2) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of C.V, it expresses the scale degrees
+	('b6', '1', 'b3', '#4') [('Eb', 'G', 'Bb', 'C#')].
+	The corresponding score segment has 4 within-label and 20 out-of-label note onsets,
+	a ratio of 0.8333333333333334 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 189, '0', 'V(64)') ms3.Parse.kozeluh_sonatas.17op15no2a
+	The label 'V(64)' in m. 189, onset 0 (MC 189, onset 0) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of C.V, it expresses the scale degrees
+	('5', '1', '3') [('D', 'G', 'B')].
+	The corresponding score segment has 14 within-label and 24 out-of-label note onsets,
+	a ratio of 0.631578947368421 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 191, '1/2', 'V') ms3.Parse.kozeluh_sonatas.17op15no2a
+	The label 'V' in m. 191, onset 1/2 (MC 191, onset 1/2) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of C.V, it expresses the scale degrees
+	('5', '7', '2') [('D', 'F#', 'A')].
+	The corresponding score segment has 0 within-label and 8 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 192, '0', 'I\\\\') ms3.Parse.kozeluh_sonatas.17op15no2a
+	The label 'I\\' in m. 192, onset 0 (MC 192, onset 0) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of C.V, it expresses the scale degrees
+	('1', '3', '5') [('G', 'B', 'D')].
+	The corresponding score segment has 0 within-label and 5 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 192, '3/8', 'I[I') ms3.Parse.kozeluh_sonatas.17op15no2a
+	The label 'I[I' in m. 192, onset 3/8 (MC 192, onset 3/8) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of C.V, it expresses the scale degrees
+	('1', '3', '5') [('G', 'B', 'D')].
+	The corresponding score segment has 1 within-label and 2 out-of-label note onsets,
+	a ratio of 0.6666666666666666 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 192, '1/2', 'vi') ms3.Parse.kozeluh_sonatas.17op15no2a
+	The label 'vi' in m. 192, onset 1/2 (MC 192, onset 1/2) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of C.V, it expresses the scale degrees
+	('6', '1', '3') [('E', 'G', 'B')].
+	The corresponding score segment has 0 within-label and 6 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 192, '3/4', 'V') ms3.Parse.kozeluh_sonatas.17op15no2a
+	The label 'V' in m. 192, onset 3/4 (MC 192, onset 3/4) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of C.V, it expresses the scale degrees
+	('5', '7', '2') [('D', 'F#', 'A')].
+	The corresponding score segment has 0 within-label and 6 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 193, '1/2', 'IV') ms3.Parse.kozeluh_sonatas.17op15no2a
+	The label 'IV' in m. 193, onset 1/2 (MC 193, onset 1/2) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of C.V, it expresses the scale degrees
+	('4', '6', '1') [('C', 'E', 'G')].
+	The corresponding score segment has 2 within-label and 6 out-of-label note onsets,
+	a ratio of 0.75 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 193, '3/4', 'viio6') ms3.Parse.kozeluh_sonatas.17op15no2a
+	The label 'viio6' in m. 193, onset 3/4 (MC 193, onset 3/4) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of C.V, it expresses the scale degrees
+	('2', '4', '7') [('A', 'C', 'F#')].
+	The corresponding score segment has 2 within-label and 6 out-of-label note onsets,
+	a ratio of 0.75 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 194, '0', 'I') ms3.Parse.kozeluh_sonatas.17op15no2a
+	The label 'I' in m. 194, onset 0 (MC 194, onset 0) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of C.V, it expresses the scale degrees
+	('1', '3', '5') [('G', 'B', 'D')].
+	The corresponding score segment has 0 within-label and 4 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 194, '1/8', 'ii6') ms3.Parse.kozeluh_sonatas.17op15no2a
+	The label 'ii6' in m. 194, onset 1/8 (MC 194, onset 1/8) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of C.V, it expresses the scale degrees
+	('4', '6', '2') [('C', 'E', 'A')].
+	The corresponding score segment has 1 within-label and 3 out-of-label note onsets,
+	a ratio of 0.75 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 194, '1/4', 'I') ms3.Parse.kozeluh_sonatas.17op15no2a
+	The label 'I' in m. 194, onset 1/4 (MC 194, onset 1/4) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of C.V, it expresses the scale degrees
+	('1', '3', '5') [('G', 'B', 'D')].
+	The corresponding score segment has 2 within-label and 5 out-of-label note onsets,
+	a ratio of 0.7142857142857143 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 194, '1/2', 'vi') ms3.Parse.kozeluh_sonatas.17op15no2a
+	The label 'vi' in m. 194, onset 1/2 (MC 194, onset 1/2) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of C.V, it expresses the scale degrees
+	('6', '1', '3') [('E', 'G', 'B')].
+	The corresponding score segment has 0 within-label and 6 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 194, '3/4', 'V') ms3.Parse.kozeluh_sonatas.17op15no2a
+	The label 'V' in m. 194, onset 3/4 (MC 194, onset 3/4) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of C.V, it expresses the scale degrees
+	('5', '7', '2') [('D', 'F#', 'A')].
+	The corresponding score segment has 0 within-label and 6 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 195, '1/2', 'IV') ms3.Parse.kozeluh_sonatas.17op15no2a
+	The label 'IV' in m. 195, onset 1/2 (MC 195, onset 1/2) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of C.V, it expresses the scale degrees
+	('4', '6', '1') [('C', 'E', 'G')].
+	The corresponding score segment has 2 within-label and 6 out-of-label note onsets,
+	a ratio of 0.75 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 195, '3/4', 'viio6') ms3.Parse.kozeluh_sonatas.17op15no2a
+	The label 'viio6' in m. 195, onset 3/4 (MC 195, onset 3/4) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of C.V, it expresses the scale degrees
+	('2', '4', '7') [('A', 'C', 'F#')].
+	The corresponding score segment has 2 within-label and 6 out-of-label note onsets,
+	a ratio of 0.75 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 196, '0', 'I]\\\\') ms3.Parse.kozeluh_sonatas.17op15no2a
+	The label 'I]\\' in m. 196, onset 0 (MC 196, onset 0) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of C.V, it expresses the scale degrees
+	('1', '3', '5') [('G', 'B', 'D')].
+	The corresponding score segment has 3 within-label and 5 out-of-label note onsets,
+	a ratio of 0.625 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 196, '3/8', 'I6') ms3.Parse.kozeluh_sonatas.17op15no2a
+	The label 'I6' in m. 196, onset 3/8 (MC 196, onset 3/8) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of C.V, it expresses the scale degrees
+	('3', '5', '1') [('B', 'D', 'G')].
+	The corresponding score segment has 1 within-label and 3 out-of-label note onsets,
+	a ratio of 0.75 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 196, '1/2', 'V') ms3.Parse.kozeluh_sonatas.17op15no2a
+	The label 'V' in m. 196, onset 1/2 (MC 196, onset 1/2) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of C.V, it expresses the scale degrees
+	('5', '7', '2') [('D', 'F#', 'A')].
+	The corresponding score segment has 0 within-label and 12 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 196, '7/8', 'V6') ms3.Parse.kozeluh_sonatas.17op15no2a
+	The label 'V6' in m. 196, onset 7/8 (MC 196, onset 7/8) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of C.V, it expresses the scale degrees
+	('7', '2', '5') [('F#', 'A', 'D')].
+	The corresponding score segment has 0 within-label and 4 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 197, '0', 'I') ms3.Parse.kozeluh_sonatas.17op15no2a
+	The label 'I' in m. 197, onset 0 (MC 197, onset 0) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of C.V, it expresses the scale degrees
+	('1', '3', '5') [('G', 'B', 'D')].
+	The corresponding score segment has 3 within-label and 5 out-of-label note onsets,
+	a ratio of 0.625 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 197, '3/8', 'I6') ms3.Parse.kozeluh_sonatas.17op15no2a
+	The label 'I6' in m. 197, onset 3/8 (MC 197, onset 3/8) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of C.V, it expresses the scale degrees
+	('3', '5', '1') [('B', 'D', 'G')].
+	The corresponding score segment has 1 within-label and 3 out-of-label note onsets,
+	a ratio of 0.75 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 197, '1/2', 'V') ms3.Parse.kozeluh_sonatas.17op15no2a
+	The label 'V' in m. 197, onset 1/2 (MC 197, onset 1/2) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of C.V, it expresses the scale degrees
+	('5', '7', '2') [('D', 'F#', 'A')].
+	The corresponding score segment has 0 within-label and 12 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 197, '7/8', 'V6') ms3.Parse.kozeluh_sonatas.17op15no2a
+	The label 'V6' in m. 197, onset 7/8 (MC 197, onset 7/8) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of C.V, it expresses the scale degrees
+	('7', '2', '5') [('F#', 'A', 'D')].
+	The corresponding score segment has 0 within-label and 4 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 198, '3/8', 'I6') ms3.Parse.kozeluh_sonatas.17op15no2a
+	The label 'I6' in m. 198, onset 3/8 (MC 198, onset 3/8) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of C.V, it expresses the scale degrees
+	('3', '5', '1') [('B', 'D', 'G')].
+	The corresponding score segment has 1 within-label and 3 out-of-label note onsets,
+	a ratio of 0.75 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 198, '1/2', 'V') ms3.Parse.kozeluh_sonatas.17op15no2a
+	The label 'V' in m. 198, onset 1/2 (MC 198, onset 1/2) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of C.V, it expresses the scale degrees
+	('5', '7', '2') [('D', 'F#', 'A')].
+	The corresponding score segment has 3 within-label and 9 out-of-label note onsets,
+	a ratio of 0.75 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 198, '7/8', 'V7') ms3.Parse.kozeluh_sonatas.17op15no2a
+	The label 'V7' in m. 198, onset 7/8 (MC 198, onset 7/8) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of C.V, it expresses the scale degrees
+	('5', '7', '2', '4') [('D', 'F#', 'A', 'C')].
+	The corresponding score segment has 1 within-label and 3 out-of-label note onsets,
+	a ratio of 0.75 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 199, '3/8', 'I6') ms3.Parse.kozeluh_sonatas.17op15no2a
+	The label 'I6' in m. 199, onset 3/8 (MC 199, onset 3/8) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of C.V, it expresses the scale degrees
+	('3', '5', '1') [('B', 'D', 'G')].
+	The corresponding score segment has 1 within-label and 3 out-of-label note onsets,
+	a ratio of 0.75 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 199, '1/2', 'V') ms3.Parse.kozeluh_sonatas.17op15no2a
+	The label 'V' in m. 199, onset 1/2 (MC 199, onset 1/2) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of C.V, it expresses the scale degrees
+	('5', '7', '2') [('D', 'F#', 'A')].
+	The corresponding score segment has 3 within-label and 9 out-of-label note onsets,
+	a ratio of 0.75 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 199, '7/8', 'V7]') ms3.Parse.kozeluh_sonatas.17op15no2a
+	The label 'V7]' in m. 199, onset 7/8 (MC 199, onset 7/8) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of C.V, it expresses the scale degrees
+	('5', '7', '2', '4') [('D', 'F#', 'A', 'C')].
+	The corresponding score segment has 1 within-label and 3 out-of-label note onsets,
+	a ratio of 0.75 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 200, '0', 'I\\\\') ms3.Parse.kozeluh_sonatas.17op15no2a
+	The label 'I\\' in m. 200, onset 0 (MC 200, onset 0) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of C.V, it expresses the scale degrees
+	('1', '3', '5') [('G', 'B', 'D')].
+	The corresponding score segment has 5 within-label and 15 out-of-label note onsets,
+	a ratio of 0.75 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
