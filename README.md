@@ -157,7 +157,7 @@
 |14op13no2b|      49|   153|2.1.0   |Adrian Nagel|
 |14op13no2c|      93|   193|2.1.0   |Adrian Nagel|
 |15op13no3a|     137|   373|2.1.0   |Adrian Nagel|
-|15op13no3b|      84|   235|2.1.0   |Adrian Nagel|
+|15op13no3b|      84|   234|2.1.0   |Adrian Nagel|
 |15op13no3c|     141|   360|2.1.0   |Adrian Nagel|
 |16op15no1a|     242|   633|2.1.0   |Adrian Nagel|
 |16op15no1b|     186|   524|2.1.0   |Adrian Nagel|
