@@ -20,8 +20,8 @@ piece	TimeSig	KeySig	last_mc	last_mn	length_qb	last_mc_unfolded	last_mn_unfolded
 16op15no1a	1: 3/4	1: -2	245	242	727.5	431	426	1279.5	2252.63	3939	2187	0	0	635	g	2.1.0	Adrian Nagel	1780	1806	"Leopold Kozeluch
 (1747-1818)    "	Piano Sonata Op. 15 No. 1							© 2009 - Daniel Bernhardsson	2019-01-08	3.02	Linux			"<font size=""19.497""/><font face=""Times New Roman""/>Piano Sonata Op. 15 No. 1"	"<font size=""8.9247""/><font face=""Times New Roman""/>© 2009 - Daniel Bernhardsson"	"<font size=""9.7485""/><font face=""Times New Roman""/>Leopold Kozeluch
 (1747-1818)    "	3.6.2	2.4.0	MS3	MS3/16op15no1a.mscx	False	31-89 (G1-F6)	xml	55-89 (G3-F6)	Piano (2)	31-75 (G1-Eb5)	Piano (2)
-16op15no1b	1: 2/4	1: 1, 80: -2, 130: 1	186	186	382.75	186.0	186.0	382.75	1087.5	2634	1575	0	0	524	G	2.1.0	Adrian Nagel	1780	1806	"Leopold Kozeluch
-(1747-1818)    "	Piano Sonata Op. 18 No. 1							© 2009 - Daniel Bernhardsson	2019-01-08	3.02	Linux						3.6.2	2.4.0	MS3	MS3/16op15no1b.mscx	False	37-88 (C#2-E6)	xml	57-88 (A3-E6)	Piano (2)	37-72 (C#2-C5)	Piano (2)
+16op15no1b	1: 2/4	1: 1, 80: -2, 130: 1	186	186	382.75	186	186	382.75	1087.5	2634	1575	0	0	523	G	2.1.0	Adrian Nagel	1780	1806	"Leopold Kozeluch
+(1747-1818)    "	Piano Sonata Op. 15 No. 1							© 2009 - Daniel Bernhardsson	2019-01-08	3.02	Linux						3.6.2	2.4.0	MS3	MS3/16op15no1b.mscx	False	37-88 (C#2-E6)	xml	57-88 (A3-E6)	Piano (2)	37-72 (C#2-C5)	Piano (2)
 17op15no2a	1: 4/4	1: 0	201	201	804.0	402.0	402.0	1608.0	2469.17	4491	2299	0	0	527	C	2.1.0	Adrian Nagel	1780	1806	"Leopold Kozeluch
 (1747-1818)    "	Piano Sonata Op. 18 No. 2							© 2005 Daniel Bernhardsson	2019-01-08	3.02	Linux			"<font size=""19.497""/><font face=""Times New Roman""/>Piano Sonata Op. 18 No. 2"	"<font size=""8.9247""/><font face=""Times New Roman""/>© 2005 Daniel Bernhardsson"	"<font size=""9.7485""/><font face=""Times New Roman""/>Leopold Kozeluch
 (1747-1818)    "	3.6.2	2.4.0	MS3	MS3/17op15no2a.mscx	False	31-89 (G1-F6)	xml	55-89 (G3-F6)	Piano (2)	31-71 (G1-B4)	Piano (2)
