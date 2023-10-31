@@ -173,7 +173,7 @@
 |21op17no3a|     193|   543|2.1.0   |Adrian Nagel|
 |21op17no3b|     219|   589|2.1.0   |Adrian Nagel|
 |22op20no1a|     171|   291|2.1.0   |Adrian Nagel|
-|22op20no1b|      45|   126|2.1.0   |Adrian Nagel|
+|22op20no1b|      45|   124|2.1.0   |Adrian Nagel|
 |22op20no1c|     150|   267|2.1.0   |Adrian Nagel|
 |23op20no2a|     134|   495|2.1.0   |Adrian Nagel|
 |23op20no2b|      51|   150|2.1.0   |Adrian Nagel|
