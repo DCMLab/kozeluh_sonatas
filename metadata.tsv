@@ -62,7 +62,7 @@ piece	TimeSig	KeySig	last_mc	last_mn	length_qb	last_mc_unfolded	last_mn_unfolded
 (1747-1818)    "	Sonata II Op XXI							Copyright © 2005 Daniel Bernhardsson	2019-01-08	3.02	Linux						3.6.2	2.4.0	MS3	MS3/23op20no2b.mscx	False	36-89 (C2-F6)	xml	55-89 (G3-F6)	Piano (2)	36-71 (C2-B4)	Piano (2)
 23op20no2c	1: 2/4	1: 0, 73: -3, 108: 0	143	143	292.25	143	143	292.25	754.67	2092	1400	0	0	329	C	2.1.0	Adrian Nagel	1780	1806	"Leopold Kozeluch
 (1747-1818)    "	Sonata II Op XXI							Copyright © 2005 Daniel Bernhardsson	2019-01-08	3.02	Linux						3.6.2	2.4.0	MS3	MS3/23op20no2c.mscx	False	31-88 (G1-E6)	xml	53-88 (F3-E6)	Piano (2)	31-72 (G1-C5)	Piano (2)
-24op20no3a	1: 4/4	1: -1	152	152	608.0	304.0	304.0	1216.0	1604.17	2173	1413	0	0	361	d	2.1.0	Adrian Nagel	1780	1806	"Leopold Kozeluch
+24op20no3a	1: 4/4	1: -1	152	152	608.0	304	304	1216.0	1604.17	2173	1413	0	0	351	d	2.1.0	Adrian Nagel	1780	1806	"Leopold Kozeluch
 (1747-1818)    "	Sonata III Op XXI							Copyright © 2007 Daniel Bernhardsson	2019-01-08	3.02	Linux			"<font size=""19.497""/><font face=""Times New Roman""/>Sonata III Op XXI"	"<font size=""8.9247""/><font face=""Times New Roman""/>Copyright © 2007 Daniel Bernhardsson"	"<font size=""9.7485""/><font face=""Times New Roman""/>Leopold Kozeluch
 (1747-1818)    "	3.6.2	2.4.0	MS3	MS3/24op20no3a.mscx	False	32-89 (G#1-F6)	xml	50-89 (D3-F6)	Piano (2)	32-70 (G#1-Bb4)	Piano (2)
 24op20no3b	1: 2/4	1: 2	50	50	104.25	50.0	50.0	104.25	318.38	728	412	0	0	124	D	2.1.0	Adrian Nagel	1780	1806	"Leopold Kozeluch
