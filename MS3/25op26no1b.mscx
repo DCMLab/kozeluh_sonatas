@@ -254,14 +254,15 @@
             </TimeSig>
           <StaffText>
             <family>FreeSerif</family>
-            <offset x="-21.2107" y="-11.7232"/>
+            <offset x="-2.80007" y="-9.03832"/>
             <text><font size="11.5335"></font><font face="Times New Roman"></font><b>Adagio</b></text>
             </StaffText>
           <Tempo>
-            <tempo>1</tempo>
+            <tempo>1.1000000000000001</tempo>
             <followText>1</followText>
-            <offset x="-20.3987" y="-13.0889"/>
-            <text><sym>metNoteQuarterUp</sym> = 60</text>
+            <visible>0</visible>
+            <offset x="2.35888" y="-12.1939"/>
+            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 66</b></text>
             </Tempo>
           <Harmony>
             <name>.A.I</name>
@@ -3082,7 +3083,7 @@
               </Note>
             </Chord>
           <Harmony>
-            <name>V65</name>
+            <name>V65/V</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
