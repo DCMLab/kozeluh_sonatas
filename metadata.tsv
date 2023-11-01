@@ -95,7 +95,7 @@ piece	TimeSig	KeySig	last_mc	last_mn	length_qb	last_mc_unfolded	last_mn_unfolded
 (1747-1818)    "	Sonata 1 Op 30							© 2005 Daniel Bernhardsson	2019-01-08	3.02	Linux						3.6.2	2.4.0	MS3	MS3/28op30no1b.mscx	False	34-84 (Bb1-C6)	xml	53-84 (F3-C6)	Piano (2)	34-70 (Bb1-Bb4)	Piano (2)
 28op30no1c	1: 2/4	1: -2	208	207	415.0	208	207	415.0	1193.17	3037	1843	0	0	457	Bb	2.1.0	Adrian Nagel	1780	1806	"Leopold Kozeluch
 (1747-1818)    "	Sonata 1 Op 30							© 2005 Daniel Bernhardsson	2019-01-08	3.02	Linux						3.6.2	2.4.0	MS3	MS3/28op30no1c.mscx	False	39-89 (Eb2-F6)	xml	53-89 (F3-F6)	Piano (2)	39-70 (Eb2-Bb4)	Piano (2)
-29op30no2a	1: 4/4	1: 1	195	195	780.0	390.0	390.0	1560.0	2006.0	3483	1964	0	0	405	G	2.1.0	Adrian Nagel	1780	1806	"Leopold Kozeluch
+29op30no2a	1: 4/4	1: 1	195	195	780.0	390	390	1560.0	2006.0	3483	1964	0	0	405	G	2.1.0	Adrian Nagel	1780	1806	"Leopold Kozeluch
 (1747-1818)    "	Sonata 2 Op 30							© 2005 Daniel Bernhardsson	2019-01-08	3.02	Linux			"<font size=""8.9247""/><font face=""Times New Roman""/>© 2005 Daniel Bernhardsson"	"<font size=""19.497""/><font face=""Times New Roman""/>Sonata 2 Op 30"	"<font size=""9.7485""/><font face=""Times New Roman""/>Leopold Kozeluch
 (1747-1818)    "	3.6.2	2.4.0	MS3	MS3/29op30no2a.mscx	False	35-89 (B1-F6)	xml	54-89 (F#3-F6)	Piano (2)	35-67 (B1-G4)	Piano (2)
 29op30no2b	1: 3/4	1: 2	40	39	117.0	40.0	39.0	117.0	446.75	658	237	0	0	159	D	2.1.0	Adrian Nagel	1780	1806	"Leopold Kozeluch
