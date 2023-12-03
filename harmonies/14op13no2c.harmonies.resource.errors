@@ -37,7 +37,7 @@ To reproduce: frictionless validate 14op13no2c.harmonies.resource.json
             'bass_note'],
  'stats': {'errors': 6,
            'warnings': 0,
-           'seconds': 0.021,
+           'seconds': 0.017,
            'md5': '26c6ef241e04aef5145dd8def760b41d',
            'sha256': '77331dee3695592a4a1cd4551d21fd9904c9cdd5b3a48937cf08949b4405daae',
            'bytes': 15030,
