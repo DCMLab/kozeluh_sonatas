@@ -153,7 +153,6 @@
       <usePre_3_6_defaults>1</usePre_3_6_defaults>
       <defaultsVersion>301</defaultsVersion>
       <Spatium>1.55096</Spatium>
-      <romanNumeralPlacement>1</romanNumeralPlacement>
       </Style>
     <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
@@ -254,13 +253,15 @@
             </Dynamic>
           <StaffText>
             <family>FreeSerif</family>
-            <offset x="-17.1706" y="-10.4232"/>
+            <offset x="1.87929" y="-10.2953"/>
             <text><font size="11.5335"></font><font face="Times New Roman"></font><b>Presto</b></text>
             </StaffText>
           <Tempo>
             <tempo>2.6666699999999999</tempo>
             <followText>1</followText>
-            <offset x="-17.9087" y="-11.7889"/>
+            <visible>0</visible>
+            <minDistance>-8.75182</minDistance>
+            <offset x="3.57037" y="-1.81648"/>
             <text><sym>metNoteQuarterUp</sym> = 160</text>
             </Tempo>
           <Tuplet>
@@ -13352,7 +13353,6 @@
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>74</pitch>
               <tpc>16</tpc>
               </Note>
@@ -13404,7 +13404,6 @@
             <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>65</pitch>
               <tpc>13</tpc>
               </Note>
@@ -13413,7 +13412,6 @@
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>62</pitch>
               <tpc>16</tpc>
               </Note>
@@ -13421,7 +13419,6 @@
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>65</pitch>
               <tpc>13</tpc>
               </Note>
@@ -23002,14 +22999,14 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V[I6</name>
-            </Harmony>
           <Clef>
             <concertClefType>F</concertClefType>
             <transposingClefType>F</transposingClefType>
             </Clef>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V[I6</name>
+            </Harmony>
           <Chord>
             <durationType>half</durationType>
             <StemDirection>up</StemDirection>
@@ -26753,14 +26750,14 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>I6</name>
-            </Harmony>
           <Clef>
             <concertClefType>G</concertClefType>
             <transposingClefType>G</transposingClefType>
             </Clef>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I6</name>
+            </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
@@ -27210,14 +27207,14 @@
               <tpc>20</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>ii6</name>
-            </Harmony>
           <Clef>
             <concertClefType>F</concertClefType>
             <transposingClefType>F</transposingClefType>
             </Clef>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>ii6</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
@@ -29388,18 +29385,16 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii</name>
+            <name>i</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>38</pitch>
               <tpc>16</tpc>
               </Note>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>50</pitch>
               <tpc>16</tpc>
               </Note>
@@ -32931,14 +32926,14 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>I.I[I</name>
-            </Harmony>
           <Clef>
             <concertClefType>G</concertClefType>
             <transposingClefType>G</transposingClefType>
             </Clef>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I.I[I</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
@@ -33357,14 +33352,14 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>I6</name>
-            </Harmony>
           <Clef>
             <concertClefType>F</concertClefType>
             <transposingClefType>F</transposingClefType>
             </Clef>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I6</name>
+            </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
@@ -33758,14 +33753,14 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>I[I</name>
-            </Harmony>
           <Clef>
             <concertClefType>G</concertClefType>
             <transposingClefType>G</transposingClefType>
             </Clef>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I[I</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>

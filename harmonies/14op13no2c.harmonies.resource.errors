@@ -8,6 +8,7 @@ To reproduce: frictionless validate 14op13no2c.harmonies.resource.json
  'labels': ['mc',
             'mn',
             'quarterbeats',
+            'quarterbeats_all_endings',
             'duration_qb',
             'mc_onset',
             'mn_onset',
@@ -36,24 +37,25 @@ To reproduce: frictionless validate 14op13no2c.harmonies.resource.json
             'bass_note'],
  'stats': {'errors': 6,
            'warnings': 0,
-           'seconds': 0.034,
-           'md5': '3e582d08f9970a99adc0ecc7ae6284ce',
-           'sha256': '643ad4caf37146bffc669881ffa22c03ac3a642c8e003e201a222a93b657374f',
-           'bytes': 14424,
-           'fields': 29,
+           'seconds': 0.017,
+           'md5': '26c6ef241e04aef5145dd8def760b41d',
+           'sha256': '77331dee3695592a4a1cd4551d21fd9904c9cdd5b3a48937cf08949b4405daae',
+           'bytes': 15030,
+           'fields': 30,
            'rows': 193},
  'warnings': [],
  'errors': [{'type': 'constraint-error',
              'title': 'Constraint Error',
              'description': 'A field value does not conform to a constraint.',
              'message': 'The cell "-1/8" in row at position "186" and field '
-                        '"mc_onset" at position "5" does not conform to a '
+                        '"mc_onset" at position "6" does not conform to a '
                         'constraint: constraint "pattern" is '
                         '"\\d+(?:\\/\\d+)?"',
              'tags': ['#table', '#row', '#cell'],
              'note': 'constraint "pattern" is "\\d+(?:\\/\\d+)?"',
              'cells': ['89',
                        '89',
+                       '351/2',
                        '351/2',
                        '0.5',
                        '-1/8',
@@ -84,18 +86,19 @@ To reproduce: frictionless validate 14op13no2c.harmonies.resource.json
              'rowNumber': 186,
              'cell': '-1/8',
              'fieldName': 'mc_onset',
-             'fieldNumber': 5},
+             'fieldNumber': 6},
             {'type': 'constraint-error',
              'title': 'Constraint Error',
              'description': 'A field value does not conform to a constraint.',
              'message': 'The cell "-1/8" in row at position "186" and field '
-                        '"mn_onset" at position "6" does not conform to a '
+                        '"mn_onset" at position "7" does not conform to a '
                         'constraint: constraint "pattern" is '
                         '"\\d+(?:\\/\\d+)?"',
              'tags': ['#table', '#row', '#cell'],
              'note': 'constraint "pattern" is "\\d+(?:\\/\\d+)?"',
              'cells': ['89',
                        '89',
+                       '351/2',
                        '351/2',
                        '0.5',
                        '-1/8',
@@ -126,18 +129,19 @@ To reproduce: frictionless validate 14op13no2c.harmonies.resource.json
              'rowNumber': 186,
              'cell': '-1/8',
              'fieldName': 'mn_onset',
-             'fieldNumber': 6},
+             'fieldNumber': 7},
             {'type': 'constraint-error',
              'title': 'Constraint Error',
              'description': 'A field value does not conform to a constraint.',
              'message': 'The cell "-1/8" in row at position "189" and field '
-                        '"mc_onset" at position "5" does not conform to a '
+                        '"mc_onset" at position "6" does not conform to a '
                         'constraint: constraint "pattern" is '
                         '"\\d+(?:\\/\\d+)?"',
              'tags': ['#table', '#row', '#cell'],
              'note': 'constraint "pattern" is "\\d+(?:\\/\\d+)?"',
              'cells': ['90',
                        '90',
+                       '355/2',
                        '355/2',
                        '0.5',
                        '-1/8',
@@ -168,18 +172,19 @@ To reproduce: frictionless validate 14op13no2c.harmonies.resource.json
              'rowNumber': 189,
              'cell': '-1/8',
              'fieldName': 'mc_onset',
-             'fieldNumber': 5},
+             'fieldNumber': 6},
             {'type': 'constraint-error',
              'title': 'Constraint Error',
              'description': 'A field value does not conform to a constraint.',
              'message': 'The cell "-1/8" in row at position "189" and field '
-                        '"mn_onset" at position "6" does not conform to a '
+                        '"mn_onset" at position "7" does not conform to a '
                         'constraint: constraint "pattern" is '
                         '"\\d+(?:\\/\\d+)?"',
              'tags': ['#table', '#row', '#cell'],
              'note': 'constraint "pattern" is "\\d+(?:\\/\\d+)?"',
              'cells': ['90',
                        '90',
+                       '355/2',
                        '355/2',
                        '0.5',
                        '-1/8',
@@ -210,18 +215,19 @@ To reproduce: frictionless validate 14op13no2c.harmonies.resource.json
              'rowNumber': 189,
              'cell': '-1/8',
              'fieldName': 'mn_onset',
-             'fieldNumber': 6},
+             'fieldNumber': 7},
             {'type': 'constraint-error',
              'title': 'Constraint Error',
              'description': 'A field value does not conform to a constraint.',
              'message': 'The cell "-1/8" in row at position "191" and field '
-                        '"mc_onset" at position "5" does not conform to a '
+                        '"mc_onset" at position "6" does not conform to a '
                         'constraint: constraint "pattern" is '
                         '"\\d+(?:\\/\\d+)?"',
              'tags': ['#table', '#row', '#cell'],
              'note': 'constraint "pattern" is "\\d+(?:\\/\\d+)?"',
              'cells': ['91',
                        '91',
+                       '359/2',
                        '359/2',
                        '0.5',
                        '-1/8',
@@ -252,18 +258,19 @@ To reproduce: frictionless validate 14op13no2c.harmonies.resource.json
              'rowNumber': 191,
              'cell': '-1/8',
              'fieldName': 'mc_onset',
-             'fieldNumber': 5},
+             'fieldNumber': 6},
             {'type': 'constraint-error',
              'title': 'Constraint Error',
              'description': 'A field value does not conform to a constraint.',
              'message': 'The cell "-1/8" in row at position "191" and field '
-                        '"mn_onset" at position "6" does not conform to a '
+                        '"mn_onset" at position "7" does not conform to a '
                         'constraint: constraint "pattern" is '
                         '"\\d+(?:\\/\\d+)?"',
              'tags': ['#table', '#row', '#cell'],
              'note': 'constraint "pattern" is "\\d+(?:\\/\\d+)?"',
              'cells': ['91',
                        '91',
+                       '359/2',
                        '359/2',
                        '0.5',
                        '-1/8',
@@ -294,4 +301,4 @@ To reproduce: frictionless validate 14op13no2c.harmonies.resource.json
              'rowNumber': 191,
              'cell': '-1/8',
              'fieldName': 'mn_onset',
-             'fieldNumber': 6}]}
+             'fieldNumber': 7}]}

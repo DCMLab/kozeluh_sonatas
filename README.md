@@ -157,10 +157,11 @@
 |14op13no2b|      49|   153|2.1.0   |Adrian Nagel|
 |14op13no2c|      93|   193|2.1.0   |Adrian Nagel|
 |15op13no3a|     137|   373|2.1.0   |Adrian Nagel|
-|15op13no3b|      84|   235|2.1.0   |Adrian Nagel|
+|15op13no3b|      84|   234|2.1.0   |Adrian Nagel|
 |15op13no3c|     141|   360|2.1.0   |Adrian Nagel|
-|16op15no1a|     242|   633|2.1.0   |Adrian Nagel|
-|16op15no1b|     186|   524|2.1.0   |Adrian Nagel|
+|16op15no1a|      34|   111|2.1.0   |Adrian Nagel|
+|16op15no1b|     208|   524|2.1.0   |Adrian Nagel|
+|16op15no1c|     186|   523|2.1.0   |Adrian Nagel|
 |17op15no2a|     201|   527|2.1.0   |Adrian Nagel|
 |17op15no2b|      40|   140|2.1.0   |Adrian Nagel|
 |17op15no2c|     160|   385|2.1.0   |Adrian Nagel|
@@ -172,14 +173,14 @@
 |20op17no2c|     218|   482|2.1.0   |Adrian Nagel|
 |21op17no3a|     193|   543|2.1.0   |Adrian Nagel|
 |21op17no3b|     219|   589|2.1.0   |Adrian Nagel|
-|22op20no1a|     171|   292|2.1.0   |Adrian Nagel|
-|22op20no1b|      45|   126|2.1.0   |Adrian Nagel|
+|22op20no1a|     171|   291|2.1.0   |Adrian Nagel|
+|22op20no1b|      45|   124|2.1.0   |Adrian Nagel|
 |22op20no1c|     150|   267|2.1.0   |Adrian Nagel|
 |23op20no2a|     134|   495|2.1.0   |Adrian Nagel|
 |23op20no2b|      51|   150|2.1.0   |Adrian Nagel|
-|23op20no2c|     143|   331|2.1.0   |Adrian Nagel|
-|24op20no3a|     152|   361|2.1.0   |Adrian Nagel|
-|24op20no3b|      50|   124|2.1.0   |Adrian Nagel|
+|23op20no2c|     143|   329|2.1.0   |Adrian Nagel|
+|24op20no3a|     152|   351|2.1.0   |Adrian Nagel|
+|24op20no3b|      50|   121|2.1.0   |Adrian Nagel|
 |24op20no3c|     159|   453|2.1.0   |Adrian Nagel|
 |25op26no1a|     216|   514|2.1.0   |Adrian Nagel|
 |25op26no1b|      50|   153|2.1.0   |Adrian Nagel|
@@ -197,4 +198,4 @@
 |29op30no2c|     206|   474|2.1.0   |Adrian Nagel|
 
 
-*Overview table automatically updated using [ms3](https://johentsch.github.io/ms3/).*
+*Overview table automatically updated using [ms3](https://ms3.readthedocs.io/).*

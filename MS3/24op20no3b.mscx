@@ -153,7 +153,6 @@
       <usePre_3_6_defaults>1</usePre_3_6_defaults>
       <defaultsVersion>301</defaultsVersion>
       <Spatium>1.55096</Spatium>
-      <romanNumeralPlacement>1</romanNumeralPlacement>
       </Style>
     <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
@@ -258,14 +257,15 @@
             </Dynamic>
           <StaffText>
             <family>FreeSerif</family>
-            <offset x="-18.6135" y="-11.1574"/>
+            <offset x="-4.93338" y="-4.89267"/>
             <text><font size="11.5335"></font><font face="Times New Roman"></font><b>Adagio</b></text>
             </StaffText>
           <Tempo>
-            <tempo>1</tempo>
+            <tempo>0.90000000000000002</tempo>
             <followText>1</followText>
-            <offset x="-18.5366" y="-12.8117"/>
-            <text><sym>metNoteQuarterUp</sym> = 60</text>
+            <visible>0</visible>
+            <offset x="1.02469" y="-8.33689"/>
+            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 54</b></text>
             </Tempo>
           <Chord>
             <durationType>quarter</durationType>
@@ -4920,10 +4920,6 @@
               <tpc>20</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>IV</name>
-            </Harmony>
           <Rest>
             <dots>1</dots>
             <durationType>16th</durationType>
@@ -5682,10 +5678,6 @@
               <tpc>21</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>IV</name>
-            </Harmony>
           <Rest>
             <dots>1</dots>
             <durationType>16th</durationType>
@@ -6215,7 +6207,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vii%65</name>
+            <name>vii%65/V</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -6857,10 +6849,6 @@
               <tpc>20</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>IV</name>
-            </Harmony>
           <Rest>
             <dots>1</dots>
             <durationType>16th</durationType>

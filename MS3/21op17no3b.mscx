@@ -153,7 +153,6 @@
       <usePre_3_6_defaults>1</usePre_3_6_defaults>
       <defaultsVersion>301</defaultsVersion>
       <Spatium>1.55096</Spatium>
-      <romanNumeralPlacement>1</romanNumeralPlacement>
       </Style>
     <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
@@ -254,19 +253,20 @@
             </TimeSig>
           <StaffText>
             <family>FreeSerif</family>
-            <offset x="-18.902" y="-11.4792"/>
+            <offset x="-9.05743" y="-9.17787"/>
             <text><font size="11.5335"></font><font face="Times New Roman"></font><b>Rondo</b></text>
             </StaffText>
           <StaffText>
             <family>FreeSerif</family>
-            <offset x="-19.1906" y="-14.0432"/>
+            <offset x="-0.140712" y="-9.3413"/>
             <text><font size="11.5335"></font><font face="Times New Roman"></font><b>Allegretto</b></text>
             </StaffText>
           <Tempo>
-            <tempo>1.6666700000000001</tempo>
+            <tempo>1.6000000000000001</tempo>
             <followText>1</followText>
-            <offset x="-18.4499" y="-14.2546"/>
-            <text><sym>metNoteQuarterUp</sym> = 100</text>
+            <visible>0</visible>
+            <offset x="3.92413" y="-13.3596"/>
+            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 96</b></text>
             </Tempo>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -26726,14 +26726,14 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V</name>
-            </Harmony>
           <Clef>
             <concertClefType>G</concertClefType>
             <transposingClefType>G</transposingClefType>
             </Clef>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V</name>
+            </Harmony>
           <Tuplet>
             <normalNotes>4</normalNotes>
             <actualNotes>6</actualNotes>
@@ -27241,14 +27241,14 @@
               </Note>
             </Chord>
           <endTuplet/>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>ii-viio6</name>
-            </Harmony>
           <Clef>
             <concertClefType>F</concertClefType>
             <transposingClefType>F</transposingClefType>
             </Clef>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>ii-viio6</name>
+            </Harmony>
           <Tuplet>
             <normalNotes>4</normalNotes>
             <actualNotes>6</actualNotes>
@@ -28976,14 +28976,14 @@
           <location>
             <fractions>1/8</fractions>
             </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i6</name>
-            </Harmony>
           <Clef>
             <concertClefType>G</concertClefType>
             <transposingClefType>G</transposingClefType>
             </Clef>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i6</name>
+            </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
             </Beam>
@@ -29048,14 +29048,14 @@
               <tpc>11</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i6</name>
-            </Harmony>
           <Clef>
             <concertClefType>F</concertClefType>
             <transposingClefType>F</transposingClefType>
             </Clef>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i6</name>
+            </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -29120,14 +29120,14 @@
               <tpc>11</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>iv</name>
-            </Harmony>
           <Clef>
             <concertClefType>G</concertClefType>
             <transposingClefType>G</transposingClefType>
             </Clef>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>iv</name>
+            </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
             </Beam>
@@ -29192,14 +29192,14 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>iv</name>
-            </Harmony>
           <Clef>
             <concertClefType>F</concertClefType>
             <transposingClefType>F</transposingClefType>
             </Clef>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>iv</name>
+            </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -29264,14 +29264,14 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>iio</name>
-            </Harmony>
           <Clef>
             <concertClefType>G</concertClefType>
             <transposingClefType>G</transposingClefType>
             </Clef>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>iio</name>
+            </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
             </Beam>
@@ -29340,14 +29340,14 @@
               <tpc>11</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>iio</name>
-            </Harmony>
           <Clef>
             <concertClefType>F</concertClefType>
             <transposingClefType>F</transposingClefType>
             </Clef>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>iio</name>
+            </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -31591,7 +31591,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i</name>
+            <name>iv</name>
             </Harmony>
           <Tuplet>
             <normalNotes>4</normalNotes>

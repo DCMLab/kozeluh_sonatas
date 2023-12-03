@@ -153,7 +153,6 @@
       <usePre_3_6_defaults>1</usePre_3_6_defaults>
       <defaultsVersion>301</defaultsVersion>
       <Spatium>1.55096</Spatium>
-      <romanNumeralPlacement>1</romanNumeralPlacement>
       </Style>
     <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
@@ -253,9 +252,15 @@
             </TimeSig>
           <StaffText>
             <family>FreeSerif</family>
-            <offset x="-19.4792" y="-13.8322"/>
+            <offset x="-3.1142" y="-11.1473"/>
             <text><font size="11.5335"></font><font face="Times New Roman"></font><b>Larghetto alla Siciliana</b></text>
             </StaffText>
+          <Tempo>
+            <tempo>1.5</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <text><b></b><font face="ScoreText"></font> <b><font face="Edwin"></font> = 60</b></text>
+            </Tempo>
           <Chord>
             <dots>1</dots>
             <durationType>eighth</durationType>
@@ -6566,12 +6571,10 @@
               </Spanner>
             <StemDirection>down</StemDirection>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>65</pitch>
               <tpc>13</tpc>
               </Note>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>77</pitch>
               <tpc>13</tpc>
               </Note>
@@ -6584,12 +6587,10 @@
             <durationType>eighth</durationType>
             <StemDirection>down</StemDirection>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>68</pitch>
               <tpc>10</tpc>
               </Note>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>80</pitch>
               <tpc>10</tpc>
               </Note>
@@ -6598,12 +6599,10 @@
             <durationType>16th</durationType>
             <StemDirection>down</StemDirection>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>65</pitch>
               <tpc>13</tpc>
               </Note>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>77</pitch>
               <tpc>13</tpc>
               </Note>
@@ -11821,13 +11820,12 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i6</name>
+            <name>iv6</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <StemDirection>down</StemDirection>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>56</pitch>
               <tpc>10</tpc>
               </Note>
@@ -11840,7 +11838,6 @@
             <durationType>16th</durationType>
             <StemDirection>down</StemDirection>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>56</pitch>
               <tpc>10</tpc>
               </Note>
@@ -11853,7 +11850,6 @@
             <durationType>16th</durationType>
             <StemDirection>down</StemDirection>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>56</pitch>
               <tpc>10</tpc>
               </Note>
@@ -11866,7 +11862,6 @@
             <durationType>16th</durationType>
             <StemDirection>down</StemDirection>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>56</pitch>
               <tpc>10</tpc>
               </Note>
@@ -11877,18 +11872,16 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i</name>
+            <name>iv</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <StemDirection>down</StemDirection>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>53</pitch>
               <tpc>13</tpc>
               </Note>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>56</pitch>
               <tpc>10</tpc>
               </Note>
@@ -11897,12 +11890,10 @@
             <durationType>16th</durationType>
             <StemDirection>down</StemDirection>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>53</pitch>
               <tpc>13</tpc>
               </Note>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>56</pitch>
               <tpc>10</tpc>
               </Note>
@@ -11911,12 +11902,10 @@
             <durationType>16th</durationType>
             <StemDirection>down</StemDirection>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>53</pitch>
               <tpc>13</tpc>
               </Note>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>56</pitch>
               <tpc>10</tpc>
               </Note>
@@ -11925,12 +11914,10 @@
             <durationType>16th</durationType>
             <StemDirection>down</StemDirection>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>53</pitch>
               <tpc>13</tpc>
               </Note>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>56</pitch>
               <tpc>10</tpc>
               </Note>
