@@ -162,13 +162,12 @@
     <metaTag name="arranger"></metaTag>
     <metaTag name="composed_end">1806</metaTag>
     <metaTag name="composed_start">1780</metaTag>
-    <metaTag name="composer">Leopold Kozeluch
-(1747-1818)    </metaTag>
+    <metaTag name="composer">Leopold Ko?eluch</metaTag>
     <metaTag name="copyright">© 2009 - Daniel Bernhardsson</metaTag>
     <metaTag name="creationDate">2019-01-08</metaTag>
     <metaTag name="harmony_version">2.1.0</metaTag>
     <metaTag name="lyricist"></metaTag>
-    <metaTag name="movementNumber"></metaTag>
+    <metaTag name="movementNumber">1</metaTag>
     <metaTag name="movementTitle"></metaTag>
     <metaTag name="mscVersion">3.02</metaTag>
     <metaTag name="originalFormat">xml</metaTag>
@@ -176,8 +175,8 @@
     <metaTag name="poet"></metaTag>
     <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
-    <metaTag name="workNumber"></metaTag>
-    <metaTag name="workTitle">Piano Sonata Op. 15 No. 1</metaTag>
+    <metaTag name="workNumber">Op. 15, No. 1</metaTag>
+    <metaTag name="workTitle">Keyboard Sonata No. 1 in G Minor</metaTag>
     <Part>
       <Staff id="1">
         <StaffType group="pitched">

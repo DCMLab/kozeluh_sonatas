@@ -162,13 +162,12 @@
     <metaTag name="arranger"></metaTag>
     <metaTag name="composed_end">1806</metaTag>
     <metaTag name="composed_start">1780</metaTag>
-    <metaTag name="composer">Leopold Kozeluch
-(1747-1818)    </metaTag>
+    <metaTag name="composer">Leopold Ko?eluch</metaTag>
     <metaTag name="copyright">Copyright © 2007 Daniel Bernhardsson</metaTag>
     <metaTag name="creationDate">2019-01-08</metaTag>
     <metaTag name="harmony_version">2.1.0</metaTag>
     <metaTag name="lyricist"></metaTag>
-    <metaTag name="movementNumber"></metaTag>
+    <metaTag name="movementNumber">2</metaTag>
     <metaTag name="movementTitle"></metaTag>
     <metaTag name="mscVersion">3.02</metaTag>
     <metaTag name="originalFormat">xml</metaTag>
@@ -176,8 +175,8 @@
     <metaTag name="poet"></metaTag>
     <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
-    <metaTag name="workNumber"></metaTag>
-    <metaTag name="workTitle">Sonata III Op XXI</metaTag>
+    <metaTag name="workNumber">Op. 20, No. 3</metaTag>
+    <metaTag name="workTitle">Keyboard Sonata No. 3 in D Minor</metaTag>
     <Part>
       <Staff id="1">
         <StaffType group="pitched">
@@ -241,6 +240,7 @@
         </Instrument>
       </Part>
     <Staff id="1">
+      <VBox/>
       <Measure>
         <voice>
           <KeySig>
@@ -265,7 +265,7 @@
             <followText>1</followText>
             <visible>0</visible>
             <offset x="1.02469" y="-8.33689"/>
-            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 54</b></text>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 54</b></text>
             </Tempo>
           <Chord>
             <durationType>quarter</durationType>
