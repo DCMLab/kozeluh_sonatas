@@ -245,29 +245,20 @@
       </Part>
     <Staff id="1">
       <VBox>
-        <height>4.7</height>
+        <height>12.8335</height>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Composer</style>
-          <family>FreeSerif</family>
-          <size>12</size>
-          <offset x="5.62732" y="-7.21452"/>
-          <text><font size="9.7485"></font><font face="Times New Roman"></font>Leopold Kozeluch
-(1747-1818)    </text>
+          <text>Leopold Koželuch</text>
           </Text>
         <Text>
           <style>Title</style>
-          <family>FreeSerif</family>
-          <size>24</size>
-          <offset x="0.288581" y="-8.82452"/>
-          <text><font size="8.9247"></font><font face="Times New Roman"></font>© 2005 Daniel Bernhardsson</text>
+          <offset x="0.17047" y="0.34094"/>
+          <text>Keyboard Sonata No. 3 in E-flat Major, Op. 17, No. 3</text>
           </Text>
         <Text>
           <style>Subtitle</style>
-          <family>FreeSerif</family>
-          <size>14</size>
-          <offset x="0.270864" y="9.0375"/>
-          <text><font size="19.497"></font><font face="Times New Roman"></font>Sonata 3 Op 17</text>
+          <text>1. Allegro </text>
           </Text>
         </VBox>
       <Measure>
@@ -285,11 +276,6 @@
             <subtype>mf</subtype>
             <velocity>80</velocity>
             </Dynamic>
-          <StaffText>
-            <family>FreeSerif</family>
-            <offset x="-3.7699" y="-8.0137"/>
-            <text><font size="11.5335"></font><font face="Times New Roman"></font><b>Allegro</b></text>
-            </StaffText>
           <Tempo>
             <tempo>2.1333333333333333</tempo>
             <followText>1</followText>

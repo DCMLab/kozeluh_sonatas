@@ -153,7 +153,6 @@
       <usePre_3_6_defaults>1</usePre_3_6_defaults>
       <defaultsVersion>301</defaultsVersion>
       <Spatium>1.62539</Spatium>
-      <romanNumeralPlacement>1</romanNumeralPlacement>
       </Style>
     <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
@@ -248,21 +247,19 @@
       </Part>
     <Staff id="1">
       <VBox>
-        <height>5.3</height>
+        <height>12.1067</height>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Composer</style>
-          <family>FreeSerif</family>
-          <size>12</size>
-          <offset x="-0.413049" y="-2.89134"/>
-          <text><font size="10.2202"></font><font face="Times New Roman"></font>Kozeluch</text>
+          <text>Leopold Koželuch</text>
+          </Text>
+        <Text>
+          <style>Title</style>
+          <text>Keyboard Sonata No. 1 in C Major, Op. 8, No. 1</text>
           </Text>
         <Text>
           <style>Subtitle</style>
-          <family>FreeSerif</family>
-          <size>14</size>
-          <offset x="0.144028" y="1.21644"/>
-          <text><font size="20.4405"></font><font face="Times New Roman"></font>Sonata in C, Op 8 No 1</text>
+          <text>1. Allegro molto</text>
           </Text>
         </VBox>
       <Measure>
@@ -17569,15 +17566,15 @@
         </Measure>
       <Measure>
         <voice>
+          <Clef>
+            <concertClefType>G</concertClefType>
+            <transposingClefType>G</transposingClefType>
+            </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>#viio6/ii</name>
             <offset x="0" y="-2.81461"/>
             </Harmony>
-          <Clef>
-            <concertClefType>G</concertClefType>
-            <transposingClefType>G</transposingClefType>
-            </Clef>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>

@@ -244,23 +244,28 @@
         </Instrument>
       </Part>
     <Staff id="1">
-      <VBox/>
+      <VBox>
+        <height>13.9568</height>
+        <boxAutoSize>0</boxAutoSize>
+        <Text>
+          <style>Title</style>
+          <text>Keyboard Sonata No. 2 in C Major, Op. 20, No. 2</text>
+          </Text>
+        <Text>
+          <style>Subtitle</style>
+          <text>3. Rondo: Allegretto</text>
+          </Text>
+        <Text>
+          <style>Composer</style>
+          <text>Leopold Koželuch</text>
+          </Text>
+        </VBox>
       <Measure>
         <voice>
           <TimeSig>
             <sigN>2</sigN>
             <sigD>4</sigD>
             </TimeSig>
-          <StaffText>
-            <family>FreeSerif</family>
-            <offset x="-3.66394" y="-6.27061"/>
-            <text><font size="11.5335"></font><font face="Times New Roman"></font><b>Rondo</b></text>
-            </StaffText>
-          <StaffText>
-            <family>FreeSerif</family>
-            <offset x="3.99071" y="-6.60409"/>
-            <text><font size="11.5335"></font><font face="Times New Roman"></font><b>Allegretto</b></text>
-            </StaffText>
           <Tempo>
             <tempo>1.7</tempo>
             <followText>1</followText>

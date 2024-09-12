@@ -153,7 +153,6 @@
       <usePre_3_6_defaults>1</usePre_3_6_defaults>
       <defaultsVersion>301</defaultsVersion>
       <Spatium>1.55096</Spatium>
-      <romanNumeralPlacement>1</romanNumeralPlacement>
       </Style>
     <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
@@ -246,29 +245,19 @@
       </Part>
     <Staff id="1">
       <VBox>
-        <height>4.7</height>
+        <height>14.0426</height>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Composer</style>
-          <family>FreeSerif</family>
-          <size>12</size>
-          <offset x="5.33874" y="-6.49307"/>
-          <text><font size="9.7485"></font><font face="Times New Roman"></font>Leopold Kozeluch
-(1747-1818)    </text>
+          <text>Leopold Koželuch</text>
           </Text>
         <Text>
           <style>Title</style>
-          <family>FreeSerif</family>
-          <size>24</size>
-          <offset x="0.432871" y="-8.82452"/>
-          <text><font size="8.9247"></font><font face="Times New Roman"></font>© 2005 Daniel Bernhardsson</text>
+          <text>Keyboard Sonata No. 1 in F Minor, Op. 17, No. 1</text>
           </Text>
         <Text>
           <style>Subtitle</style>
-          <family>FreeSerif</family>
-          <size>14</size>
-          <offset x="0" y="-6.48333"/>
-          <text><font size="19.497"></font><font face="Times New Roman"></font>Sonata 1 Op 17</text>
+          <text>1. Largo</text>
           </Text>
         </VBox>
       <Measure len="1/32">
@@ -282,15 +271,10 @@
             <sigN>3</sigN>
             <sigD>4</sigD>
             </TimeSig>
-          <StaffText>
-            <family>FreeSerif</family>
-            <offset x="-20.6335" y="-15.9076"/>
-            <text><font size="11.5335"></font><font face="Times New Roman"></font><b>Largo</b></text>
-            </StaffText>
           <Tempo>
             <tempo>0.83333299999999999</tempo>
             <followText>1</followText>
-            <offset x="-20.4517" y="-16.8405"/>
+            <offset x="-1.98641" y="-2.44197"/>
             <text><sym>metNoteQuarterUp</sym> = 50</text>
             </Tempo>
           <Chord>
@@ -4233,14 +4217,14 @@
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V65</name>
-            </Harmony>
           <Clef>
             <concertClefType>G</concertClefType>
             <transposingClefType>G</transposingClefType>
             </Clef>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V65</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
@@ -4664,14 +4648,14 @@
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i6</name>
-            </Harmony>
           <Clef>
             <concertClefType>G</concertClefType>
             <transposingClefType>G</transposingClefType>
             </Clef>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i6</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
@@ -4970,14 +4954,14 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>Ger6</name>
-            </Harmony>
           <Clef>
             <concertClefType>F</concertClefType>
             <transposingClefType>F</transposingClefType>
             </Clef>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>Ger6</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <StemDirection>up</StemDirection>

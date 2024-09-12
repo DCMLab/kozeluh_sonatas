@@ -247,29 +247,19 @@
       </Part>
     <Staff id="1">
       <VBox>
-        <height>4.7</height>
+        <height>15.1417</height>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Composer</style>
-          <family>FreeSerif</family>
-          <size>12</size>
-          <offset x="0.14429" y="-4.61729"/>
-          <text><font size="9.7485"></font><font face="Times New Roman"></font>Leopold Kozeluch
-(1747-1818)    </text>
+          <text>Leopold Koželuch</text>
           </Text>
         <Text>
           <style>Title</style>
-          <family>FreeSerif</family>
-          <size>24</size>
-          <offset x="-0.288581" y="-7.44907"/>
-          <text><font size="8.9247"></font><font face="Times New Roman"></font>© 2005 Daniel Bernhardsson</text>
+          <text>Keyboard Sonata No. 1 in E-flat Major, Op. 10, No. 1</text>
           </Text>
         <Text>
           <style>Subtitle</style>
-          <family>FreeSerif</family>
-          <size>14</size>
-          <offset x="0" y="-5.90617"/>
-          <text><font size="19.497"></font><font face="Times New Roman"></font>Sonata 1 Op 5</text>
+          <text>1. Allegro molto</text>
           </Text>
         </VBox>
       <Measure>

@@ -244,7 +244,22 @@
         </Instrument>
       </Part>
     <Staff id="1">
-      <VBox/>
+      <VBox>
+        <height>14.7262</height>
+        <boxAutoSize>0</boxAutoSize>
+        <Text>
+          <style>Title</style>
+          <text>Keyboard Sonata No. 1 in B-flat Major, Op. 30, No. 1</text>
+          </Text>
+        <Text>
+          <style>Subtitle</style>
+          <text>3. Rondo: Allegretto</text>
+          </Text>
+        <Text>
+          <style>Composer</style>
+          <text>Leopold Koželuch</text>
+          </Text>
+        </VBox>
       <Measure len="1/4">
         <irregular>1</irregular>
         <voice>
@@ -260,16 +275,6 @@
             <subtype>p</subtype>
             <velocity>49</velocity>
             </Dynamic>
-          <StaffText>
-            <family>FreeSerif</family>
-            <offset x="-1.44849" y="-6.89205"/>
-            <text><font size="11.5335"></font><font face="Times New Roman"></font><b>Rondo</b></text>
-            </StaffText>
-          <StaffText>
-            <family>FreeSerif</family>
-            <offset x="5.77336" y="-7.05344"/>
-            <text><font size="11.5335"></font><font face="Times New Roman"></font><b>Allegretto</b></text>
-            </StaffText>
           <Tempo>
             <tempo>1.9333333333333333</tempo>
             <followText>1</followText>

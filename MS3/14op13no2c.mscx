@@ -245,7 +245,22 @@
         </Instrument>
       </Part>
     <Staff id="1">
-      <VBox/>
+      <VBox>
+        <height>12.4122</height>
+        <boxAutoSize>0</boxAutoSize>
+        <Text>
+          <style>Title</style>
+          <text>Keyboard Sonata No. 2 in G Major, Op. 13, No. 2</text>
+          </Text>
+        <Text>
+          <style>Subtitle</style>
+          <text>3. Rondo</text>
+          </Text>
+        <Text>
+          <style>Composer</style>
+          <text>Leopold Koželuch</text>
+          </Text>
+        </VBox>
       <Measure>
         <voice>
           <KeySig>
@@ -256,11 +271,6 @@
             <sigN>2</sigN>
             <sigD>4</sigD>
             </TimeSig>
-          <StaffText>
-            <family>FreeSerif</family>
-            <offset x="-1.08112" y="-9.58548"/>
-            <text><font size="12.0915"></font><font face="Times New Roman"></font><b>Rondo</b></text>
-            </StaffText>
           <Tempo>
             <tempo>1.8</tempo>
             <followText>1</followText>

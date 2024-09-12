@@ -246,29 +246,19 @@
       </Part>
     <Staff id="1">
       <VBox>
-        <height>4.6</height>
+        <height>14.3822</height>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Composer</style>
-          <family>FreeSerif</family>
-          <size>12</size>
-          <offset x="4.473" y="-6.78165"/>
-          <text><font size="9.7485"></font><font face="Times New Roman"></font>Leopold Kozeluch
-(1747-1818)    </text>
+          <text>Leopold Koželuch</text>
           </Text>
         <Text>
           <style>Title</style>
-          <family>FreeSerif</family>
-          <size>24</size>
-          <offset x="0.830304" y="9.08179"/>
-          <text><font size="19.497"></font><font face="Times New Roman"></font>Sonata III Op XXI</text>
+          <text>Keyboard Sonata No. 3 in D Minor, Op. 20, No. 3</text>
           </Text>
         <Text>
           <style>Subtitle</style>
-          <family>FreeSerif</family>
-          <size>14</size>
-          <offset x="0" y="-8.82452"/>
-          <text><font size="8.9247"></font><font face="Times New Roman"></font>Copyright © 2007 Daniel Bernhardsson</text>
+          <text>1. Moderato</text>
           </Text>
         </VBox>
       <Measure>
@@ -282,11 +272,6 @@
             <sigN>4</sigN>
             <sigD>4</sigD>
             </TimeSig>
-          <StaffText>
-            <family>FreeSerif</family>
-            <offset x="-4.37626" y="-6.09088"/>
-            <text><font size="11.5335"></font><font face="Times New Roman"></font><b>Moderato</b></text>
-            </StaffText>
           <Tempo>
             <tempo>1.8</tempo>
             <followText>1</followText>
