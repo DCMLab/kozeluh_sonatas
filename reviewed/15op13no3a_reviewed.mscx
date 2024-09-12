@@ -158,26 +158,31 @@
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
+    <metaTag name="P86 (composer)">Q693843</metaTag>
     <metaTag name="annotators">Adrian Nagel</metaTag>
     <metaTag name="arranger"></metaTag>
-    <metaTag name="composed_end">1806</metaTag>
-    <metaTag name="composed_start">1780</metaTag>
-    <metaTag name="composer">Leopold Kozeluch
-(1747-1818)    </metaTag>
+    <metaTag name="compared_against">LATEST_VERSION</metaTag>
+    <metaTag name="composed_end">1784</metaTag>
+    <metaTag name="composed_start">1784</metaTag>
+    <metaTag name="composer">Leopold Koželuch</metaTag>
     <metaTag name="copyright">© 2005 Daniel Bernhardsson</metaTag>
     <metaTag name="creationDate">2019-01-08</metaTag>
     <metaTag name="harmony_version">2.1.0</metaTag>
+    <metaTag name="imslp">https://imslp.org/wiki/3_Keyboard_Sonatas,_Op.13_(Kozeluch,_Leopold)</metaTag>
     <metaTag name="lyricist"></metaTag>
-    <metaTag name="movementNumber"></metaTag>
-    <metaTag name="movementTitle"></metaTag>
+    <metaTag name="movementNumber">1</metaTag>
+    <metaTag name="movementTitle">Allegro molto</metaTag>
     <metaTag name="mscVersion">3.02</metaTag>
     <metaTag name="originalFormat">xml</metaTag>
+    <metaTag name="pdf">https://imslp.org/wiki/Special:ReverseLookup/482041</metaTag>
     <metaTag name="platform">Linux</metaTag>
     <metaTag name="poet"></metaTag>
     <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
-    <metaTag name="workNumber"></metaTag>
-    <metaTag name="workTitle">Sonata 3 Op 13</metaTag>
+    <metaTag name="typesetter">Daniel Bernhardsson</metaTag>
+    <metaTag name="viaf">https://viaf.org/viaf/778150382195013500004/</metaTag>
+    <metaTag name="workNumber">Op. 13, No. 3</metaTag>
+    <metaTag name="workTitle">Keyboard Sonata No. 3 in E Minor</metaTag>
     <Part>
       <Staff id="1">
         <StaffType group="pitched">
@@ -242,29 +247,19 @@
       </Part>
     <Staff id="1">
       <VBox>
-        <height>4.7</height>
+        <height>9.64606</height>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Composer</style>
-          <family>FreeSerif</family>
-          <size>12</size>
-          <offset x="4.61729" y="-6.92594"/>
-          <text><font size="9.7485"></font><font face="Times New Roman"></font>Leopold Kozeluch
-(1747-1818)    </text>
+          <text>Leopold Koželuch</text>
           </Text>
         <Text>
           <style>Title</style>
-          <family>FreeSerif</family>
-          <size>24</size>
-          <offset x="-0.577161" y="-6.00617"/>
-          <text><font size="8.9247"></font><font face="Times New Roman"></font>© 2005 Daniel Bernhardsson</text>
+          <text>Keyboard Sonata No. 3 in E Minor, Op. 13, No. 3</text>
           </Text>
         <Text>
           <style>Subtitle</style>
-          <family>FreeSerif</family>
-          <size>14</size>
-          <offset x="-0.14429" y="-4.03039"/>
-          <text><font size="19.497"></font><font face="Times New Roman"></font>Sonata 3 Op 13</text>
+          <text>1. Allegro molto</text>
           </Text>
         </VBox>
       <Measure>
@@ -280,7 +275,7 @@
             </TimeSig>
           <StaffText>
             <family>FreeSerif</family>
-            <offset x="-17.1706" y="-15.5861"/>
+            <offset x="-5.08023" y="-5.80389"/>
             <text><font size="11.5335"></font><font face="Times New Roman"></font><b>Allegro molto</b></text>
             </StaffText>
           <Tempo>

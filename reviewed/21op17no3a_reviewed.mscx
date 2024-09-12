@@ -158,26 +158,30 @@
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
+    <metaTag name="P86 (composer)">Q693843</metaTag>
     <metaTag name="annotators">Adrian Nagel</metaTag>
     <metaTag name="arranger"></metaTag>
-    <metaTag name="composed_end">1806</metaTag>
-    <metaTag name="composed_start">1780</metaTag>
-    <metaTag name="composer">Leopold Kozeluch
-(1747-1818)    </metaTag>
+    <metaTag name="compared_against">LATEST_VERSION</metaTag>
+    <metaTag name="composed_end">1785</metaTag>
+    <metaTag name="composed_start">1785</metaTag>
+    <metaTag name="composer">Leopold Koželuch</metaTag>
     <metaTag name="copyright">© 2005 Daniel Bernhardsson</metaTag>
     <metaTag name="creationDate">2019-01-08</metaTag>
     <metaTag name="harmony_version">2.1.0</metaTag>
+    <metaTag name="imslp">https://imslp.org/wiki/3_Keyboard_Sonatas,_P.XII:20-22_(Kozeluch,_Leopold)</metaTag>
     <metaTag name="lyricist"></metaTag>
-    <metaTag name="movementNumber"></metaTag>
-    <metaTag name="movementTitle"></metaTag>
+    <metaTag name="movementNumber">1</metaTag>
+    <metaTag name="movementTitle">Allegro </metaTag>
     <metaTag name="mscVersion">3.02</metaTag>
     <metaTag name="originalFormat">xml</metaTag>
+    <metaTag name="pdf">https://imslp.org/wiki/Special:ReverseLookup/533473</metaTag>
     <metaTag name="platform">Linux</metaTag>
     <metaTag name="poet"></metaTag>
     <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
-    <metaTag name="workNumber"></metaTag>
-    <metaTag name="workTitle">Sonata 3 Op 17</metaTag>
+    <metaTag name="typesetter">Daniel Bernhardsson</metaTag>
+    <metaTag name="workNumber">Op. 17, No. 3</metaTag>
+    <metaTag name="workTitle">Keyboard Sonata No. 3 in E-flat Major</metaTag>
     <Part>
       <Staff id="1">
         <StaffType group="pitched">
@@ -242,29 +246,20 @@
       </Part>
     <Staff id="1">
       <VBox>
-        <height>4.7</height>
+        <height>12.8335</height>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Composer</style>
-          <family>FreeSerif</family>
-          <size>12</size>
-          <offset x="5.62732" y="-7.21452"/>
-          <text><font size="9.7485"></font><font face="Times New Roman"></font>Leopold Kozeluch
-(1747-1818)    </text>
+          <text>Leopold Koželuch</text>
           </Text>
         <Text>
           <style>Title</style>
-          <family>FreeSerif</family>
-          <size>24</size>
-          <offset x="0.288581" y="-8.82452"/>
-          <text><font size="8.9247"></font><font face="Times New Roman"></font>© 2005 Daniel Bernhardsson</text>
+          <offset x="0.17047" y="0.34094"/>
+          <text>Keyboard Sonata No. 3 in E-flat Major, Op. 17, No. 3</text>
           </Text>
         <Text>
           <style>Subtitle</style>
-          <family>FreeSerif</family>
-          <size>14</size>
-          <offset x="0.270864" y="9.0375"/>
-          <text><font size="19.497"></font><font face="Times New Roman"></font>Sonata 3 Op 17</text>
+          <text>1. Allegro </text>
           </Text>
         </VBox>
       <Measure>
@@ -282,11 +277,6 @@
             <subtype>mf</subtype>
             <velocity>80</velocity>
             </Dynamic>
-          <StaffText>
-            <family>FreeSerif</family>
-            <offset x="-3.7699" y="-8.0137"/>
-            <text><font size="11.5335"></font><font face="Times New Roman"></font><b>Allegro</b></text>
-            </StaffText>
           <Tempo>
             <tempo>2.1333333333333333</tempo>
             <followText>1</followText>

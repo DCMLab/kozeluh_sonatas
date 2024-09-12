@@ -1,6 +1,5 @@
 mc	mn	quarterbeats	quarterbeats_all_endings	duration_qb	mc_onset	mn_onset	event	timesig	staff	voice	duration	gracenote	nominal_duration	scalar	chord_id	dynamics	articulation	staff_text	tempo	qpm	metronome_base	metronome_number	tempo_visible	slur	crescendo_hairpin	decrescendo_hairpin
 1	1	0	0	0.0	0	0	Dynamic	4/4	1	1	0					p										
-1	1	0	0	0.0	0	0	StaffText	4/4	1	1	0							"<font size=""11.5335""/><font face=""Times New Roman""/><b>Allegro agitato</b>"								
 1	1	0	0	0.0	0	0	Tempo	4/4	1	1	0								𝅘𝅥=144	144.0	𝅘𝅥	144.0	0.0			
 1	1	0	0	0.5	0	0	Chord	4/4	2	1	1/8		1/8	1	0											
 1	1	1/2	1/2	0.5	1/8	1/8	Chord	4/4	2	1	1/8		1/8	1	1											
