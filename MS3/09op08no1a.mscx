@@ -153,31 +153,36 @@
       <usePre_3_6_defaults>1</usePre_3_6_defaults>
       <defaultsVersion>301</defaultsVersion>
       <Spatium>1.62539</Spatium>
-      <romanNumeralPlacement>1</romanNumeralPlacement>
       </Style>
     <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
+    <metaTag name="P86 (composer)">Q693843</metaTag>
     <metaTag name="annotators">Adrian Nagel</metaTag>
     <metaTag name="arranger"></metaTag>
-    <metaTag name="composed_end">1806</metaTag>
-    <metaTag name="composed_start">1780</metaTag>
-    <metaTag name="composer">Kozeluch</metaTag>
-    <metaTag name="copyright">Copyright © 2005 Daniel Bernhardsson</metaTag>
+    <metaTag name="composed_end">1784</metaTag>
+    <metaTag name="composed_start">1784</metaTag>
+    <metaTag name="composer">Leopold Koželuch</metaTag>
+    <metaTag name="copyright">© 2005 Daniel Bernhardsson</metaTag>
     <metaTag name="creationDate">2019-01-08</metaTag>
     <metaTag name="harmony_version">2.1.0</metaTag>
+    <metaTag name="imslp">https://imslp.org/wiki/3_Keyboard_Sonatas,_Op.8_(Kozeluch,_Leopold)</metaTag>
     <metaTag name="lyricist"></metaTag>
-    <metaTag name="movementNumber"></metaTag>
-    <metaTag name="movementTitle"></metaTag>
+    <metaTag name="movementNumber">1</metaTag>
+    <metaTag name="movementTitle">Allegro molto</metaTag>
     <metaTag name="mscVersion">3.02</metaTag>
+    <metaTag name="musicbrainz">https://musicbrainz.org/work/0d01ac7f-61a1-4010-8bdd-3298242f2bb7</metaTag>
     <metaTag name="originalFormat">xml</metaTag>
+    <metaTag name="pdf">https://imslp.org/wiki/Special:ReverseLookup/481835</metaTag>
     <metaTag name="platform">Linux</metaTag>
     <metaTag name="poet"></metaTag>
     <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
-    <metaTag name="workNumber"></metaTag>
-    <metaTag name="workTitle">Sonata in C, Op 8 No 1</metaTag>
+    <metaTag name="typesetter">Daniel Bernhardsson</metaTag>
+    <metaTag name="viaf">https://viaf.org/viaf/4934150382212213500006/</metaTag>
+    <metaTag name="workNumber">Op. 8, No. 1</metaTag>
+    <metaTag name="workTitle">Keyboard Sonata No. 1 in C Major</metaTag>
     <Part>
       <Staff id="1">
         <StaffType group="pitched">
@@ -242,21 +247,19 @@
       </Part>
     <Staff id="1">
       <VBox>
-        <height>5.3</height>
+        <height>12.1067</height>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Composer</style>
-          <family>FreeSerif</family>
-          <size>12</size>
-          <offset x="-0.413049" y="-2.89134"/>
-          <text><font size="10.2202"></font><font face="Times New Roman"></font>Kozeluch</text>
+          <text>Leopold Koželuch</text>
+          </Text>
+        <Text>
+          <style>Title</style>
+          <text>Keyboard Sonata No. 1 in C Major, Op. 8, No. 1</text>
           </Text>
         <Text>
           <style>Subtitle</style>
-          <family>FreeSerif</family>
-          <size>14</size>
-          <offset x="0.144028" y="1.21644"/>
-          <text><font size="20.4405"></font><font face="Times New Roman"></font>Sonata in C, Op 8 No 1</text>
+          <text>1. Allegro molto</text>
           </Text>
         </VBox>
       <Measure>
@@ -17563,15 +17566,15 @@
         </Measure>
       <Measure>
         <voice>
+          <Clef>
+            <concertClefType>G</concertClefType>
+            <transposingClefType>G</transposingClefType>
+            </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>#viio6/ii</name>
             <offset x="0" y="-2.81461"/>
             </Harmony>
-          <Clef>
-            <concertClefType>G</concertClefType>
-            <transposingClefType>G</transposingClefType>
-            </Clef>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>

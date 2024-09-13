@@ -1,3 +1,35 @@
+![Version](https://img.shields.io/github/v/release/DCMLab/kozeluh_sonatas?display_name=tag)
+[![DOI](https://zenodo.org/badge/{{ zenodo_badge_id }}.svg)](https://zenodo.org/badge/latestdoi/{{ zenodo_badge_id }})
+![GitHub repo size](https://img.shields.io/github/repo-size/DCMLab/kozeluh_sonatas)
+![License](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-9cf)
+
+
+This is a README file for a data repository originating from the [DCML corpus initiative](https://github.com/DCMLab/dcml_corpora)
+and serves as welcome page for both 
+
+* the GitHub repo [https://github.com/DCMLab/kozeluh_sonatas](https://github.com/DCMLab/kozeluh_sonatas) and the corresponding
+* documentation page [https://dcmlab.github.io/kozeluh_sonatas](https://dcmlab.github.io/kozeluh_sonatas)
+
+For information on how to obtain and use the dataset, please refer to [this documentation page](https://dcmlab.github.io/kozeluh_sonatas/introduction).
+
+# Leopold Koželuch – Piano Sonatas
+
+Bohemian composer Leopold Koželuch had a way of repeatedly crossing paths with Mozart. Both composers were successively offered the same court position in two different instances (by the Archbishop of Salzburg and by Emperor Franz II). Koželuch's own music is however radically different, with many passages in these sonatas foreshadowing instead the tragic drama of Beethoven and von Weber. The annotations here investigate the chromatic shocks that support this tortured expression, incorporating disjunct successions and augmented sonorities that enact a significant break from the elegant and genteel vocabulary usually associated with Viennese classicism.
+
+## Version history
+
+See the [GitHub releases](https://github.com/DCMLab/kozeluh_sonatas/releases).
+
+## Questions, Suggestions, Corrections, Bug Reports
+
+Please [create an issue](https://github.com/DCMLab/kozeluh_sonatas/issues) and/or feel free to fork and submit pull requests.
+
+## License
+
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License ([CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)).
+
+## List of piano sonatas
+
 |no |op |op_no|             title             |                     movements                     |root|mode |   year   |pdf|
 |--:|--:|----:|-------------------------------|---------------------------------------------------|----|-----|----------|------|
 |  1|  1|    1|(1) Sonata 1, F major (1780)   |I. Allegro molto                                   |F   |major|      1780|False |

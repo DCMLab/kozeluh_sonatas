@@ -153,31 +153,36 @@
       <usePre_3_6_defaults>1</usePre_3_6_defaults>
       <defaultsVersion>301</defaultsVersion>
       <Spatium>1.62539</Spatium>
-      <romanNumeralPlacement>1</romanNumeralPlacement>
       </Style>
     <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
+    <metaTag name="P86 (composer)">Q693843</metaTag>
     <metaTag name="annotators">Adrian Nagel</metaTag>
     <metaTag name="arranger"></metaTag>
-    <metaTag name="composed_end">1806</metaTag>
-    <metaTag name="composed_start">1780</metaTag>
-    <metaTag name="composer">Kozeluch</metaTag>
-    <metaTag name="copyright">Copyright © 2005 Daniel Bernhardsson</metaTag>
+    <metaTag name="compared_against">LATEST_VERSION</metaTag>
+    <metaTag name="composed_end">1784</metaTag>
+    <metaTag name="composed_start">1784</metaTag>
+    <metaTag name="composer">Leopold Koželuch</metaTag>
+    <metaTag name="copyright">© 2005 Daniel Bernhardsson</metaTag>
     <metaTag name="creationDate">2019-01-08</metaTag>
     <metaTag name="harmony_version">2.1.0</metaTag>
+    <metaTag name="imslp">https://imslp.org/wiki/3_Keyboard_Sonatas,_Op.13_(Kozeluch,_Leopold)</metaTag>
     <metaTag name="lyricist"></metaTag>
-    <metaTag name="movementNumber"></metaTag>
-    <metaTag name="movementTitle"></metaTag>
+    <metaTag name="movementNumber">1</metaTag>
+    <metaTag name="movementTitle">Allegro non molto</metaTag>
     <metaTag name="mscVersion">3.02</metaTag>
     <metaTag name="originalFormat">xml</metaTag>
+    <metaTag name="pdf">https://imslp.org/wiki/Special:ReverseLookup/482041</metaTag>
     <metaTag name="platform">Linux</metaTag>
     <metaTag name="poet"></metaTag>
     <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
-    <metaTag name="workNumber"></metaTag>
-    <metaTag name="workTitle">Sonata in G, Op 8 No 2</metaTag>
+    <metaTag name="typesetter">Daniel Bernhardsson</metaTag>
+    <metaTag name="viaf">https://viaf.org/viaf/8568150382227613500009/</metaTag>
+    <metaTag name="workNumber">Op. 13, No. 2</metaTag>
+    <metaTag name="workTitle">Keyboard Sonata No. 2 in G Major</metaTag>
     <Part>
       <Staff id="1">
         <StaffType group="pitched">
@@ -242,28 +247,19 @@
       </Part>
     <Staff id="1">
       <VBox>
-        <height>5.3</height>
+        <height>12.8513</height>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Composer</style>
-          <family>FreeSerif</family>
-          <size>12</size>
-          <offset x="-0.137683" y="-6.33342"/>
-          <text><font size="10.2202"></font><font face="Times New Roman"></font>Kozeluch</text>
+          <text>Leopold Koželuch</text>
           </Text>
         <Text>
           <style>Title</style>
-          <family>FreeSerif</family>
-          <size>24</size>
-          <offset x="0.275366" y="-6.48451"/>
-          <text><font size="9.3565"></font><font face="Times New Roman"></font>Copyright © 2005 Daniel Bernhardsson</text>
+          <text>Keyboard Sonata No. 2 in G Major, Op. 13, No. 2</text>
           </Text>
         <Text>
           <style>Subtitle</style>
-          <family>FreeSerif</family>
-          <size>14</size>
-          <offset x="-0.137683" y="-4.50914"/>
-          <text><font size="20.4405"></font><font face="Times New Roman"></font>Sonata in G, Op 8 No 2</text>
+          <text>1. Allegro non molto</text>
           </Text>
         </VBox>
       <Measure>
@@ -276,15 +272,10 @@
             <sigN>2</sigN>
             <sigD>4</sigD>
             </TimeSig>
-          <StaffText>
-            <family>FreeSerif</family>
-            <offset x="-17.4857" y="-17.0944"/>
-            <text><font size="12.0915"></font><font face="Times New Roman"></font><b>Allegro non molto</b></text>
-            </StaffText>
           <Tempo>
             <tempo>2</tempo>
             <followText>1</followText>
-            <offset x="-17.1183" y="-17.7321"/>
+            <offset x="0.920943" y="-2.20996"/>
             <text><sym>metNoteQuarterUp</sym> = 120</text>
             </Tempo>
           <Chord>
@@ -12320,14 +12311,14 @@
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>I</name>
-            </Harmony>
           <Clef>
             <concertClefType>G</concertClefType>
             <transposingClefType>G</transposingClefType>
             </Clef>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <StemDirection>up</StemDirection>
@@ -12591,14 +12582,14 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>iio6</name>
-            </Harmony>
           <Clef>
             <concertClefType>G</concertClefType>
             <transposingClefType>G</transposingClefType>
             </Clef>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>iio6</name>
+            </Harmony>
           <Chord>
             <durationType>half</durationType>
             <StemDirection>up</StemDirection>
@@ -12638,14 +12629,14 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V6\\</name>
-            </Harmony>
           <Clef>
             <concertClefType>F</concertClefType>
             <transposingClefType>F</transposingClefType>
             </Clef>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V6\\</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
@@ -13687,14 +13678,14 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V[V</name>
-            </Harmony>
           <Clef>
             <concertClefType>G</concertClefType>
             <transposingClefType>G</transposingClefType>
             </Clef>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V[V</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
@@ -13932,14 +13923,14 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>I.I\\</name>
-            </Harmony>
           <Clef>
             <concertClefType>F</concertClefType>
             <transposingClefType>F</transposingClefType>
             </Clef>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I.I\\</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Articulation>
@@ -15831,14 +15822,14 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V(64)</name>
-            </Harmony>
           <Clef>
             <concertClefType>F</concertClefType>
             <transposingClefType>F</transposingClefType>
             </Clef>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V(64)</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <StemDirection>down</StemDirection>

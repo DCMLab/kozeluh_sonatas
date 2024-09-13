@@ -153,31 +153,37 @@
       <usePre_3_6_defaults>1</usePre_3_6_defaults>
       <defaultsVersion>301</defaultsVersion>
       <Spatium>1.62539</Spatium>
-      <romanNumeralPlacement>1</romanNumeralPlacement>
       </Style>
     <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
+    <metaTag name="P86 (composer)">Q693843</metaTag>
     <metaTag name="annotators">Adrian Nagel</metaTag>
     <metaTag name="arranger"></metaTag>
-    <metaTag name="composed_end">1806</metaTag>
-    <metaTag name="composed_start">1780</metaTag>
-    <metaTag name="composer">Kozeluch</metaTag>
-    <metaTag name="copyright">Copyright © 2005 Daniel Bernhardsson</metaTag>
+    <metaTag name="compared_against">LATEST_VERSION</metaTag>
+    <metaTag name="composed_end">1784</metaTag>
+    <metaTag name="composed_start">1784</metaTag>
+    <metaTag name="composer">Leopold Koželuch</metaTag>
+    <metaTag name="copyright">© 2005 Daniel Bernhardsson</metaTag>
     <metaTag name="creationDate">2019-01-08</metaTag>
     <metaTag name="harmony_version">2.1.0</metaTag>
+    <metaTag name="imslp">https://imslp.org/wiki/3_Keyboard_Sonatas,_Op.8_(Kozeluch,_Leopold)</metaTag>
     <metaTag name="lyricist"></metaTag>
-    <metaTag name="movementNumber"></metaTag>
-    <metaTag name="movementTitle"></metaTag>
+    <metaTag name="movementNumber">2</metaTag>
+    <metaTag name="movementTitle">Adagio un poco</metaTag>
     <metaTag name="mscVersion">3.02</metaTag>
+    <metaTag name="musicbrainz">https://musicbrainz.org/work/56435491-864d-43a7-a7ef-69576d735eb4</metaTag>
     <metaTag name="originalFormat">xml</metaTag>
+    <metaTag name="pdf">https://imslp.org/wiki/Special:ReverseLookup/481835</metaTag>
     <metaTag name="platform">Linux</metaTag>
     <metaTag name="poet"></metaTag>
     <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
-    <metaTag name="workNumber"></metaTag>
-    <metaTag name="workTitle">Sonata in F, Op 8 No 3</metaTag>
+    <metaTag name="typesetter">Daniel Bernhardsson</metaTag>
+    <metaTag name="viaf">https://viaf.org/viaf/6635150382260713500005/</metaTag>
+    <metaTag name="workNumber">Op. 8, No. 2</metaTag>
+    <metaTag name="workTitle">Keyboard Sonata No. 2 in F Major</metaTag>
     <Part>
       <Staff id="1">
         <StaffType group="pitched">
@@ -240,6 +246,22 @@
         </Instrument>
       </Part>
     <Staff id="1">
+      <VBox>
+        <height>17.4464</height>
+        <boxAutoSize>0</boxAutoSize>
+        <Text>
+          <style>Title</style>
+          <text>Keyboard Sonata No. 2 in F Major, Op. 8, No. 2</text>
+          </Text>
+        <Text>
+          <style>Subtitle</style>
+          <text>2. Adagio un poco</text>
+          </Text>
+        <Text>
+          <style>Composer</style>
+          <text>Leopold Koželuch</text>
+          </Text>
+        </VBox>
       <Measure>
         <voice>
           <TimeSig>
@@ -248,13 +270,13 @@
             </TimeSig>
           <StaffText>
             <family>FreeSerif</family>
-            <offset x="-14.2848" y="-10.1715"/>
+            <offset x="-9.35547" y="-5.34705"/>
             <text><font size="12.0915"></font><font face="Times New Roman"></font><b>Adagio un poco</b></text>
             </StaffText>
           <Tempo>
             <tempo>1</tempo>
             <followText>1</followText>
-            <offset x="-13.8352" y="-11.2005"/>
+            <offset x="12.3846" y="-3.64919"/>
             <text><sym>metNoteQuarterUp</sym> = 60</text>
             </Tempo>
           <Chord>
@@ -5313,14 +5335,14 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>I[I</name>
-            </Harmony>
           <Clef>
             <concertClefType>F</concertClefType>
             <transposingClefType>F</transposingClefType>
             </Clef>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I[I</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
@@ -5668,10 +5690,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V.IV</name>
-            </Harmony>
           <Clef>
             <concertClefType>G</concertClefType>
             <transposingClefType>G</transposingClefType>
@@ -5679,6 +5697,10 @@
           <BarLine>
             <subtype>start-repeat</subtype>
             </BarLine>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V.IV</name>
+            </Harmony>
           <Chord>
             <dots>1</dots>
             <durationType>quarter</durationType>
@@ -5799,14 +5821,14 @@
           <location>
             <fractions>-1/8</fractions>
             </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>I\\</name>
-            </Harmony>
           <Clef>
             <concertClefType>F</concertClefType>
             <transposingClefType>F</transposingClefType>
             </Clef>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I\\</name>
+            </Harmony>
           <location>
             <fractions>1/8</fractions>
             </location>
@@ -7590,14 +7612,14 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>I[I</name>
-            </Harmony>
           <Clef>
             <concertClefType>F</concertClefType>
             <transposingClefType>F</transposingClefType>
             </Clef>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I[I</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>

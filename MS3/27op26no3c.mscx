@@ -159,26 +159,27 @@
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
+    <metaTag name="P86 (composer)">Q693843</metaTag>
     <metaTag name="annotators">Adrian Nagel</metaTag>
     <metaTag name="arranger"></metaTag>
-    <metaTag name="composed_end">1806</metaTag>
-    <metaTag name="composed_start">1780</metaTag>
-    <metaTag name="composer">Leopold Kozeluch
-(1747-1818)    </metaTag>
+    <metaTag name="composed_end">1788</metaTag>
+    <metaTag name="composed_start">1788</metaTag>
+    <metaTag name="composer">Leopold Koželuch</metaTag>
     <metaTag name="copyright">© 2006 Daniel Bernhardsson</metaTag>
     <metaTag name="creationDate">2019-01-08</metaTag>
     <metaTag name="harmony_version">2.1.0</metaTag>
     <metaTag name="lyricist"></metaTag>
-    <metaTag name="movementNumber"></metaTag>
-    <metaTag name="movementTitle"></metaTag>
+    <metaTag name="movementNumber">3</metaTag>
+    <metaTag name="movementTitle">Rondo: Allegro con Fuoco</metaTag>
     <metaTag name="mscVersion">3.02</metaTag>
     <metaTag name="originalFormat">xml</metaTag>
     <metaTag name="platform">Linux</metaTag>
     <metaTag name="poet"></metaTag>
     <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
-    <metaTag name="workNumber"></metaTag>
-    <metaTag name="workTitle">Sonata op 33 no 3</metaTag>
+    <metaTag name="typesetter">Daniel Bernhardsson</metaTag>
+    <metaTag name="workNumber">Op. 26, No. 3</metaTag>
+    <metaTag name="workTitle">Keyboard Sonata No. 3 in E-flat Major</metaTag>
     <Part>
       <Staff id="1">
         <StaffType group="pitched">
@@ -242,6 +243,20 @@
         </Instrument>
       </Part>
     <Staff id="1">
+      <VBox>
+        <Text>
+          <style>Title</style>
+          <text>Keyboard Sonata No. 3 in E-flat Major, Op. 26, No. 3</text>
+          </Text>
+        <Text>
+          <style>Subtitle</style>
+          <text>3. Rondo: Allegro con Fuoco</text>
+          </Text>
+        <Text>
+          <style>Composer</style>
+          <text>Leopold Koželuch</text>
+          </Text>
+        </VBox>
       <Measure len="1/4">
         <irregular>1</irregular>
         <voice>

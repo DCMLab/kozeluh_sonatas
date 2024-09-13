@@ -158,26 +158,28 @@
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
+    <metaTag name="P86 (composer)">Q693843</metaTag>
     <metaTag name="annotators">Adrian Nagel</metaTag>
     <metaTag name="arranger"></metaTag>
-    <metaTag name="composed_end">1806</metaTag>
-    <metaTag name="composed_start">1780</metaTag>
-    <metaTag name="composer">Leopold Kozeluch
-(1747-1818)    </metaTag>
+    <metaTag name="compared_against">LATEST_VERSION</metaTag>
+    <metaTag name="composed_end">1788</metaTag>
+    <metaTag name="composed_start">1788</metaTag>
+    <metaTag name="composer">Leopold Koželuch</metaTag>
     <metaTag name="copyright">© 2006 Daniel Bernhardsson</metaTag>
     <metaTag name="creationDate">2019-01-08</metaTag>
     <metaTag name="harmony_version">2.1.0</metaTag>
     <metaTag name="lyricist"></metaTag>
-    <metaTag name="movementNumber"></metaTag>
-    <metaTag name="movementTitle"></metaTag>
+    <metaTag name="movementNumber">2</metaTag>
+    <metaTag name="movementTitle">Andantino con Variazioni</metaTag>
     <metaTag name="mscVersion">3.02</metaTag>
     <metaTag name="originalFormat">xml</metaTag>
     <metaTag name="platform">Linux</metaTag>
     <metaTag name="poet"></metaTag>
     <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
-    <metaTag name="workNumber"></metaTag>
-    <metaTag name="workTitle">Sonata 2 Op 33</metaTag>
+    <metaTag name="typesetter">Daniel Bernhardsson</metaTag>
+    <metaTag name="workNumber">Op. 26, No. 2</metaTag>
+    <metaTag name="workTitle">Keyboard Sonata No. 2 in A Minor</metaTag>
     <Part>
       <Staff id="1">
         <StaffType group="pitched">
@@ -241,6 +243,22 @@
         </Instrument>
       </Part>
     <Staff id="1">
+      <VBox>
+        <height>14.1767</height>
+        <boxAutoSize>0</boxAutoSize>
+        <Text>
+          <style>Title</style>
+          <text>Keyboard Sonata No. 2 in A Minor, Op. 26, No. 2</text>
+          </Text>
+        <Text>
+          <style>Subtitle</style>
+          <text>2. Andantino con Variazioni</text>
+          </Text>
+        <Text>
+          <style>Composer</style>
+          <text>Leopold Koželuch</text>
+          </Text>
+        </VBox>
       <Measure len="1/4">
         <startRepeat/>
         <irregular>1</irregular>
@@ -256,11 +274,6 @@
           <StaffText>
             <family>FreeSerif</family>
             <text><font size="10.5723"></font><font face="Times New Roman"></font><i>mezza voce</i></text>
-            </StaffText>
-          <StaffText>
-            <family>FreeSerif</family>
-            <offset x="-3.24205" y="-11.252"/>
-            <text><font size="11.5335"></font><font face="Times New Roman"></font><b>Andantino con Variazioni</b></text>
             </StaffText>
           <Tempo>
             <tempo>2.9333333333333331</tempo>
@@ -15895,14 +15908,13 @@
             </Chord>
           </voice>
         </Measure>
-      <Measure len="9/4">
+      <Measure len="11/4">
         <voice>
           <Fermata>
             <subtype>fermataAbove</subtype>
             </Fermata>
           <Chord>
             <durationType>quarter</durationType>
-            <StemDirection>down</StemDirection>
             <Note>
               <pitch>77</pitch>
               <tpc>13</tpc>
@@ -15912,20 +15924,9 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <Tuplet>
-            <normalNotes>16</normalNotes>
-            <actualNotes>23</actualNotes>
-            <baseNote>16th</baseNote>
-            <Number>
-              <style>Tuplet</style>
-              <text>23</text>
-              </Number>
-            <bracketType>2</bracketType>
-            </Tuplet>
           <Chord>
             <small>1</small>
             <durationType>16th</durationType>
-            <StemDirection>down</StemDirection>
             <Note>
               <color r="255" g="0" b="0" a="255"/>
               <pitch>88</pitch>
@@ -15935,41 +15936,6 @@
           <Chord>
             <small>1</small>
             <durationType>16th</durationType>
-            <StemDirection>down</StemDirection>
-            <Note>
-              <pitch>86</pitch>
-              <tpc>16</tpc>
-              </Note>
-            </Chord>
-          <location>
-            <fractions>1/44160</fractions>
-            </location>
-          <Chord>
-            <small>1</small>
-            <durationType>16th</durationType>
-            <StemDirection>down</StemDirection>
-            <Note>
-              <color r="255" g="0" b="0" a="255"/>
-              <pitch>84</pitch>
-              <tpc>14</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <small>1</small>
-            <durationType>16th</durationType>
-            <StemDirection>down</StemDirection>
-            <Note>
-              <pitch>83</pitch>
-              <tpc>19</tpc>
-              </Note>
-            </Chord>
-          <location>
-            <fractions>1/44160</fractions>
-            </location>
-          <Chord>
-            <small>1</small>
-            <durationType>16th</durationType>
-            <StemDirection>down</StemDirection>
             <Note>
               <pitch>86</pitch>
               <tpc>16</tpc>
@@ -15978,42 +15944,63 @@
           <Chord>
             <small>1</small>
             <durationType>16th</durationType>
-            <StemDirection>down</StemDirection>
             <Note>
               <color r="255" g="0" b="0" a="255"/>
               <pitch>84</pitch>
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>1/44160</fractions>
-            </location>
           <Chord>
+            <BeamMode>mid</BeamMode>
             <small>1</small>
             <durationType>16th</durationType>
-            <StemDirection>down</StemDirection>
             <Note>
               <pitch>83</pitch>
               <tpc>19</tpc>
               </Note>
             </Chord>
           <Chord>
+            <BeamMode>mid</BeamMode>
             <small>1</small>
             <durationType>16th</durationType>
-            <StemDirection>down</StemDirection>
+            <Note>
+              <pitch>86</pitch>
+              <tpc>16</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <BeamMode>mid</BeamMode>
+            <small>1</small>
+            <durationType>16th</durationType>
+            <Note>
+              <color r="255" g="0" b="0" a="255"/>
+              <pitch>84</pitch>
+              <tpc>14</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <BeamMode>mid</BeamMode>
+            <small>1</small>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>83</pitch>
+              <tpc>19</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <BeamMode>mid</BeamMode>
+            <small>1</small>
+            <durationType>16th</durationType>
             <Note>
               <color r="255" g="0" b="0" a="255"/>
               <pitch>81</pitch>
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>1/44160</fractions>
-            </location>
           <Chord>
+            <BeamMode>mid</BeamMode>
             <small>1</small>
             <durationType>16th</durationType>
-            <StemDirection>down</StemDirection>
             <Note>
               <Accidental>
                 <subtype>accidentalSharp</subtype>
@@ -16025,20 +16012,15 @@
           <Chord>
             <small>1</small>
             <durationType>16th</durationType>
-            <StemDirection>down</StemDirection>
             <Note>
               <color r="255" g="0" b="0" a="255"/>
               <pitch>81</pitch>
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>1/44160</fractions>
-            </location>
           <Chord>
             <small>1</small>
             <durationType>16th</durationType>
-            <StemDirection>down</StemDirection>
             <Note>
               <pitch>83</pitch>
               <tpc>19</tpc>
@@ -16047,19 +16029,14 @@
           <Chord>
             <small>1</small>
             <durationType>16th</durationType>
-            <StemDirection>down</StemDirection>
             <Note>
               <pitch>77</pitch>
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>1/44160</fractions>
-            </location>
           <Chord>
             <small>1</small>
             <durationType>16th</durationType>
-            <StemDirection>down</StemDirection>
             <Note>
               <color r="255" g="0" b="0" a="255"/>
               <pitch>76</pitch>
@@ -16069,7 +16046,6 @@
           <Chord>
             <small>1</small>
             <durationType>16th</durationType>
-            <StemDirection>down</StemDirection>
             <Note>
               <color r="255" g="0" b="0" a="255"/>
               <Accidental>
@@ -16079,13 +16055,9 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>1/44160</fractions>
-            </location>
           <Chord>
             <small>1</small>
             <durationType>16th</durationType>
-            <StemDirection>down</StemDirection>
             <Note>
               <pitch>77</pitch>
               <tpc>13</tpc>
@@ -16094,20 +16066,15 @@
           <Chord>
             <small>1</small>
             <durationType>16th</durationType>
-            <StemDirection>down</StemDirection>
             <Note>
               <color r="255" g="0" b="0" a="255"/>
               <pitch>76</pitch>
               <tpc>18</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>1/44160</fractions>
-            </location>
           <Chord>
             <small>1</small>
             <durationType>16th</durationType>
-            <StemDirection>down</StemDirection>
             <Note>
               <pitch>74</pitch>
               <tpc>16</tpc>
@@ -16116,41 +16083,6 @@
           <Chord>
             <small>1</small>
             <durationType>16th</durationType>
-            <StemDirection>down</StemDirection>
-            <Note>
-              <color r="255" g="0" b="0" a="255"/>
-              <pitch>72</pitch>
-              <tpc>14</tpc>
-              </Note>
-            </Chord>
-          <location>
-            <fractions>1/44160</fractions>
-            </location>
-          <Chord>
-            <small>1</small>
-            <durationType>16th</durationType>
-            <StemDirection>down</StemDirection>
-            <Note>
-              <pitch>71</pitch>
-              <tpc>19</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <small>1</small>
-            <durationType>16th</durationType>
-            <StemDirection>down</StemDirection>
-            <Note>
-              <pitch>74</pitch>
-              <tpc>16</tpc>
-              </Note>
-            </Chord>
-          <location>
-            <fractions>1/44160</fractions>
-            </location>
-          <Chord>
-            <small>1</small>
-            <durationType>16th</durationType>
-            <StemDirection>down</StemDirection>
             <Note>
               <color r="255" g="0" b="0" a="255"/>
               <pitch>72</pitch>
@@ -16160,50 +16092,49 @@
           <Chord>
             <small>1</small>
             <durationType>16th</durationType>
-            <StemDirection>down</StemDirection>
             <Note>
               <pitch>71</pitch>
               <tpc>19</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>1/44160</fractions>
-            </location>
           <Chord>
             <small>1</small>
             <durationType>16th</durationType>
-            <StemDirection>down</StemDirection>
+            <Note>
+              <pitch>74</pitch>
+              <tpc>16</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <small>1</small>
+            <durationType>16th</durationType>
+            <Note>
+              <color r="255" g="0" b="0" a="255"/>
+              <pitch>72</pitch>
+              <tpc>14</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <small>1</small>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>71</pitch>
+              <tpc>19</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <small>1</small>
+            <durationType>16th</durationType>
             <Note>
               <color r="255" g="0" b="0" a="255"/>
               <pitch>69</pitch>
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <endTuplet/>
-          <location>
-            <fractions>-11/44160</fractions>
-            </location>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>9/4</duration>
-            </Rest>
-          <location>
-            <fractions>-99349/44160</fractions>
-            </location>
-          <Tuplet>
-            <normalNotes>16</normalNotes>
-            <actualNotes>17</actualNotes>
-            <baseNote>16th</baseNote>
-            <Number>
-              <style>Tuplet</style>
-              <text>17</text>
-              </Number>
-            <bracketType>2</bracketType>
-            </Tuplet>
           <Chord>
+            <BeamMode>begin</BeamMode>
             <small>1</small>
             <durationType>16th</durationType>
-            <StemDirection>up</StemDirection>
             <Note>
               <Accidental>
                 <subtype>accidentalSharp</subtype>
@@ -16215,7 +16146,6 @@
           <Chord>
             <small>1</small>
             <durationType>16th</durationType>
-            <StemDirection>up</StemDirection>
             <Note>
               <color r="255" g="0" b="0" a="255"/>
               <pitch>69</pitch>
@@ -16225,7 +16155,6 @@
           <Chord>
             <small>1</small>
             <durationType>16th</durationType>
-            <StemDirection>up</StemDirection>
             <Note>
               <pitch>71</pitch>
               <tpc>19</tpc>
@@ -16234,7 +16163,6 @@
           <Chord>
             <small>1</small>
             <durationType>16th</durationType>
-            <StemDirection>up</StemDirection>
             <Note>
               <pitch>65</pitch>
               <tpc>13</tpc>
@@ -16243,7 +16171,6 @@
           <Chord>
             <small>1</small>
             <durationType>16th</durationType>
-            <StemDirection>up</StemDirection>
             <Note>
               <color r="255" g="0" b="0" a="255"/>
               <pitch>64</pitch>
@@ -16253,7 +16180,6 @@
           <Chord>
             <small>1</small>
             <durationType>16th</durationType>
-            <StemDirection>up</StemDirection>
             <Note>
               <color r="255" g="0" b="0" a="255"/>
               <Accidental>
@@ -16266,7 +16192,6 @@
           <Chord>
             <small>1</small>
             <durationType>16th</durationType>
-            <StemDirection>up</StemDirection>
             <Note>
               <pitch>65</pitch>
               <tpc>13</tpc>
@@ -16275,7 +16200,6 @@
           <Chord>
             <small>1</small>
             <durationType>16th</durationType>
-            <StemDirection>up</StemDirection>
             <Note>
               <color r="255" g="0" b="0" a="255"/>
               <pitch>64</pitch>
@@ -16285,19 +16209,14 @@
           <Chord>
             <small>1</small>
             <durationType>16th</durationType>
-            <StemDirection>up</StemDirection>
             <Note>
               <pitch>62</pitch>
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-371/750720</fractions>
-            </location>
           <Chord>
             <small>1</small>
             <durationType>16th</durationType>
-            <StemDirection>up</StemDirection>
             <Note>
               <color r="255" g="0" b="0" a="255"/>
               <pitch>60</pitch>
@@ -16307,7 +16226,6 @@
           <Chord>
             <small>1</small>
             <durationType>16th</durationType>
-            <StemDirection>up</StemDirection>
             <Note>
               <pitch>59</pitch>
               <tpc>19</tpc>
@@ -16316,7 +16234,6 @@
           <Chord>
             <small>1</small>
             <durationType>16th</durationType>
-            <StemDirection>up</StemDirection>
             <Note>
               <pitch>62</pitch>
               <tpc>16</tpc>
@@ -16325,7 +16242,6 @@
           <Chord>
             <small>1</small>
             <durationType>16th</durationType>
-            <StemDirection>up</StemDirection>
             <Note>
               <color r="255" g="0" b="0" a="255"/>
               <pitch>60</pitch>
@@ -16335,7 +16251,6 @@
           <Chord>
             <small>1</small>
             <durationType>16th</durationType>
-            <StemDirection>up</StemDirection>
             <Note>
               <pitch>59</pitch>
               <tpc>19</tpc>
@@ -16344,7 +16259,6 @@
           <Chord>
             <small>1</small>
             <durationType>16th</durationType>
-            <StemDirection>up</StemDirection>
             <Note>
               <color r="255" g="0" b="0" a="255"/>
               <pitch>57</pitch>
@@ -16354,7 +16268,6 @@
           <Chord>
             <small>1</small>
             <durationType>16th</durationType>
-            <StemDirection>up</StemDirection>
             <Note>
               <Accidental>
                 <subtype>accidentalSharp</subtype>
@@ -16366,7 +16279,6 @@
           <Chord>
             <small>1</small>
             <durationType>16th</durationType>
-            <StemDirection>up</StemDirection>
             <Note>
               <color r="255" g="0" b="0" a="255"/>
               <Accidental>
@@ -16376,14 +16288,12 @@
               <tpc>20</tpc>
               </Note>
             </Chord>
-          <endTuplet/>
           </voice>
         </Measure>
       <Measure>
         <voice>
           <Chord>
             <durationType>eighth</durationType>
-            <StemDirection>up</StemDirection>
             <Note>
               <pitch>52</pitch>
               <tpc>18</tpc>
@@ -16391,7 +16301,6 @@
             </Chord>
           <Chord>
             <durationType>16th</durationType>
-            <StemDirection>up</StemDirection>
             <Note>
               <color r="255" g="0" b="0" a="255"/>
               <Accidental>
@@ -16403,7 +16312,6 @@
             </Chord>
           <Chord>
             <durationType>16th</durationType>
-            <StemDirection>up</StemDirection>
             <Note>
               <Accidental>
                 <subtype>accidentalSharp</subtype>
@@ -16453,9 +16361,12 @@
               <tpc>23</tpc>
               </Note>
             </Chord>
+          <Beam>
+            <StemDirection>up</StemDirection>
+            </Beam>
           <Chord>
             <durationType>16th</durationType>
-            <StemDirection>up</StemDirection>
+            <StemDirection>down</StemDirection>
             <Note>
               <pitch>64</pitch>
               <tpc>18</tpc>
@@ -16463,7 +16374,7 @@
             </Chord>
           <Chord>
             <durationType>16th</durationType>
-            <StemDirection>up</StemDirection>
+            <StemDirection>down</StemDirection>
             <Note>
               <color r="255" g="0" b="0" a="255"/>
               <Accidental>
@@ -16475,7 +16386,7 @@
             </Chord>
           <Chord>
             <durationType>16th</durationType>
-            <StemDirection>up</StemDirection>
+            <StemDirection>down</StemDirection>
             <Note>
               <Accidental>
                 <subtype>accidentalSharp</subtype>
@@ -16486,16 +16397,19 @@
             </Chord>
           <Chord>
             <durationType>16th</durationType>
-            <StemDirection>up</StemDirection>
+            <StemDirection>down</StemDirection>
             <Note>
               <color r="255" g="0" b="0" a="255"/>
               <pitch>69</pitch>
               <tpc>17</tpc>
               </Note>
             </Chord>
+          <Beam>
+            <StemDirection>up</StemDirection>
+            </Beam>
           <Chord>
             <durationType>16th</durationType>
-            <StemDirection>up</StemDirection>
+            <StemDirection>down</StemDirection>
             <Note>
               <pitch>71</pitch>
               <tpc>19</tpc>
@@ -16503,7 +16417,7 @@
             </Chord>
           <Chord>
             <durationType>16th</durationType>
-            <StemDirection>up</StemDirection>
+            <StemDirection>down</StemDirection>
             <Note>
               <color r="255" g="0" b="0" a="255"/>
               <pitch>69</pitch>
@@ -16512,7 +16426,7 @@
             </Chord>
           <Chord>
             <durationType>16th</durationType>
-            <StemDirection>up</StemDirection>
+            <StemDirection>down</StemDirection>
             <Note>
               <pitch>68</pitch>
               <tpc>22</tpc>
@@ -16520,7 +16434,7 @@
             </Chord>
           <Chord>
             <durationType>16th</durationType>
-            <StemDirection>up</StemDirection>
+            <StemDirection>down</StemDirection>
             <Note>
               <color r="255" g="0" b="0" a="255"/>
               <pitch>66</pitch>
@@ -16531,9 +16445,12 @@
         </Measure>
       <Measure>
         <voice>
+          <Beam>
+            <StemDirection>up</StemDirection>
+            </Beam>
           <Chord>
             <durationType>eighth</durationType>
-            <StemDirection>up</StemDirection>
+            <StemDirection>down</StemDirection>
             <Note>
               <pitch>64</pitch>
               <tpc>18</tpc>
@@ -16541,7 +16458,7 @@
             </Chord>
           <Chord>
             <durationType>16th</durationType>
-            <StemDirection>up</StemDirection>
+            <StemDirection>down</StemDirection>
             <Note>
               <color r="255" g="0" b="0" a="255"/>
               <Accidental>
@@ -16553,7 +16470,7 @@
             </Chord>
           <Chord>
             <durationType>16th</durationType>
-            <StemDirection>up</StemDirection>
+            <StemDirection>down</StemDirection>
             <Note>
               <Accidental>
                 <subtype>accidentalSharp</subtype>
@@ -16603,9 +16520,12 @@
               <tpc>23</tpc>
               </Note>
             </Chord>
+          <Beam>
+            <StemDirection>down</StemDirection>
+            </Beam>
           <Chord>
             <durationType>16th</durationType>
-            <StemDirection>down</StemDirection>
+            <StemDirection>up</StemDirection>
             <Note>
               <pitch>76</pitch>
               <tpc>18</tpc>
@@ -16613,7 +16533,7 @@
             </Chord>
           <Chord>
             <durationType>16th</durationType>
-            <StemDirection>down</StemDirection>
+            <StemDirection>up</StemDirection>
             <Note>
               <color r="255" g="0" b="0" a="255"/>
               <Accidental>
@@ -16625,7 +16545,7 @@
             </Chord>
           <Chord>
             <durationType>16th</durationType>
-            <StemDirection>down</StemDirection>
+            <StemDirection>up</StemDirection>
             <Note>
               <Accidental>
                 <subtype>accidentalSharp</subtype>
@@ -16636,7 +16556,7 @@
             </Chord>
           <Chord>
             <durationType>16th</durationType>
-            <StemDirection>down</StemDirection>
+            <StemDirection>up</StemDirection>
             <Note>
               <color r="255" g="0" b="0" a="255"/>
               <pitch>81</pitch>
@@ -16644,6 +16564,7 @@
               </Note>
             </Chord>
           <Chord>
+            <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <StemDirection>down</StemDirection>
             <Note>
@@ -16653,7 +16574,6 @@
             </Chord>
           <Chord>
             <durationType>eighth</durationType>
-            <StemDirection>down</StemDirection>
             <Note>
               <color r="255" g="0" b="0" a="255"/>
               <Accidental>
@@ -18590,7 +18510,6 @@
         <voice>
           <Chord>
             <durationType>16th</durationType>
-            <StemDirection>up</StemDirection>
             <Note>
               <pitch>57</pitch>
               <tpc>17</tpc>
@@ -18598,7 +18517,6 @@
             </Chord>
           <Chord>
             <durationType>16th</durationType>
-            <StemDirection>up</StemDirection>
             <Note>
               <pitch>64</pitch>
               <tpc>18</tpc>
@@ -18606,7 +18524,6 @@
             </Chord>
           <Chord>
             <durationType>16th</durationType>
-            <StemDirection>up</StemDirection>
             <Note>
               <pitch>60</pitch>
               <tpc>14</tpc>
@@ -18614,7 +18531,6 @@
             </Chord>
           <Chord>
             <durationType>16th</durationType>
-            <StemDirection>up</StemDirection>
             <Note>
               <pitch>69</pitch>
               <tpc>17</tpc>
@@ -18622,7 +18538,6 @@
             </Chord>
           <Chord>
             <durationType>16th</durationType>
-            <StemDirection>up</StemDirection>
             <Note>
               <pitch>57</pitch>
               <tpc>17</tpc>
@@ -18630,7 +18545,6 @@
             </Chord>
           <Chord>
             <durationType>16th</durationType>
-            <StemDirection>up</StemDirection>
             <Note>
               <pitch>64</pitch>
               <tpc>18</tpc>
@@ -18638,7 +18552,6 @@
             </Chord>
           <Chord>
             <durationType>16th</durationType>
-            <StemDirection>up</StemDirection>
             <Note>
               <pitch>60</pitch>
               <tpc>14</tpc>
@@ -18646,7 +18559,6 @@
             </Chord>
           <Chord>
             <durationType>16th</durationType>
-            <StemDirection>up</StemDirection>
             <Note>
               <pitch>69</pitch>
               <tpc>17</tpc>
@@ -18654,7 +18566,6 @@
             </Chord>
           <Chord>
             <durationType>16th</durationType>
-            <StemDirection>up</StemDirection>
             <Note>
               <pitch>55</pitch>
               <tpc>15</tpc>
@@ -18662,7 +18573,6 @@
             </Chord>
           <Chord>
             <durationType>16th</durationType>
-            <StemDirection>up</StemDirection>
             <Note>
               <pitch>64</pitch>
               <tpc>18</tpc>
@@ -18670,7 +18580,6 @@
             </Chord>
           <Chord>
             <durationType>16th</durationType>
-            <StemDirection>up</StemDirection>
             <Note>
               <Accidental>
                 <subtype>accidentalSharp</subtype>
@@ -18681,7 +18590,6 @@
             </Chord>
           <Chord>
             <durationType>16th</durationType>
-            <StemDirection>up</StemDirection>
             <Note>
               <pitch>67</pitch>
               <tpc>15</tpc>
@@ -18689,7 +18597,6 @@
             </Chord>
           <Chord>
             <durationType>16th</durationType>
-            <StemDirection>up</StemDirection>
             <Note>
               <pitch>55</pitch>
               <tpc>15</tpc>
@@ -18697,7 +18604,6 @@
             </Chord>
           <Chord>
             <durationType>16th</durationType>
-            <StemDirection>up</StemDirection>
             <Note>
               <pitch>64</pitch>
               <tpc>18</tpc>
@@ -18705,7 +18611,6 @@
             </Chord>
           <Chord>
             <durationType>16th</durationType>
-            <StemDirection>up</StemDirection>
             <Note>
               <pitch>61</pitch>
               <tpc>21</tpc>
@@ -18713,7 +18618,6 @@
             </Chord>
           <Chord>
             <durationType>16th</durationType>
-            <StemDirection>up</StemDirection>
             <Note>
               <pitch>67</pitch>
               <tpc>15</tpc>
@@ -31235,7 +31139,7 @@
             </Chord>
           </voice>
         </Measure>
-      <Measure len="9/4">
+      <Measure len="11/4">
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -31266,6 +31170,14 @@
           <Rest>
             <visible>0</visible>
             <durationType>whole</durationType>
+            </Rest>
+          <Rest>
+            <visible>0</visible>
+            <durationType>quarter</durationType>
+            </Rest>
+          <Rest>
+            <visible>0</visible>
+            <durationType>quarter</durationType>
             </Rest>
           <Rest>
             <visible>0</visible>
@@ -31550,6 +31462,7 @@
               </Note>
             </Chord>
           <Chord>
+            <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <StemDirection>down</StemDirection>
             <Note>

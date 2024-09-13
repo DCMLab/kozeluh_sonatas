@@ -153,32 +153,33 @@
       <usePre_3_6_defaults>1</usePre_3_6_defaults>
       <defaultsVersion>301</defaultsVersion>
       <Spatium>1.55096</Spatium>
-      <romanNumeralPlacement>1</romanNumeralPlacement>
       </Style>
     <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
+    <metaTag name="P86 (composer)">Q693843</metaTag>
     <metaTag name="annotators">Adrian Nagel</metaTag>
     <metaTag name="arranger"></metaTag>
-    <metaTag name="composed_end">1806</metaTag>
-    <metaTag name="composed_start">1780</metaTag>
-    <metaTag name="composer">Leopold Kozeluch
-(1747-1818)    </metaTag>
+    <metaTag name="compared_against">LATEST_VERSION</metaTag>
+    <metaTag name="composed_end">1788</metaTag>
+    <metaTag name="composed_start">1788</metaTag>
+    <metaTag name="composer">Leopold Koželuch</metaTag>
     <metaTag name="copyright">© 2006 Daniel Bernhardsson</metaTag>
     <metaTag name="creationDate">2019-01-08</metaTag>
     <metaTag name="harmony_version">2.1.0</metaTag>
     <metaTag name="lyricist"></metaTag>
-    <metaTag name="movementNumber"></metaTag>
-    <metaTag name="movementTitle"></metaTag>
+    <metaTag name="movementNumber">1</metaTag>
+    <metaTag name="movementTitle">Allegro </metaTag>
     <metaTag name="mscVersion">3.02</metaTag>
     <metaTag name="originalFormat">xml</metaTag>
     <metaTag name="platform">Linux</metaTag>
     <metaTag name="poet"></metaTag>
     <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
-    <metaTag name="workNumber"></metaTag>
-    <metaTag name="workTitle">Sonata 2 Op 33</metaTag>
+    <metaTag name="typesetter">Daniel Bernhardsson</metaTag>
+    <metaTag name="workNumber">Op. 26, No. 2</metaTag>
+    <metaTag name="workTitle">Keyboard Sonata No. 2 in A Minor</metaTag>
     <Part>
       <Staff id="1">
         <StaffType group="pitched">
@@ -243,29 +244,19 @@
       </Part>
     <Staff id="1">
       <VBox>
-        <height>4.7</height>
+        <height>12.9434</height>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Composer</style>
-          <family>FreeSerif</family>
-          <size>12</size>
-          <offset x="6.49307" y="-7.35881"/>
-          <text><font size="9.7485"></font><font face="Times New Roman"></font>Leopold Kozeluch
-(1747-1818)    </text>
+          <text>Leopold Koželuch</text>
           </Text>
         <Text>
           <style>Title</style>
-          <family>FreeSerif</family>
-          <size>24</size>
-          <offset x="-0.288581" y="-8.82452"/>
-          <text><font size="8.9247"></font><font face="Times New Roman"></font>© 2006 Daniel Bernhardsson</text>
+          <text>Keyboard Sonata No. 2 in A Minor, Op. 26, No. 2</text>
           </Text>
         <Text>
           <style>Subtitle</style>
-          <family>FreeSerif</family>
-          <size>14</size>
-          <offset x="0.14429" y="-6.9162"/>
-          <text><font size="19.497"></font><font face="Times New Roman"></font>Sonata 2 Op 33</text>
+          <text>1. Allegro </text>
           </Text>
         </VBox>
       <Measure len="3/8">
@@ -283,15 +274,10 @@
             <family>FreeSerif</family>
             <text><font size="10.5723"></font><font face="Times New Roman"></font><i>mezza voce</i></text>
             </StaffText>
-          <StaffText>
-            <family>FreeSerif</family>
-            <offset x="-16.3048" y="-15.3304"/>
-            <text><font size="11.5335"></font><font face="Times New Roman"></font><b>Allegro</b></text>
-            </StaffText>
           <Tempo>
             <tempo>2</tempo>
             <followText>1</followText>
-            <offset x="-16.6447" y="-17.4176"/>
+            <offset x="-0.707396" y="-4.88758"/>
             <text><sym>metNoteQuarterUp</sym> = 120</text>
             </Tempo>
           <Chord>
@@ -22106,14 +22092,14 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V7(4)</name>
-            </Harmony>
           <Clef>
             <concertClefType>F</concertClefType>
             <transposingClefType>F</transposingClefType>
             </Clef>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V7(4)</name>
+            </Harmony>
           <Chord>
             <dots>1</dots>
             <durationType>half</durationType>
@@ -24318,14 +24304,14 @@
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i</name>
-            </Harmony>
           <Clef>
             <concertClefType>G</concertClefType>
             <transposingClefType>G</transposingClefType>
             </Clef>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
@@ -24825,14 +24811,14 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i</name>
-            </Harmony>
           <Clef>
             <concertClefType>F</concertClefType>
             <transposingClefType>F</transposingClefType>
             </Clef>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i</name>
+            </Harmony>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>

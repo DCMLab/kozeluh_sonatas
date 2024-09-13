@@ -1,6 +1,5 @@
 mc	mn	quarterbeats	quarterbeats_all_endings	duration_qb	mc_onset	mn_onset	event	timesig	staff	voice	duration	nominal_duration	scalar	chord_id	dynamics	articulation	staff_text	tempo	qpm	metronome_base	metronome_number	tempo_visible	slur	decrescendo_hairpin
 1	0	0	0	0.0	0	3/8	StaffText	3/4	1	1	0						"<font size=""17.8494""/><font face=""Opus""/>"							
-1	0	0	0	0.0	0	3/8	StaffText	3/4	1	1	0						"<font size=""11.5335""/><font face=""Times New Roman""/><b>Andante</b>"							
 1	0	0	0	0.0	0	3/8	Tempo	3/4	1	1	0							𝅘𝅥=80	80.0	𝅘𝅥	80.0	1.0		
 1	0	0	0	0.5	0	3/8	Chord	3/4	1	1	1/8	1/8	1	0										
 1	0	1/2	1/2	0.5	1/8	1/2	Chord	3/4	1	1	1/8	1/8	1	1										

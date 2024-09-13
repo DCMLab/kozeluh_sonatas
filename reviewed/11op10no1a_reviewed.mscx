@@ -158,26 +158,32 @@
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
+    <metaTag name="P86 (composer)">Q693843</metaTag>
     <metaTag name="annotators">Adrian Nagel</metaTag>
     <metaTag name="arranger"></metaTag>
-    <metaTag name="composed_end">1806</metaTag>
-    <metaTag name="composed_start">1780</metaTag>
-    <metaTag name="composer">Leopold Kozeluch
-(1747-1818)    </metaTag>
+    <metaTag name="compared_against">LATEST_VERSION</metaTag>
+    <metaTag name="composed_end">1784</metaTag>
+    <metaTag name="composed_start">1784</metaTag>
+    <metaTag name="composer">Leopold Koželuch</metaTag>
     <metaTag name="copyright">© 2005 Daniel Bernhardsson</metaTag>
     <metaTag name="creationDate">2019-01-08</metaTag>
     <metaTag name="harmony_version">2.1.0</metaTag>
+    <metaTag name="imslp">https://imslp.org/wiki/3_Keyboard_Sonatas,_Op.13_(Kozeluch,_Leopold)</metaTag>
     <metaTag name="lyricist"></metaTag>
-    <metaTag name="movementNumber"></metaTag>
-    <metaTag name="movementTitle"></metaTag>
+    <metaTag name="movementNumber">1</metaTag>
+    <metaTag name="movementTitle">Allegro molto</metaTag>
     <metaTag name="mscVersion">3.02</metaTag>
+    <metaTag name="musicbrainz">https://musicbrainz.org/work/36c08f36-5f82-499f-a5d2-be5b3d2fc03a</metaTag>
     <metaTag name="originalFormat">xml</metaTag>
+    <metaTag name="pdf">https://imslp.org/wiki/Special:ReverseLookup/482041</metaTag>
     <metaTag name="platform">Linux</metaTag>
     <metaTag name="poet"></metaTag>
     <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
-    <metaTag name="workNumber"></metaTag>
-    <metaTag name="workTitle">Sonata 1 Op 5</metaTag>
+    <metaTag name="typesetter">Daniel Bernhardsson</metaTag>
+    <metaTag name="viaf">https://viaf.org/viaf/6150382274713500000/</metaTag>
+    <metaTag name="workNumber">Op. 10, No. 1</metaTag>
+    <metaTag name="workTitle">Keyboard Sonata No. 1 in E-flat Major</metaTag>
     <Part>
       <Staff id="1">
         <StaffType group="pitched">
@@ -242,29 +248,19 @@
       </Part>
     <Staff id="1">
       <VBox>
-        <height>4.7</height>
+        <height>15.1417</height>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Composer</style>
-          <family>FreeSerif</family>
-          <size>12</size>
-          <offset x="0.14429" y="-4.61729"/>
-          <text><font size="9.7485"></font><font face="Times New Roman"></font>Leopold Kozeluch
-(1747-1818)    </text>
+          <text>Leopold Koželuch</text>
           </Text>
         <Text>
           <style>Title</style>
-          <family>FreeSerif</family>
-          <size>24</size>
-          <offset x="-0.288581" y="-7.44907"/>
-          <text><font size="8.9247"></font><font face="Times New Roman"></font>© 2005 Daniel Bernhardsson</text>
+          <text>Keyboard Sonata No. 1 in E-flat Major, Op. 10, No. 1</text>
           </Text>
         <Text>
           <style>Subtitle</style>
-          <family>FreeSerif</family>
-          <size>14</size>
-          <offset x="0" y="-5.90617"/>
-          <text><font size="19.497"></font><font face="Times New Roman"></font>Sonata 1 Op 5</text>
+          <text>1. Allegro molto</text>
           </Text>
         </VBox>
       <Measure>

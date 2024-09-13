@@ -158,26 +158,29 @@
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
+    <metaTag name="P86 (composer)">Q693843</metaTag>
     <metaTag name="annotators">Adrian Nagel</metaTag>
     <metaTag name="arranger"></metaTag>
-    <metaTag name="composed_end">1806</metaTag>
-    <metaTag name="composed_start">1780</metaTag>
-    <metaTag name="composer">Leopold Kozeluch
-(1747-1818)    </metaTag>
+    <metaTag name="compared_against">LATEST_VERSION</metaTag>
+    <metaTag name="composed_end">1788</metaTag>
+    <metaTag name="composed_start">1788</metaTag>
+    <metaTag name="composer">Leopold Koželuch</metaTag>
     <metaTag name="copyright">© 2005 Daniel Bernhardsson</metaTag>
     <metaTag name="creationDate">2019-01-08</metaTag>
     <metaTag name="harmony_version">2.1.0</metaTag>
     <metaTag name="lyricist"></metaTag>
-    <metaTag name="movementNumber"></metaTag>
-    <metaTag name="movementTitle"></metaTag>
+    <metaTag name="movementNumber">2</metaTag>
+    <metaTag name="movementTitle">Adagio</metaTag>
     <metaTag name="mscVersion">3.02</metaTag>
     <metaTag name="originalFormat">xml</metaTag>
     <metaTag name="platform">Linux</metaTag>
     <metaTag name="poet"></metaTag>
     <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
-    <metaTag name="workNumber"></metaTag>
-    <metaTag name="workTitle">Sonata 1 Op 33</metaTag>
+    <metaTag name="typesetter">Daniel Bernhardsson</metaTag>
+    <metaTag name="viaf">https://viaf.org/viaf/180342111/</metaTag>
+    <metaTag name="workNumber">Op. 26, No. 1</metaTag>
+    <metaTag name="workTitle">Keyboard Sonata No. 1 in D Major</metaTag>
     <Part>
       <Staff id="1">
         <StaffType group="pitched">
@@ -241,6 +244,22 @@
         </Instrument>
       </Part>
     <Staff id="1">
+      <VBox>
+        <height>14.7262</height>
+        <boxAutoSize>0</boxAutoSize>
+        <Text>
+          <style>Title</style>
+          <text>Keyboard Sonata No. 1 in D Major, Op. 26, No. 1</text>
+          </Text>
+        <Text>
+          <style>Subtitle</style>
+          <text>2. Adagio</text>
+          </Text>
+        <Text>
+          <style>Composer</style>
+          <text>Leopold Koželuch</text>
+          </Text>
+        </VBox>
       <Measure>
         <voice>
           <KeySig>
@@ -252,11 +271,6 @@
             <sigN>2</sigN>
             <sigD>2</sigD>
             </TimeSig>
-          <StaffText>
-            <family>FreeSerif</family>
-            <offset x="-2.80007" y="-9.03832"/>
-            <text><font size="11.5335"></font><font face="Times New Roman"></font><b>Adagio</b></text>
-            </StaffText>
           <Tempo>
             <tempo>1.1000000000000001</tempo>
             <followText>1</followText>
@@ -7224,7 +7238,6 @@
             </Rest>
           <Chord>
             <durationType>quarter</durationType>
-            <StemDirection>up</StemDirection>
             <Note>
               <color r="255" g="0" b="0" a="255"/>
               <pitch>56</pitch>
@@ -7233,21 +7246,18 @@
             </Chord>
           <Rest>
             <visible>0</visible>
-            <durationType>quarter</durationType>
-            </Rest>
-          <location>
-            <fractions>-1/8</fractions>
-            </location>
-          <Rest>
             <durationType>eighth</durationType>
             </Rest>
           <Rest>
-            <dots>1</dots>
-            <durationType>quarter</durationType>
+            <durationType>eighth</durationType>
             </Rest>
-          <location>
-            <fractions>-1/8</fractions>
-            </location>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Note>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              </Note>
+            </Chord>
           <Rest>
             <visible>0</visible>
             <durationType>eighth</durationType>
@@ -7260,7 +7270,6 @@
             </Rest>
           <Chord>
             <durationType>eighth</durationType>
-            <StemDirection>down</StemDirection>
             <Note>
               <color r="255" g="0" b="0" a="255"/>
               <pitch>56</pitch>
@@ -7269,7 +7278,6 @@
             </Chord>
           <Chord>
             <durationType>eighth</durationType>
-            <StemDirection>down</StemDirection>
             <Note>
               <pitch>59</pitch>
               <tpc>19</tpc>
@@ -7277,18 +7285,17 @@
             </Chord>
           <Chord>
             <durationType>eighth</durationType>
-            <StemDirection>down</StemDirection>
             <Note>
               <pitch>64</pitch>
               <tpc>18</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
+          <Rest>
+            <visible>0</visible>
+            <durationType>eighth</durationType>
+            </Rest>
           <Chord>
             <durationType>eighth</durationType>
-            <StemDirection>down</StemDirection>
             <Note>
               <pitch>57</pitch>
               <tpc>17</tpc>
@@ -7296,7 +7303,6 @@
             </Chord>
           <Chord>
             <durationType>eighth</durationType>
-            <StemDirection>down</StemDirection>
             <Note>
               <pitch>61</pitch>
               <tpc>21</tpc>
@@ -7304,7 +7310,6 @@
             </Chord>
           <Chord>
             <durationType>eighth</durationType>
-            <StemDirection>down</StemDirection>
             <Note>
               <pitch>64</pitch>
               <tpc>18</tpc>
@@ -7319,7 +7324,6 @@
             </Rest>
           <Chord>
             <durationType>quarter</durationType>
-            <StemDirection>up</StemDirection>
             <Note>
               <pitch>54</pitch>
               <tpc>20</tpc>
@@ -7327,21 +7331,18 @@
             </Chord>
           <Rest>
             <visible>0</visible>
-            <durationType>quarter</durationType>
-            </Rest>
-          <location>
-            <fractions>-1/8</fractions>
-            </location>
-          <Rest>
             <durationType>eighth</durationType>
             </Rest>
           <Rest>
-            <dots>1</dots>
-            <durationType>quarter</durationType>
+            <durationType>eighth</durationType>
             </Rest>
-          <location>
-            <fractions>-1/8</fractions>
-            </location>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Note>
+              <pitch>56</pitch>
+              <tpc>22</tpc>
+              </Note>
+            </Chord>
           <Rest>
             <visible>0</visible>
             <durationType>eighth</durationType>
@@ -7354,7 +7355,6 @@
             </Rest>
           <Chord>
             <durationType>eighth</durationType>
-            <StemDirection>down</StemDirection>
             <Note>
               <pitch>54</pitch>
               <tpc>20</tpc>
@@ -7362,7 +7362,6 @@
             </Chord>
           <Chord>
             <durationType>eighth</durationType>
-            <StemDirection>down</StemDirection>
             <Note>
               <pitch>61</pitch>
               <tpc>21</tpc>
@@ -7370,18 +7369,17 @@
             </Chord>
           <Chord>
             <durationType>eighth</durationType>
-            <StemDirection>down</StemDirection>
             <Note>
               <pitch>66</pitch>
               <tpc>20</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
+          <Rest>
+            <visible>0</visible>
+            <durationType>eighth</durationType>
+            </Rest>
           <Chord>
             <durationType>eighth</durationType>
-            <StemDirection>down</StemDirection>
             <Note>
               <pitch>56</pitch>
               <tpc>22</tpc>
@@ -7389,7 +7387,6 @@
             </Chord>
           <Chord>
             <durationType>eighth</durationType>
-            <StemDirection>down</StemDirection>
             <Note>
               <pitch>59</pitch>
               <tpc>19</tpc>
@@ -7397,7 +7394,6 @@
             </Chord>
           <Chord>
             <durationType>eighth</durationType>
-            <StemDirection>down</StemDirection>
             <Note>
               <Accidental>
                 <subtype>accidentalSharp</subtype>
