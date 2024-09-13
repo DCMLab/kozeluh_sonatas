@@ -14,8 +14,7 @@ For information on how to obtain and use the dataset, please refer to [this docu
 
 # Leopold Koželuch – Piano Sonatas
 
-
-## Cite as
+Bohemian composer Leopold Koželuch had a way of repeatedly crossing paths with Mozart. Both composers were successively offered the same court position in two different instances (by the Archbishop of Salzburg and by Emperor Franz II). Koželuch's own music is however radically different, with many passages in these sonatas foreshadowing instead the tragic drama of Beethoven and von Weber. The annotations here investigate the chromatic shocks that support this tortured expression, incorporating disjunct successions and augmented sonorities that enact a significant break from the elegant and genteel vocabulary usually associated with Viennese classicism.
 
 ## Version history
 
