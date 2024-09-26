@@ -177,8 +177,6 @@
       "name": "Johannes Hentschel",
       "@id": "https://orcid.org/0000-0002-1986-9545"
     },
-    "softwareVersion": "2.5.2"
-  },
-  "git_revision": "e7a3c085c33040cad6300047328fc4855b0a1621",
-  "git_tag": "v2.0-8-ge7a3c08"
+    "softwareVersion": "0.0.post1.dev1+gefb3558"
+  }
 }

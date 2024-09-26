@@ -161,7 +161,6 @@
     <metaTag name="P86 (composer)">Q693843</metaTag>
     <metaTag name="annotators">Adrian Nagel</metaTag>
     <metaTag name="arranger"></metaTag>
-    <metaTag name="compared_against">LATEST_VERSION</metaTag>
     <metaTag name="composed_end">1784</metaTag>
     <metaTag name="composed_start">1784</metaTag>
     <metaTag name="composer">Leopold Koželuch</metaTag>
@@ -5173,12 +5172,10 @@
               </Spanner>
             <StemDirection>down</StemDirection>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>71</pitch>
               <tpc>19</tpc>
               </Note>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>74</pitch>
               <tpc>16</tpc>
               </Note>
@@ -5190,7 +5187,6 @@
             <durationType>eighth</durationType>
             <StemDirection>down</StemDirection>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>71</pitch>
               <tpc>19</tpc>
               </Note>
@@ -5242,7 +5238,6 @@
               <tpc>14</tpc>
               </Note>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>76</pitch>
               <tpc>18</tpc>
               </Note>
@@ -9192,6 +9187,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>I[I</name>
+            <offset x="0" y="5.5"/>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -9261,38 +9257,30 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V7/IV</name>
+            <offset x="0" y="5.5"/>
+            </Harmony>
+          <Chord>
+            <durationType>half</durationType>
+            <duration>1/4</duration>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <pitch>43</pitch>
+              <tpc>15</tpc>
+              </Note>
+            <Tremolo>
+              <subtype>c16</subtype>
+              </Tremolo>
+            </Chord>
           <location>
             <fractions>-1/8</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>IV6</name>
-            </Harmony>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V7/IV</name>
-            </Harmony>
-          <Chord>
-            <durationType>half</durationType>
-            <duration>1/4</duration>
-            <StemDirection>up</StemDirection>
-            <Note>
-              <pitch>43</pitch>
-              <tpc>15</tpc>
-              </Note>
-            <Tremolo>
-              <subtype>c16</subtype>
-              </Tremolo>
-            </Chord>
-          <location>
-            <fractions>-1/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>IV</name>
+            <offset x="0" y="5.5"/>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
@@ -9306,36 +9294,46 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
+          <location>
+            <fractions>-1/8</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>IV</name>
+            <offset x="0" y="5.5"/>
+            </Harmony>
           </voice>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I(#4#2)</name>
+            <offset x="0" y="5.5"/>
+            </Harmony>
+          <Chord>
+            <durationType>half</durationType>
+            <duration>1/4</duration>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <pitch>43</pitch>
+              <tpc>15</tpc>
+              </Note>
+            <Tremolo>
+              <subtype>c16</subtype>
+              </Tremolo>
+            </Chord>
           <location>
             <fractions>-1/8</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>I</name>
+            <offset x="0" y="5.5"/>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
             </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>I(#4#2)</name>
-            </Harmony>
-          <Chord>
-            <durationType>half</durationType>
-            <duration>1/4</duration>
-            <StemDirection>up</StemDirection>
-            <Note>
-              <pitch>43</pitch>
-              <tpc>15</tpc>
-              </Note>
-            <Tremolo>
-              <subtype>c16</subtype>
-              </Tremolo>
-            </Chord>
           <Chord>
             <durationType>half</durationType>
             <duration>1/4</duration>
@@ -9349,19 +9347,10 @@
         </Measure>
       <Measure>
         <voice>
-          <location>
-            <fractions>-1/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>IV</name>
-            </Harmony>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V+/IV</name>
+            <offset x="0" y="5.5"/>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -9374,6 +9363,26 @@
             <Tremolo>
               <subtype>c16</subtype>
               </Tremolo>
+            </Chord>
+          <location>
+            <fractions>-1/8</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>IV</name>
+            <offset x="0" y="5.5"/>
+            </Harmony>
+          <location>
+            <fractions>1/8</fractions>
+            </location>
+          <Chord>
+            <durationType>half</durationType>
+            <duration>1/4</duration>
+            <StemDirection>up</StemDirection>
+            <Note>
+              <pitch>55</pitch>
+              <tpc>15</tpc>
+              </Note>
             </Chord>
           <location>
             <fractions>-1/8</fractions>
@@ -9381,20 +9390,8 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>viio64</name>
-            <offset x="-1.3" y="-5"/>
+            <offset x="0" y="5.5"/>
             </Harmony>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Chord>
-            <durationType>half</durationType>
-            <duration>1/4</duration>
-            <StemDirection>up</StemDirection>
-            <Note>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              </Note>
-            </Chord>
           </voice>
         </Measure>
       <Measure>
@@ -9402,6 +9399,8 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>I]\\</name>
+            <minDistance>0.332519</minDistance>
+            <offset x="0" y="5.5"/>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
