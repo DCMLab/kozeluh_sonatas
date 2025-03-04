@@ -161,6 +161,7 @@
     <metaTag name="P86 (composer)">Q693843</metaTag>
     <metaTag name="annotators">Adrian Nagel</metaTag>
     <metaTag name="arranger"></metaTag>
+    <metaTag name="compared_against">LATEST_VERSION</metaTag>
     <metaTag name="composed_end">1784</metaTag>
     <metaTag name="composed_start">1784</metaTag>
     <metaTag name="composer">Leopold Koželuch</metaTag>
